@@ -1,0 +1,101 @@
+category	form	gloss	context_of_use	children	notes
+
+CLASSIFIER	ix	female	marks female referents: ix nene' 'the girl', ix ana 'Ana', ix hanun 'your mother'	all older children	very high frequency; basic Chuj noun phrase structure
+CLASSIFIER	winh	male	marks male referents: winh hinmam 'my dad', winhaj matin 'Mateo'	Yeseña, Mateo, Isabel	winhaj form appears in names
+CLASSIFIER	nok'	animal/round	animals and round objects: nok' wol 'ball', nok' chej 'horse', nok' tz'i 'dog', nok' hamono 'your monkey'	Mateo, Yeseña, Francisco	extends to toys
+CLASSIFIER	k'en	small/vehicle	small objects and vehicles: k'en karro 'car', k'en helecopter, malaj k'en 'there isn't one'	Mateo, Brendo, Yeseña
+
+KINSHIP NOUN	nunin	mamá	vocative and referential: calling mother	Mateo, Isabel, Yeseña	most frequent noun
+KINSHIP NOUN	nun	mamá (short)	same as nunin; ix hanun 'your mother'	Yeseña, Mateo, Isabel	possessed form often hanun
+KINSHIP NOUN	mamin	papá	winh hamam 'your dad', winh hinmam 'my dad'	Yeseña, Isabel, Mateo	possessed form hamam
+KINSHIP NOUN	mama	mami	vocative: mama hi wa'ok 'mami I'm going to eat'	Mateo	informal/baby form
+KINSHIP NOUN	nene'	baby/child	ix nene' 'the girl/baby'	Mateo, Yeseña, Isabel	with ix classifier for female
+KINSHIP NOUN	nulej	hermana	nulej ni hatek 'hermana here's your food'	Yeseña	only Yeseña; she has a baby sister
+
+COMMON NOUN	wol	pelota/ball	nok' hin wol 'my ball', tek' wol 'kick the ball'	Mateo, Francisco	with nok' classifier
+COMMON NOUN	karro	car	hin karro 'my car', k'en karro 'the car'	Mateo, Isabel, Yeseña	Spanish loan; takes k'en classifier
+COMMON NOUN	te'	stick/tree	object in play contexts	Yeseña, Mateo
+COMMON NOUN	tumin	money	pretend play: giving/receiving money	Mateo
+COMMON NOUN	kape	coffee	kokape 'our coffee'; pretend cooking play	Yeseña	with ko- 1PL possessive
+COMMON NOUN	mansan	manzana	food play contexts	Yeseña	Spanish loan
+COMMON NOUN	xapon	jabón/soap	washing/play	Yeseña	Spanish loan
+COMMON NOUN	tek	comida/food	hin tek 'my food', hatek 'your food', stek 'her food'	Yeseña, Mateo	always possessed in data
+COMMON NOUN	uk'ab'	plato/plate	ikot uk'ab' 'bring the plate'	Yeseña	in pretend cooking play
+COMMON NOUN	paj'ich	tomate	yet' paj'ich 'with tomato'	Yeseña	cooking play
+COMMON NOUN	ich	chile	naming food items	Yeseña
+COMMON NOUN	chej	caballo/horse	nok' hachej 'your horse'	Brendo, Isabel	toy horse; nok' classifier
+COMMON NOUN	jolom	cabeza/head	ya ha jolom 'your head hurts'	Mateo	body part
+COMMON NOUN	womba	bomba/bomb	ha womba 'it's a bomb'	Mateo	toy; Spanish loan
+COMMON NOUN	put	fútbol	wak' put 'I'll play football'	Mateo	Spanish loan
+COMMON NOUN	papis	tortilla	kopapis 'our tortillas', kak'och kopapis 'let's make tortillas'	Yeseña	in pretend cooking; variant of wa'il
+
+PROPER NAME	otela	Otela (dog)	calling the dog	Mateo	very frequent for Mateo
+PROPER NAME	ana	Ana	ix ana	Mateo, Yeseña	with ix classifier
+PROPER NAME	edwinh	Edvin	kak' wol edwinh 'let's play ball Edvin'	Mateo	playmate
+PROPER NAME	yadira	Yadira	b'at ak' stek ix Yadira 'go give Yadira her food'	Yeseña
+PROPER NAME	ewin	Eva	elanh ewin 'get out Eva'	Yeseña
+PROPER NAME	geni	Geni	vocative	Isabel
+PROPER NAME	lina	Lina/Axul	vocative	Isabel
+
+QUESTION WORD	hoy	qué/what	¿hoy? 'what?'; overwhelmingly Mateo	Mateo (vast majority)	most frequent form in corpus; often standalone
+QUESTION WORD	tas	qué/what	tas? 'what?'; tas sb'i 'what's its name'	Mateo, Isabel	more integrated syntactically than hoy
+QUESTION WORD	b'ajay	dónde/where	b'ajay k'en? 'where is it?'; children mostly answering, not asking	Mateo, Yeseña, Francisco	adults ask this constantly
+QUESTION WORD	mach	quién/who	mostly in adult speech; children echo it	Brendo
+
+NEGATION	ma'ay	no	standalone refusal and clausal negation	all children	second most common item after hoy
+NEGATION	malaj	no hay/not exist	malaj nok' 'it's not there', malaj ix 'she's not here'	Mateo, Isabel, Brendo	existential negation
+
+AFFIRMATION	hi'	sí/yes	standalone response	Mateo (dominant), Isabel, Yeseña
+AFFIRMATION	i'	sí/yes	same function as hi'	Yeseña, Mateo	possibly a variant
+AFFIRMATION	telan	verdad/truly	ji telan 'yes truly'	from adult input	rare in child speech
+
+PERSON MARKER (Set A)	hin-	1SG my/I	possessive: hin karro, hin wol, hin tek; ergative: hinkuch 'I carry'	Mateo (dominant)	very productive for Mateo; mostly possessive
+PERSON MARKER (Set A)	ha-	2SG your/you	possessive: hamam 'your dad', hamono 'your monkey', hachej 'your horse'	all children	often in adult-directed forms the child repeats
+PERSON MARKER (Set A)	s-/y-	3SG his/her/its	sb'at 'it goes', sb'i 'its name', yak'ani 'he did it', stek 'her food'	Mateo, Yeseña	harder to count; false positives from Spanish
+PERSON MARKER (Set A)	ko-	1PL our/we	kopapis 'our tortillas', kokape 'our coffee'	Yeseña	almost exclusively in cooking play
+
+INDEPENDENT PRONOUN	ha'in	yo/I	ha'in 'me/I'; ha'in xo 'now me/my turn'	Yeseña, Mateo	turn-taking and possession claims
+
+DEICTIC	tik	this/here	ha nok' tik 'it's this one', nitik 'here it is'	all older children	proximal
+DEICTIC	chi'	there	in nok' chi' 'it's there', ni sb'at k'en karro chi' 'the car goes there'	all older children	distal
+DEICTIC	ni	here/take	ni 'take this', ni wol 'here's the ball'	all children	presentation/offering
+DEICTIC	ni'i	mirá/look/take	ni'i 'look!' or 'here, take it'	Mateo (dominant)	attention-getting
+DEICTIC	junchi'	that one	pointing/selecting	Mateo
+DEICTIC	nitik	right here	nnitik 'right here'	Yeseña	compound of ni + tik
+
+LOCATIVE/PREPOSITION	t'ay	at/there	ha t'ay chi' 'it's over there'; t'ayin 'with me/at me'	Mateo, Yeseña	locative preposition; takes person suffixes
+LOCATIVE/PREPOSITION	t'a	at	short form of t'ay	Yeseña, Mateo, Isabel
+
+MOTION VERB	b'at	go	b'at wil ix nene' 'go see the girl'	Mateo, Yeseña, Isabel	very common; often in serial-verb-like sequences
+MOTION VERB	lemach	come/ven	imperative: lemach 'come here!'	Mateo (dominant)	directional imperative
+MOTION VERB	lem	come (short)	lem an 'come then'	Mateo, Isabel
+MOTION VERB	elanh	get out/quítate	imperative: elanh 'get out!'	Mateo, Yeseña, Francisco
+MOTION VERB	sb'at	it goes (3SG)	sb'at k'en karro 'the car goes'	Mateo	with 3SG s- prefix
+MOTION VERB	ikot/ekut	bring/push	ikot han 'bring it'; ekut t'ayin 'push toward me'	Mateo, Yeseña, Isabel	directional verb
+
+ACTION VERB	tajnel	play/jugar	kak' tajnel 'let's play'	Mateo, Yeseña	almost always with kak'
+ACTION VERB	tek'	kick/patear	tek' wol 'kick the ball'	Mateo, Yeseña	sports play
+ACTION VERB	yam	grab/agarrar	yam chi an 'grab that'	Mateo
+ACTION VERB	kuch	carry/cargar	hinkuch ix 'I carry her'	Isabel	Isabel's first utterance in CI120711
+ACTION VERB	lolon	talk/hablar	ma tach loloni 'do you talk?'	from adult input	adults urge children to talk; rarely child-initiated
+ACTION VERB	wil	see/ver	b'at wil 'go see'	Mateo
+ACTION VERB	ak'	give/dar	ol wak' 'I'll give'	Mateo, Yeseña	with ol (prospective)
+ACTION VERB	wayok	sleep/dormir	olach wayok 'you'll sleep'	from adult input	adults telling children to sleep
+ACTION VERB	wa'ok	eat/comer	hi wa'ok 'I'll eat'	Mateo
+ACTION VERB	kak'	let's play/do	kak' tajnel 'let's play', kak' wol 'let's play ball', kak'och 'let's make'	Mateo, Yeseña	1PL imperative/hortative; extremely frequent
+
+DISCOURSE PARTICLE	an	sentence-final	marks end of clause: yam chi an 'grab that then'	Mateo (dominant)	pragmatic; roughly 'then/pues'
+DISCOURSE PARTICLE	han	pues	hinkuch ix han 'I'll carry her then'	Yeseña, Mateo, Isabel	often clause-final
+DISCOURSE PARTICLE	xa chi	quotative/decí	lemach xa chi 'come, tell him'; always in reported imperative contexts	all children	adults use constantly when directing children to speak
+DISCOURSE PARTICLE	jun	emphatic/pues	clause-final	Mateo, Yeseña
+DISCOURSE PARTICLE	xo	more/another	junxo 'another one', ha'in xo 'now me'	Mateo, Yeseña	additive
+
+ASPECT/MOOD	ol	prospective/future	ol wak' 'I will give', olach wayok 'you will sleep'	Mateo, Yeseña	preverbal
+ASPECT/MOOD	to	because/complementizer	to wik k'ak payu' tik 'it's mine the handkerchief'	Isabel, Mateo	clause-initial
+
+INTERJECTION	yo	oh!/ho!	exclamation; NOT a Chuj morpheme	Mateo (dominant)	Spanish; massive false positive for 3SG y- in script
+INTERJECTION	weno	bueno	agreement/acknowledgment: weno 'OK'	Yeseña (dominant), Mateo	Spanish loan fully integrated
+INTERJECTION	ho	oh!	surprise	Isabel
+INTERJECTION	ay	ah!/ouch	pain or surprise	Mateo, Isabel
+INTERJECTION	hann	car sound	onomatopoeia: playing with toy cars	Isabel	false positive for ha- 2SG in script
+INTERJECTION	punh	bang	onomatopoeia	Mateo, Francisco

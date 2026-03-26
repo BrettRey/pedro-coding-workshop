@@ -1,0 +1,6743 @@
+I(Isa-sujeto principal: fecha de nacimiento: 12-noviembre-2009. edad: 2;0.22 años;meses.días. sexo: femenino)
+A(madre de I)
+A(tía de I)
+J(tía de I)
+R(abuela de I)
+F(vecino, edad: 5 años)
+G(investigador Chuj)
+N(tío de I, edad: 1;8.0)
+L(investigador Chuj)
++código CI120711
++ duración de grabación: 1:00.02 (hora:minutos.segundos)
++ transcrito por: Gaspar Pérez Jorge
++ grabaciones hechas por: Nicolás Alonzo Gómez y Gaspar Pérez Jorge
++ idioma: Chuj de San Mateo Ixtatán, Huehuetenango, Guatemala
+
++ ( ).
++ ruido.
+A kuch ix han, kuch ix a.
+ = kuch ix han, kuch ix han.
+ %spa cárgala pues, cárgala pues.
+I luktzi.
+ = hinkuch ix han.
+ %spa la cargo pues.
++ ruido.
+I pay.
+ = payu'.
+ %spa panuelo.
+I tooo uuuuupaayyy.
+ = to wik k'ak payu' tik.
+ %spa es que es mío el panuelo.
++ ruido.
+A t'a'.
+ = ixta'.
+ %spa ya está.
++ ruido.
+I aj vipa'
+ = ak'kot wib'an o ak'kot t'a yich hinpatik.
+ %spa damelo en la espalda.
++ ( ).
++ ( ) tosea.
++ ruido.
++ ( ) tosea.
++ ruido.
+A b'at akalo, b'at akalo.
+ = b'at ak'karro, b'at ak'karro.
+ %spa ve ha jugar carro, ve ha jugar carro.
++ ( ).
++ se escucha ruido.
+A heman pipis xa chi t'a waj pin.
+ = heman k'ojan xa chi t'a winhaj Xapin.
+ %spa sentate decí ha Sebastián.
++ se escucha ruido.
+A lem xa chi'.
+ = lemach xa chi'.
+ %spa ven o veni decí.
++ ruido.
++ se escuchan ruidos de juguetes.
+I halll.
+ = hann (sonido de los carros).
+ %spa hann (sonido de los carros).
++ ruido.
+I hann hannnnnnn.
+ = hann hannnnnnn.
+ %spa hann hannnnnnn. (sonido de los carros).
++ se escuchan ruidos.
+A xji'.
+ = ( ).
+ %spa ( ).
+J tzan lanhwi'.
+ = ( ).
+ %spa ( ).
+A spatchi sko tajni' juntzachi totonam skixwi winh.
+ = ( ).
+ %spa ( ).
+I ni'.
+ = ni'.
+ %spa ten.
+J ji talan.
+ = i' telan.
+ %spa si verdad.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos y golpes.
+A hikelta winh.
+ = hik'elta winh.
+ %spa sacá ha él.
++ ( ).
+J hagan chi haga'.
+ = hak'an xi, hak'a.
+ %spa hazlo pues dice, hazlo.
++ ruido.
++ se escuchan ruidos de los zapatos al momento de que el niño camina.
+J pepel k'e'anh wanh.
+ = Xepel k'e'anh wanh.
+ %spa I levantate.
+A pipis xa chi'.
+ = emanhk'ojan xa chi'.
+ %spa sentate decí.
+A pepel xac chii.
+ = Xepel xa chi.
+ %spa I decí.
++ ruido.
+A empipiss.
+ = emank'ojan.
+ %spa sentate.
++ se escucha ruido.
+A b'aj ix k'och ix Malpal.
+ = b'aj ix k'och ix Malpal.
+ %spa donde se fue María (A).
+I mamay ixxx.
+ = malaj ix.
+ %spa ella no está.
+A mama ixx.
+ = malaj ix.
+ %spa no está ella.
++ se escuchan ruidos.
+A xal ix Malpel aj ix k'och ix.
+ = xal ix Malpel b'aj ix k'och ix.
+ %spa y María donde  se fue ella.
+N caballoo.
+ = chej.
+ %spa caballo.
++ ruido.
+J iwanok' b'at ak'caballo yet' ix pepel i'.
+ = ik'b'at nok', b'at ak'chej yet' ix Xepel i'.
+ %spa llevalo, ve ha jugar caballo con I si.
+A i'iiiiiii' ( ).
+ = i'iiiiiiii' ( ).
+ %spa si ( ).
++ ruido.
++ ( ).
++ se escuchan ruido y voces que no se capta de quien es.
+A ak' smimi ix, ak' smimi ix.
+ = ak' yim ix, ak' yim ix.
+ %spa dale de mamar ha ella, dale de mamar ha ella.
++ se escucha ruido.
+A ak' smimi' ixxx.
+ = ak' yim ix.
+ %spa dale de mamar ha ella.
+N ko'ochi.
+ = tzonh hochi'.
+ %spa nos metemos.
+A mimi' xa chi.
+ = wim xa chi.
+ %spa mi pecho decí.
++ se escucha ruido y de los zapatos del niño.
+A tzin xa chi t'ay hanene', tzin xa chi.
+ = tzin xa chi t'ay hune', tzin xa chi.
+ %spa silencio decí a tu nene, silencio decí.
++ se escuchan ruidos y ruidos de los zapatos del niño al momento de 
+  caminar.
+I pin.
+ = Xapin.
+ %spa Sebastián.
++ se escucha ruido.
+I u u' (empieza ha chillar).
+ = ( ).
+ %spa ( ).
++ se escucha ruido y ruido de golpes con el carro de juguetes.
+J pel xa chi.
+ = Xepel xa chi.
+ %spa I decí.
+L nena, nena.
+ = ix yune' ix yune'.
+ %spa nena, nena.
+L b'ay ix mama.
+ = b'ajay ix konun.
+ %spa donde está nuestra mamá.
++ ruido.
+I nana ixxx.
+ = malaj ix.
+ %spa no está ella.
++ ruido.
+L b'ajti ixkoch ix.
+ = b'ajtil ixkoch ix.
+ %spa donde se fue ella.
++ ruido.
+I hi.
+ = i'.
+ %spa si.
++ ruido.
+L b'ajti ixkoch ix.
+ = b'ajtil ixkoch ix.
+ %spa donde se fue ella.
+A b'aj ixkoch ix.
+ = b'ajtil ixkoch ix.
+ %spa donde se fue ella.
++ se escucha ruido.
+J aj xi mama.
+ = b'ajay ix konun.
+ %spa donde está nuestra madre.
+A ajay winh papa.
+ = b'ajay winh hamam.
+ %spa donde está tu papá.
+I maaya'.
+ = nunin.
+ %spa mamá.
++ ( ).
++ se escucha ruido.
+A xal ix Sanra b'ajay ixxxx.
+ = xal ix Sandra b'ajay ix.
+ %spa y Sandra donde está.
+I ( ).
+ = ( ).
+ %spa ( ).
+J jijijm.
+ = ( ).
+ %spa ( ).
++ ruido.
++ ( ).
++ ruido.
+J jii.
+ = ( ).
+ %spa ( ).
++ ruido.
+A se rié.
+ = ( ).
+ %spa ( ).
+A xal ax Sanra'.
+ = xal ix Sandra.
+ %spa y sandra.
++ ruido.
+I Aaanaa'.
+ = Sandra.
+ %spa Sandra.
++ ruido.
+A inhhhh.
+ = i'.
+ %spa si.
++ se escucha ruido.
+J jee.
+ = je.
+ %spa je.
+A ix och nok' t'a ju.
+ = ix och nok' t'a jun...
+ %spa se metío en un...
+J kji'.
+ = ( ).
+ %spa ( ).
++ ruido.
+A eman pipis xa chi t'a winh pin.
+ = emanh k'ojan xa chi t'a winhaj Xapin.
+ %spa sentate decí con Sebastián.
++ se escuch ruido de juguetes.
+A Xepel.
+ = Xepel.
+ %spa I.
++ se escuchan ruidos y golpes de juguetes.
+R b'aj ix Anxim.
++ b'ajay ix Anxem.
++ spa        donde está A.
++ se escucha ruido.
++ saber quien tosea.
+R b'aja ix Anxiii.
++ b'ajay ix Anxem.
++ spa        donde está A.
++ ruido.
+I heee.
+ = he.
+ %spa eh.
+N ooooh chicle.
+ = o kach'ich.
+ %spa oh chicle.
++ ruido.
+L ni' ak' kalo.
+ = ni' ak' karro.
+ %spa ten jugá carro.
+A tajnanh han ek k'en ek' ek' hakarro.
+ = tajnanh han ek'e k'en hakarro.
+ %spa jugá pues mové y subí tu carro.
+L xal hakarro.
+ = xal k'en hakarro.
+ %spa y tu carro.
++ se escucha ruido y golpes.
+I hooo.
+ = ho.
+ %spa ¡oh!.
+N jiji ji, (se rié).
+ = ( ).
+ %spa ( ).
+A tajnanh yet' ix Pepel ek' ix.
+ = tajnanh yet' ix Xepel ek' ix.
+ %spa jugá con I, muevelá.
++ se escucha ruido y golpes.
+A lem manh ik'b'at ix.
+ = lem manh hik'b'at ix.
+ %spa ven no la lleves.
++ ruido.
+L tok xiw winh.
+ = tok xiw winh.
+ %spa será que se asusta.
++ ruido.
+A ha wik' awewin.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A aja ix mama.
+ = b'ajay ix nun.
+ %spa donde está la mamá.
++ ruido.
+N i'.
+ = i'.
+ %spa si.
+I mamaixxxxxx.
+ = malaj ix.
+ %spa no está ella.
++ ruido.
+L ajti kochi.
+ = b'ajtil ixk'och ix.
+ %spa donde se fue ella.
+I boo.
+ = ho u hoy.
+ %spa ¡oh! o si.
++ se escucha ruido.
+A tzak' pipi ixxxx.
+ = tzak'em kojan ix.
+ %spa la vas ha acomodar en sentarse.
+I mmaayy.
+ = ma'ay.
+ %spa no.
++ se escucha ruido.
+I tosea.
+ = ( ).
+ %spa ( ).
+A ak' smimi' ak' smimi' ixx.
+ = ak' yim, ak' yim ix.
+ %spa dale pecho, dale pecho para mamar.
++ ruido.
++ golpe.
+A ak' smimi' hanene'.
+ = ak' yim hune'.
+ %spa dale de mamar ha tu nene.
++ ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
+A tzujawa nena.
+ = tzuk'jak awa yune'.
+ %spa tomas un poco de agua nena.
++ ruido.
+A tzuk' agua.
+ = tzuk' awa.
+ %spa tomas agua.
++ se escuchan ruidos.
+A tzuk awa.
+ = tzuk awa.
+ %spa tomas agua.
+I ma'.
+ = ( ).
+ %spa ( ).
++ ruido.
+I mem.
+ = lem.
+ %spa ven o vení.
++ se escucha ruido.
+A takwej ix.
+ = tak'wej ix.
+ %spa contéstala.
++ ruido.
+A lem xa chi t'a winh nene', lem xa chi t'a winh.
+ = lem xa chi t'a winh nene', lem xa chi t'a winh.
+ %spa ven, decí con él nene, ven, decí con él.
++ ruido.
+I o'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+J b'aja ix mama.
+ = b'ajay ix konun.
+ %spa donde está nuestra madre.
++ ruido.
+A lem xa chi t'a winh nene'.
+ = lem xa chi t'a winh nene'.
+ %spa ven, decí con él nene.
++ se escucha ruido.
++ se escuchan voces particulares.
++ se escucha ruido.
+A wayyyyy.
+ = swayi'.
+ %spa se duerme.
++ se escucha ruido.
+A tz'in xa chi, tz'it syop, tz'it syop.
+ = tz'in xa chi, tz'it syo'op, tz'it syo'op.
+ %spa callate decí, pegale el trasero, pegale el trasero.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A tz'in xa chi t'a hanene'.
+ = tz'in xa chi t'a hune'.
+ %spa callate decí con tu nene.
++ se escucha ruido.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escucha ruido.
+I nhhh.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tz'in xa chi montej iniwal yok'i.
+ = tz'in xa chi t'ay, montej iniwal yok'i.
+ %spa callate decile, acaricialo ves que como llora.
++ se escucha ruido.
+L wayanh.
+ = wayanh.
+ %spa dormite.
++ ( ).
+L wayanh han, wayanh.
+ = wayanh han, wayanh.
+ %spa dormite pues, dormite.
++ saber quien tosea.
+R Xuwana'.
++ Xuwan.
++ Jspa J.
++ ( ).
+R Xuwana' ak'.
++ Xuwan ak'.
++ spa        R dale.
+L olwak' jun sk'en ixxxxxx.
+ = olwak' jun sk'en ix.
+ %spa le voy ha dar una su piedra.
+L olwak' jun.
+ = olwak' jun.
+ %spa voy ha dar una.
+A ha'ach tzala' xa chi t'a ix.
+ = ha'ach tzala' xa chi t'a ix.
+ %spa usted lo dice, decí con ella.
+L ochokab' junok tz'um xa chi t'a ix.
+ = ochokab' junok tz'u'um xa chi t'a ix.
+ %spa que se mete un cuero decí con ella.
+F toxo ix pax.
+ = toxo ix paxi.
+ %spa ya se fue.
++ ruido.
++ ( ).
++ ruido.
+L chi' ix b'ati.
+ = chi' ix b'ati.
+ %spa ya que se fue.
+F b'at b'e'al k'en karro.
+ = sb'at sb'e'al k'en karro.
+ %spa ahí se va el camino del carro.
++ ruido.
+I hi'i.
+ = ni'i.
+ %spa ten o tenga.
++ ruido.
+I pat.
+ = ix b'at ix.
+ %spa se fue ella.
++ ruido.
+J b'aja ix nana nun.
+ = b'ajay ix nunin nu'.
+ %spa donde está la mamá, mija.
++ se escucha ruido.
+I nnnnan'a.
+ = nunin.
+ %spa mamá.
+N mimann.
+ = niwan.
+ %spa mucho o grande.
++ ruido.
+A b'ajay hanene'.
+ = b'ajay hanene'.
+ %spa donde está tu nene.
++ ruido.
+I nene'.
+ = nene'.
+ %spa nene.
+A b'ajay hanene'.
+ = b'ajay hanene'.
+ %spa donde está tu nene.
+I pu'ummmm.
+ = tz'em punhnajok o tz'em latnajok.
+ %spa se caé.
++ ruido.
+I pummm.
+ = tz'em punhnajok.
+ %spa se caé.
++ ruido.
+N mm bola'.
+ = hinkarambola'.
+ %spa mi carambola.
++ ruido.
+N mm mmmmm.
+ = ( ).
+ %spa ( ).
+A tutu han, tutuuuu.
+ = kuch han, kuchu.
+ %spa cargalo pues, carga.
++ ruido.
+A chuchu han nene' chichuchu.
+ = kuch han nene' chi' kuchu'.
+ %spa cargalo pues nena, ya cargalo.
+I papal iiixxxx.
+ = wak'och sb'al ix.
+ %spa le pongo su pañal.
++ ( ).
+A aj ix koch ix Malpal chi.
+ = b'ajtil ix koch ix Malpal chi'.
+ %spa en donde se fue María.
++ se escucha ruido y golpe.
+A emanh pipis xac hi, a hempipis hanene' ahempipis.
+ = emanh k'ojan xa chi, ak'em kojan hune' chi', ak'emkojan.
+ %spa sentate decí, pon ha sentarse tu nene pues, pon ha sentarse.
++ se escucha ruido.
+I b'apisss.
+ = emanh k'ojan.
+ %spa sentate.
++ se escuchan ruidos.
+A haljunxo.
+ = aljunxo.
+ %spa decí otro.
++ se escuchan ruidos.
+L b'at il ix pepel pin.
+ = Pilin b'at il ix Xepel.
+ %spa F ve ha ver ha I.
++ ruido.
+A lemach ni'.
+ = lemach ni'.
+ %spa vení ve.
++ ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
++ ( ).
+L nene, nene lolo' ni' lem.
+ = nene', nene' pek'al ni' lem.
+ %spa nene, nene ven ha golotonear.
+F Xepe.
+ = Xepel.
+ %spa I.
+F nii'.
+ = ni'.
+ %spa ve.
++ ruido.
++ ( ).
+F lemach b'at ek' ix Pepel.
+ = lemach b'at ek' ix Xepel.
+ %spa vaní, ve ha empujar ha I.
+A tz'ug awa.
+ = tz'uk hawa.
+ %spa tomas agua.
++ se escucha ruido.
+F b'at ik ix Pepel.
+ = b'at il ix Xepel.
+ %spa vé ha ver ha I.
+A se rié y no se entiende lo que dice.
+ = ( ).
+ %spa ( ).
+A taslan ik'ani.
+ = taslanhan ik'ani.
+ %spa que te está pasando.
++ se escucha ruido.
+J aja winh papa.
+ = b'ajay winh hamam.
+ %spa donde está tú papá.
++ se escucha ruido.
+I papa'.
+ = winh hinmam.
+ %spa mi papá.
++ ( ).
++ ruido.
+A b'aj ixk'och win.
+ = b'ajtil ix k'och winh.
+ %spa donde se fue él.
+I papa chi.
+ = ix b'at winh t'a chi'.
+ %spa él se fue para ya.
++ ruido.
+I ppaapaa.
+ = mamin.
+ %spa papá.
+N ( ).
+ = ( ).
+ %spa ( ).
+G aloch t'a stzey tzach tupi'.
+ = ( ).
+ %spa ( ).
++ ruido.
+L hab'i Xepel emol janik' ix.
+ = hab'i Xepel, yemol janik' ix.
+ %spa escucha I, se está bajando ella.
++ se escucha ruido.
+L kak tajnel yet' ix.
+ = kak tajnel yet' ix.
+ %spa vamos ha jugar con ella.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+I haaa.
+ = ay.
+ %spa ¡ay!.
++ se escuchan ruidos.
++ ( ).
+N haaayyy.
+ = ay.
+ %spa ¡ay!.
++ se escucha ruido.
+A tzach tak'wi nu'.
+ = tzach tak'wi nu'.
+ %spa contesta mija.
++ se escucha ruido.
+A alo xa chi.
+ = alo xa chi.
+ %spa alo decí.
+A papa xa chi.
+ = mamin xa chi.
+ %spa papá decí.
++ se escucha ruido.
+L ik ix Pepel.
+ = ( ) ix Xepel.
+ %spa ( ) I.
++ ruido.
+A no xa chi.
+ = ma'ay xa chi.
+ %spa no decí.
+I lelllll chapii.
+ = chel Xapin.
+ %spa cargá Sebastián.
++ ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+L yek' ix pel.
+ = yek' ix Xepel.
+ %spa ahí pasa I.
++ se escucha ruido.
+A ak'och t'a hachikin han.
+ = ak'och t'a hachikin han.
+ %spa pongalo en tu oreja pues.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido de juguetes.
+I mammm.
+ = nunin.
+ %spa mamá.
++ ruido.
+N ona'.
+ = ( ).
+ %spa ( ).
++ ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A papa xa chi.
+ = mamin xa chi.
+ %spa papá decí.
+F t'anb'ela.
+ = tanhwej b'ela.
+ %spa esperate.
+I pap.
+ = mamin.
+ %spa papá.
++ ruido y no se capta de quienes ese voz.
+A alo xa chi.
+ = alo xa chi.
+ %spa alo decí.
+L kore, kore, kore, kore, kore, kore.
+ = jechechi, jechechi, jechechi, jechechi, jechechi, jechechi.
+ %spa corré, corré, corré, corré, corré, corré.
+A isis xa chi.
+ = isis xa chi.
+ %spa tortillas de elote decí.
+I watzach.
+ = machach.
+ %spa quién eres.
++ ruido.
+F ummm.
+ = ( ).
+ %spa ( ).
++ ruido.
+J hak'ana' chi'.
+ = ha' hak'anan chi'.
+ %spa ahora lo vas ha utilizar.
++ se escucha ruido.
++ ( ).
+I grita y va de hablar, al final no se entiende nada.
+ = ( ).
+ %spa ( ).
++ empiezan ha reir.
++ se escuchan ruidos.
+I tatatatattttta ta.
+ = ( ).
+ %spa ( ).
++ todos empiezan ha reirse.
++ ruido.
+I tatata ta
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+L pejchem ( ).
+ = pejchem ( ).
+ %spa lloron de ( ).
++ ruido.
++ todos sé rién.
+I hóó.
+ = o
+ %spa o.
+I oo.
+ = o.
+ %spa o.
++ se escuchan ruidos.
+I o.
+ = o.
+ %spa o.
++ ruido.
++ no se entiende nada, ni se sabe de quién está hablando.
+I ho.
+ = ho.
+ %spa oh.
+I hoch.
+ = ( ).
+ %spa ( ).
+I ó.
+ = o.
+ %spa o.
+A Isa b'aj ayach ek'i xa chi.
+ = Xepel b'ajtil ayach ek'i xa chi.
+ %spa I donde te encuentras decí.
+I hoo.
+ = ho.
+ %spa ¡oh!.
++ se escuchan ruidos.
+I hoo.
+ = ho.
+ %spa ¡oh!.
+L tosea.
+ = ( ).
+ %spa ( ).
+A ikot hinlolo' xa chi.
+ = ikot hinpek'al xa chi.
+ %spa traígame glotón decí.
++ se escuchan ruidos.
+I ho.
+ = ho.
+ %spa ¡oh!.
++ se escuchan ruidos.
+A ikot hinlolo' xa chi.
+ = ikot hinpek'al xa chi.
+ %spa traígame glotones decí.
++ se escuchan ruidos.
+I ho.
+ = ho.
+ %spa ¡oh!.
++ se escucha ruido.
+A Vita xa chi.
+ = Ewita xa chi.
+ %spa Eulalia decí.
++ ruido.
+I Vitaá.
+ = Ewita.
+ %spa Eulalia.
++ se escucha ruido.
+A ajay ach cha chi.
+ = b'ajay ach xa chi.
+ %spa donde estas decí.
++ se escuchan ruidos.
+A ol ikot hinlolo' xa chi.
+ = ol ikot hinpek'al xa chi.
+ %spa me traes glotones decí.
++ se escuchan ruidos.
+A hinyeta xa chi.
+ = ol ikot hink'uxk'ux  xa chi.
+ %spa me traes galleta decí.
++ ruido.
+I b'at t'o.
+ = b'atok.
+ %spa se va.
++ se escuchan ruidos.
+A ol ikot hingayet.
+ = ol ikot hinkuxkux.
+ %spa me traes galletas.
+I pat paput.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+I nemm.
+ = ( ).
+ %spa ( ).
+A ikot hinyeta xa chi.
+ = ikot hinkuxkux xa chi.
+ %spa traígaem galleta decí.
+I hi yeta.
+ = hinkuxkux.
+ %spa mi galleta.
++ ruido de golpe.
+I ay ni'i.
+ = ay ni'i.
+ %spa ah tenga o ay ve.
+A i'.
+ = i'.
+ %spa si.
+I habla gritando y no se entiende nada.
+ = ( ).
+ %spa ( ).
+N Maaannnntaaa'.
+ = ( ).
+ %spa ( ).
++ ruido.
+I nené.
+ = nene'.
+ %spa nene.
+A ( ).
+ = ( ).
+ %spa ( ).
+I mama.
+ = nunin.
+ %spa mamá.
++ se escucha ruido.
+A malaj xa chi.
+ = malaj xa chi.
+ %spa no hay nada decí.
++ se escucha ruido.
+I lllooó.
+ = alo o tajxi.
+ %spa alo o diga.
++ se escucha ruido.
+A alo xa chi.
+ = tajxi xa chi, alo xa chi.
+ %spa alo decí.
+I hoo.
+ = alo o tajxi.
+ %spa alo.
++ ruido.
+A vela xa chi.
+ = wela xa chi.
+ %spa vela decí.
++ ruido.
+I iiiñaa.
+ = Lina o Axul.
+ %spa A.
++ ruido.
+A Lina xa chi.
+ = Axul xa chi.
+ %spa A decí.
++ se escucha ruido.
+I uuuvaaa'.
+ = ( ).
+ %spa ( ).
++ ruido.
+A b'ajay hach cha chi.
+ = b'ajay hach xa chi.
+ %spa donde estas decí.
+I itzaa.
+ = isa o Xepel.
+ %spa I.
++ se escucha el sonido del ruido de un carro.
+A b'axto.
+ = ( ).
+ %spa ( ).
+A tzik'ot hinlolo' xa chi.
+ = tzik'ot hinpek'al xa chi.
+ %spa me traes glotones decí.
+I oyo'.
+ = tzik'ot hinpekal.
+ %spa me traes glotones.
++ ruido.
+A b'itanga.
+ = b'itananh.
+ %spa cantá.
+I mach tzoch ku stu'.
+ = ( ).
+ %spa ( ).
++ no sé sabe quienes se rien.
++ se escucha ruido.
+A ik'ot hinlolo' xi.
+ = ik'ot hinpek'al xa chi.
+ %spa me traes glotones decí.
+I b'aaachwi ooooo oyo'.
+ = ( ).
+ %spa ( ).
++ ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+I ollo'.
+ = lolo' (pek'al).
+ %spa glotones.
++ se escucha ruido.
+A ik'ot hinlolo'.
+ = ik'ot hinpek'al.
+ %spa traígame glotones.
+I howa'.
+ = lolo' (pek'al).
+ %spa glotones.
++ se escuchan ruidos.
+I owoa'.
+ = lolo' (pek'al).
+ %spa glotones.
+A b'at kil ix nena xa chi, b'at kil ix nena.
+ = b'at kil ix yune' xa chi, b'at kil ix yune'.
+ %spa vamos ha ver a la nena decí, vamos ha ver a la nena.
++ se escucha ruido.
+A kil ix nena xa chi.
+ = kil ix yune' xa chi.
+ %spa vamos ha ver a la nena decí.
++ se escucha ruido.
+A Vita xa chi.
+ = Ewita xa chi.
+ %spa Eulalia decí.
++ se escucha ruido.
+I oo tzitza'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A lem xa chi.
+ = lem xa chi.
+ %spa vení decí.
+A lem yalanh winh papa xa chi.
+ = lem yal winh komam xa chi.
+ %spa vení dice nuestro papá decí.
+I mem.
+ = lem.
+ %spa ven.
++ se escucha ruido.
+I pach chok.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A lemach cha chi.
+ = lemach xa chi.
+ %spa vení decí.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A lemach cha chi.
+ = lamach xa chi.
+ %spa vení decí.
++ se escucha ruido.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escuchan ruidos.
+A ( ).
+ = ( ).
+ %spa ( ).
+I habla y grita, al final no se entiende nada.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ajanh yet' ix han.
+ = ajanh yet' ix han.
+ %spa viva con ella pues.
++ se escucha ruido.
+A b'at ak' tajnel yet' ix.
+ = b'at ak' tajnel yet' ix.
+ %spa ve ha jugar con ella.
++ ruido.
+I habla y grita no se entiende nada.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tz'em pipis waj N het'.
+ = tz'em kojan winhaj N het'ok.
+ %spa se siente N contigo.
++ ruido.
+I uuu.
+ = uuu.
+ %spa uuu.
++ se escucha ruido.
+A alo xa chi.
+ = alo xa chi o tajxi xa chi.
+ %spa aló decí.
+I lloó.
+ = tajxi.
+ %spa aló.
++ ruido.
+A i'.
+ = i'.
+ %spa si.
++ ruido.
+I tatat.
+ = ( ).
+ %spa ( ).
++ ruido.
+I pek nutzow.
+ = ( ).
+ %spa ( ).
++ ruido.
+I hoooo'.
+ = ( ).
+ %spa ( ).
++ ruido.
+A lolo' xa chi.
+ = pek'al xa chi.
+ %spa glotón decí.
+I paywum.
+ = ( ).
+ %spa ( ).
++ ruido.
+I yoyo'.
+ = lolo' (pek'al).
+ %spa glotón.
+L pay.
+ = pan.
+ %spa pan.
++ ruido.
+I woyo'.
+ = hinlolo' o hinpek'al.
+ %spa mi glotón.
++ ruido.
+A hinpan xa chi.
+ = hinpan xa chi.
+ %spa mi pan decí.
++ ruido.
+I pam.
+ = pan.
+ %spa pan.
++ se escucha ruido.
+A ik'ot hinpan xa chi.
+ = ik'ot hinpan xa chi.
+ %spa traíga mi pan decí.
++ se escuchan ruido.
+A ik'ot hinpam xa chi, alb'at.
+ = ik'ot hinpan xa chi, alb'at t'a winh.
+ %spa traígame mi pan decí, dígale con él.
+I lamm.
+ = hinpan.
+ %spa mi pan.
++ ruido.
+A a' alb'at t'a winh.
+ = alb'at t'a winh.
+ %spa dígale con él.
++ ruido.
+I grita.
+ = ( ).
+ %spa ( ).
++ ruido.
+I pawa'.
+ = mamin.
+ %spa papá.
++ se escucha ruido.
+I latat.
+ = ( ).
+ %spa ( ).
+I tzachh.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ak' smimi hanene', ak' smimi.
+ = ak' yim hune', ak' yim.
+ %spa dale pecho ha tu nene, dale de mamar.
++ se escucha ruido.
+A Esme.
+ = Esmeraida.
+ %spa Esmeraida.
++ ruido.
+A ak' smimi'.
+ = ak' yim.
+ %spa dale de mamar.
++ se escucha ruido.
+A ak' smimi' hanene.
+ = ak' yim hune'.
+ %spa dale de mamar a tu nene.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ ( ).
++ ruido.
+A ak' smimi', ak' smi'.
+ = ak' yim, ak' yim.
+ %spa dale de mamar, dale de mamar.
++ se escucha ruido y golpe.
+A tosea.
+ = ( ).
+ %spa ( ).
++ ruido y golpe.
+A awtej ix Malpal, awtej ix mal.
+ = awtej ix Malpal, awtej ix Malapl.
+ %spa llama ha María, llama ha Maria.
+I tzana'.
+ = tzala'.
+ %spa decí.
++ ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A b'ajtil ay sti.
+ = b'ajtil ayek' ix hicham.
+ %spa donde está tu tía.
++ se escucha ruido.
+N ok'.
+ = ok'.
+ %spa pie.
+I yoooooo.
+ = ¡yo!.
+ %spa ¡oh!.
++ ruido.
+I Palpal xa chi.
+ = Malpal xa chi.
+ %spa María decí.
++ se escuchan ruidos y golpes.
+A tosea.
+ = ( ).
+ %spa ( ).
+I tosea.
+ = ( ).
+ %spa ( ).
+N lllooooowch.
+ = ( ).
+ %spa ( ).
+A tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
++ no se escucha lo que dicen, ni se reconoce de quienes son las 
+  voces.
+I hoo.
+ = ho.
+ %spa ¡oh!.
++ se escucha ruido.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ahem pipis hanene', emanh pipis xa chi t'ay.
+ = ak'em k'ojan hune', emanh k'ojan xa chi t'ay.
+ %spa acomoda ha tu nene ha sentarse, sentate decí con él.
++ ruido.
+A emanh pipis xa chi t'a winh.
+ = emanh k'ojan xa chi t'a winh.
+ %spa sentate decí con él
++ se escucha ruido.
+A Esmi.
+ = Esmeraida.
+ %spa esmeraida.
+I vavalll.
+ = Malpal.
+ %spa María.
++ se escucha ruido.
+A awtej waj pinn.
+ = awtej winhaj N.
+ %spa llama ha N.
+N ikma'.
+ = ( ).
+ %spa ( ).
+I mutzapatatatattti'.
+ = ( ).
+ %spa ( ).
++ se escucha ruidos y golpes.
+I ho.
+ = ¡ho!.
+ %spa ¡oh!.
++ ruido.
+A awtej waj Adolfi.
+ = Awtej winhaj N.
+ %spa llama ha N.
++ se escucha ruido.
+I ma'ay.
+ = ma'ay.
+ %spa no.
++ ruido.
+A yoooo xa chi.
+ = yo xa chi.
+ %spa ¡oh decí!.
++ se escuchan ruidos y ruidos de jueguetes.
+N mama.
+ = nunin.
+ %spa mamá.
+L tas jun chi.
+ = tas jun chi.
+ %spa que es eso.
+A tooooo'oo.
+ = ( ).
+ %spa ( ).
++ se escucha ruido de juguetes y no se entiende nada.
+I ( ).
+ = ( ).
+ %spa ( ).
+I ni' tzitz.
+ = ni' tik.
+ %spa aquí está.
+A ni'i xi.
+ = ni'i xi.
+ %spa ten dice.
++ ruido.
+A tza chuchu' may.
+ = tza kuchu' may.
+ %spa lo quieres cargar no.
++ ruido.
+L ppeeeeyyy.
+ = Xepel.
+ %spa I.
++ ruido.
+A tza tut ix.
+ = tza kuch ix.
+ %spa lo vas ha cargar ha ella.
++ ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escuchan ruidos.
+I ni tit.
+ = ni' tik.
+ %spa aquí está.
+L jachem ta.
+ = emanhkot ta'.
+ %spa bajate de allí.
++ no se entiende lo que dicen, ni se reconocen los voces.
++ se escucha ruido.
+I awa'.
+ = hawa'.
+ %spa agua.
++ es escucha ruido.
+A ikot hapayu' han chuchu ix.
+ = ikot hapayu' han kuch ix.
+ %spa traíga tu panuelo, cargala pues.
++ se escucha ruido.
+A tutu' ix ni'.
+ = kuch ix ni'.
+ %spa tengala cargala ve.
+I no se entiende lo que se dice.
+ = ( ).
+ %spa ( ).
++ ruido.
++ ( ).
+A tutu' xa chi, tutu' xa chi.
+ = kuchu' xa chi, kuchu xa chi.
+ %spa cargalo decí, cargalo decí.
+I ( ).
+ = ( ).
+ %spa ( ).
+I lleta.
+ = galleta (k'uxk'ux).
+ %spa galleta.
++ ruido.
+I pp'a.
+ = ( ).
+ %spa ( ).
++ ruido.
+A ni' chi' xa chi.
+ = ni' chi' xa chi.
+ %spa ahí está decí.
+I pa.
+ = pa.
+ %spa pa.
++ ruido.
+I pa.
+ = pa.
+ %spa pa.
++ una platica que no se entiende ni se sabe de los voces.
+A ni' chi' xa chi.
+ = ni' chi' xa chi.
+ %spa ahí está decí.
+I empieza ha llorar.
+ = ( ).
+ %spa ( ).
+A ikot ix han, ikot ix.
+ = ikot ix han, ikot ix.
+ %spa traígala pues, traígala.
+N ni'.
+ = ni'.
+ %spa ten.
++ ruido.
+A tza tutu.
+ = tza kuchu'.
+ %spa lo cargas.
+I m.
+ = m.
+ %spa m.
++ se escuchan ruidos.
+A tza tutu.
+ = tza kuchu'.
+ %spa lo cargas.
++ se escucha ruido.
+I ho.
+ = ho.
+ %spa ¡oh!.
++ se escucha ruido.
+A tutu' xa cha'a.
+ = tzin kuchu' xa chi han.
+ %spa lo cargo decí pues.
++ ruido.
+A tamb'ela.
+ = tanhwejb'ela.
+ %spa esperate.
++ se escuchan ruidos y un voz que ni se reconoce de quien es.
+A tutu ix lem.
+ = kuch ix lem.
+ %spa cargala vení.
++ se escucha ruido.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escuchan ruidos.
+A b'an k'en tik ni', b'an k'en.
+ = b'an k'en tik ni', b'an k'en. (juguete de carro.
+ %spa aplasta esto vé, aplasta.
++ se escuchan ruidos.
+L lolonanh.
+ = lolonanh.
+ %spa hablá.
+A k'n aonh xa chi.
+ = k'en awihon xa chi.
+ %spa el avión decí.
++ se escuchan ruidos.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escuchan ruidos.
+A ajay ixx.
+ = b'ajay ix.
+ %spa donde está ella.
++ se escucha ruido.
+I to.
+ = to.
+ %spa to.
++ se escuchan ruidos.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
+I yo.
+ = ho.
+ %spa ¡oh!.
++ ruido.
+A k'e'an yol hakkarro pilip.
+ = k'e'an yol hakarro pilip.
+ %spa subí dentro de tu carro apurate.
++ ruido de sonido de un juguate.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A k'e'an t'a yo'o.
+ = k'e'an t'a yo'ol.
+ %spa subite dentro de.
++ se escuha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I mama.
+ = nunin.
+ %spa mamá.
+A nantob'ela.
+ = mantob'ela.
+ %spa esperate.
+I wikk ti'.
+ = wik chi'.
+ %spa mía esa.
++ se escucha ruido y  voces que no sé reconoce.
+I b'at aa.
+ = ( ).
+ %spa ( ).
+L chel ix.
+ = chel ix.
+ %spa cargala.
+I ii haaaa.
+ = ( ).
+ %spa ( ).
++ ruido.
+I aaaaayyyyyyyyyy.
+ = ¡ay!.
+ %spa ¡ay!.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
+I ( ).
+ = ( ).
+ %spa ( ).
+L nene.
+ = nene'.
+ %spa nena.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A tanhwej.
+ = tanhwej.
+ %spa esperate.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+I tatatolo'.
+ = kak' karro.
+ %spa juguemos ha carro.
+A telanh kotanh.
+ = telan kotanh han.
+ %spa oh si, vení pues.
++ se escucha ruido.
+A tzuk' pape.
+ = tzuk' kape.
+ %spa tomas café.
++ se escucha ruido.
+I vvaaavoooloss
+ = ( ).
+ %spa ( ).
++ ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
+L pix.
+ = ( ).
+ %spa ( ).
+J ikot wi'.
+ = ikot winh.
+ %spa traígalo ha él.
+A tosea.
+ = ( ).
+ %spa ( ).
+J ikoti, ikoti.
+ = ikoti', ikoti'.
+ %spa traígalo, traígalo.
+J ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+I n'en.
+ = ( ).
+ %spa ( ).
++ ruido.
+L ha yumda.
+ = xa yumta'.
+ %spa no lo vayas ha tirar.
+N ooot'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+N pulpu.
+ = ( ).
+ %spa ( ).
+L halimi halimi.
+ = alemi', alemi'.
+ %spa dígale, dígale.
++ se escucha ruidos.
+A aja ix Nana.
+ = b'ajay ix Nana (es un nombre de apodo).
+ %spa donde está Nana.
++ se escucha ruidos.
++ ( ).
++ ruido.
+I ooolaaann.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+N tabolo.
+ = ( ).
+ %spa ( ).
++ ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+I puxxxx piliiiiii.
+ = ( ).
+ %spa ( ).
++ ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I b'o'oo.
+ = b'o'o.
+ %spa hágalo.
+A hikoti kob'o'o.
+ = ikoti' kob'o'o.
+ %spa traílo lo vamos hacer.
++ se escucha ruidos.
+A ni' pipi ixa han.
+ = ni' tzemk'ojan ix han.
+ %spa ten y que se sienta ella pues.
++ ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tutu' ix.
+ = kuch ix.
+ %spa cargala.
++ se escucha ruido.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escucha ruidos.
+A tza chuch ix.
+ = tza kuch ix.
+ %spa la cargas ha ella.
++ ruido.
+I huu'.
+ = ¡ho!.
+ %spa ¡oh!.
+A chuchu' ix.
+ = kuch ix.
+ %spa cargala.
++ se escuchan ruidos.
+A kuch ixx.
+ = kuch ix.
+ %spa cargala.
++ se esucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
+A tza kuch ix.
+ = tza kuch ix.
+ %spa la cargas ha ella.
++ se escuchan ruidos  y ruidos de algunos juguetes.
+I paapa.
+ = mamin.
+ %spa papá.
+A k'e'an t'a yib'an jun karro tik tza kuchan ix b'i'an.
+ = k'e'an t'a yib'an jun karo tik tza kuchan ix b'i'an.
+ %spa subite dentro de este carro y la cargas ha ella pues.
+I ( ).
+ = ( ).
+ %spa ( ).
+I taayaa.
+ = ( ).
+ %spa ( ).
++ ruido.
+A tzach loloni'.
+ = tzach loloni'.
+ %spa vas ha hablar.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
++ ruido del juguete.
+I toe'.
+ = ( ).
+ %spa ( ).
++ ruido.
+A an xa chi.
+ = an xa chi.
+ %spa an decí.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ( ).
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ ruido del juguete.
+I aaaaaguaa.
+ = awa.
+ %spa agua.
+A ak' titit nu', ak' titit.
+ = ak' karo nu', ak' karo.
+ %spa juga carro mija, juga carro.
++ se escucha el sonido del juguete.
++ se escucha ruido.
+A titit xaa chi.
+ = titit xa chi.
+ %spa titit decí.
++ se escuchan ruidos.
+L tosea.
+ = ( ).
+ %spa ( ),
++ se escucha ruido.
+A titit xa chi.
+ = titit xa chi.
+ %spa titit decí.
+I mmmmmmmmmm ta'.
+ = ( ).
+ %spa ( )
++ sonido del juguete.
+I mmm.
+ = mmm.
+ %spa mmm.
++ sonido del juguete.
+I ( ).
+ = ( ).
+ %spa ( ).
+I tabayo.
+ = nok' chej.
+ %spa el caballo.
++ se escucha ruido y ruido de un golpe.
+A ab'i yawaj k'en alo xi, oy xa chi.
+ = ab'i skanh k'en alo (celular), oy xa chi.
+ %spa escucha el celular se está sonando, si decí.
++ se escucha ruido.
+A tas xa chi.
+ = tas xa chi.
+ %spa si (alo) decí.
+I oooooooolllllllllaaa.
+ = alo.
+ %spa alo.
++ se escucha ruido.
+I t'aa.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+F tak'wi.
+ = tak'wanh.
+ %spa contesta.
++ se escucha ruido.
+A ixti.
+ = ix tik.
+ %spa así.
++ ( ).
++ ruido.
+A Pin xa chi.
+ = N xa chi.
+ %spa N decí.
+N heee aaaah.
+ = ( ).
+ %spa ( ).
++ ruido.
++ se escucha una platica, pero no se reconocen los dueños de las 
+  voces.
++ se escucha ruido y voces.
+N eeeeeeeeemaaa'.
+ = lemach.
+ %spa vení.
+A annn xa chi.
+ = annn (sonido de los carros) xa chi.
+ %spa annn decí.
+A hale xa chi.
+ = ak'a xa chi.
+ %spa dale decí.
++ ruido.
+I aalll.
+ = ak'a.
+ %spa dale.
++ se escucha ruido y sonido de la m.
+A halehalehale xa chi.
+ = ak'a, ak'a, ak'a xa chi.
+ %spa dale, dale, dale decí.
+F hix koti.
+ = ix koti.
+ %spa se vino.
+A lolonanh han.
+ = lolonanh han.
+ %spa habla pues.
++ se escucha ruido.
+A ho xa chi, konh xa chi.
+ = oy xa chi, konh xa chi.
+ %spa ¡oh! o si decí, vamos decí.
++ se escucha ruido.
+A konh xa chi.
+ = konh xa chi.
+ %spa vamos decí.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
+I weno.
+ = weno o hinye'.
+ %spa bueno.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escucha ruido.
+A lolonanh.
+ = lolonanh.
+ %spa habla.
++ se escucha ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
+A nene' xa chi, nene' xa chi.
+ = nene' xa chi, nene' xa chi.
+ %spa nene decí, nene decí.
++ se escuchan ruidos.
+I hoo.
+ = ¡oy!.
+ %spa ¡oh!.
++ se escucha ruido.
+I tow.
+ = ( ).
+ %spa ( ).
++ se escucha ruido y voz que ni lo reconozco.
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+A sukel xim is.
+ = sukel xim ix.
+ %spa limpiale el moco de ella.
++ ruido.
+I to'.
+ = tas.
+ %spa que.
++ se escucha ruido.
+I teeeiiiiiiiiiiiiita.
+ = ( ).
+ %spa ( ).
+I top.
+ = ( ).
+ %spa ( ).
++ ruido.
+A papa xa chi.
+ = mamin xa chi.
+ %spa papá decí.
+I mmmm.
+ = mmmm.
+ %spa mmmm.
+I wawa.
+ = mamin.
+ %spa papá.
++ ruido.
+A b'ajay ach xa chi.
+ = b'ajay hach xa chi.
+ %spa donde estas decí.
+I t'o.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A lem xa chi.
+ = lem xa chi.
+ %spa vení decí.
++ ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ni se reconoce quien está gritando.
+J olelta.
+ = alelta.
+ %spa decí.
+L ( ).
+ = ( ).
+ %spa ( ).
+A lemach papa xa chi.
+ = lemach mamin xa chi.
+ %spa papá vení, decí.
+A may jak si'ala'.
+ = may jak sihala'.
+ %spa no dice nada.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+I ale.
+ = ak'a.
+ %spa dale.
++ se escucha ruido.
+A lem xa chi t'a winh papa, lem xa chi t'a wi.
+ = lem xa chi t'a winh hamam, lem xa chi t'a winh.
+ %spa vení dile a tu papá, vení dile con él.
+I te'.
+ = te'.
+ %spa palo.
+I tay ni jun.
+ = b'ajtil ayek' winh jun.
+ %spa donde se encuentra él pues.
++ se escucha ruido.
+I canta.
+ = ( ).
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A lem xa chi t'a winh.
+ = lem xa chi t'a winh.
+ %spa vení, decí con él.
+I meeemuyuy.
+ = ( ).
+ %spa ( ).
++ ni se reconoce de quien es son esas voces y lo que dicen.
+A tzin xa chi, tzin xa chi wal yok'.
+ = tzin xa chi, tzin xa chi wal yok' juyn hune' chi.
+ %spa callate decí, callate decí como llora tu nene decí.
++ ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tzin xa chi.
+ = tzin xa chi.
+ %spa callate o silencio decí.
++ se escucha ruido.
+I papote.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I hiiiitzil.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I pá.
+ = pa.
+ %spa pa.
++ ( ).
++ ruido.
+I empieza ha chillar.
+ = ( ).
+ %spa ( ).
+A hintutu' xa chi, tutu' xa chi.
+ = hinkuchu' xa chi, hinkuchu' xa chi.
+ %spa yo la carga decí, yo la cargo decí.
+L yok ni', ok.
+ = yo'ok ni',  ok'.
+ %spa sus pies ve, tus pies.
+L ( ).
+ = ( ).
+ %spa ( ).
+I ook.
+ = yo'ok.
+ %spa sus pies.
+A tutu' xa chi.
+ = kuchu' xa chi.
+ %spa cargala decí.
++ ruido.
+I koookii.
+ = yo'ok.
+ %spa sus pies.
++ se escucha ruido.
+L sukel hasim.
+ = sukel hasim.
+ %spa quitá tus mocos.
+A kuch ix han.
+ = kuch ix han.
+ %spa cargala pues.
++ ruido.
+A kuch ix.
+ = kuch ix.
+ %spa cargala.
++ ruido.
+L sukelamsi.
+ = sukel hasim.
+ %spa quita tu moco.
++ ruido.
+A lemach han konh yet' hakarro chi' tza kuchan ix.
+ = lemach han konh yet' k'en hakarro chi' tza kuchan ix.
+ %spa vení vamos con tu carro pues y cargala.
++ se escucha ruido.
++ ( ).
++ ruido.
+L eeetttttko.
+ = ( ).
+ %spa ( ).
+I ( ).
+ = ( ).
+ %spa ( ).
+F xuteeeeeee veeen.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
+A tza kuch ix.
+ = tza kuch ix.
+ %spa quieres cargarla.
++ se escucha ruido.
+I v´eka.
+ = ( ).
+ %spa ( ).
+A hinchuch ix xa chi.
+ = hinkuch ix xa chi.
+ %spa la voy ha cargar decí.
++ se escucha ruido y golpe.
+L mach olllin uchhh ixxxxx, mach olllin uch ixxxxx.
+ = mach ol kuchan ix, mach ol kuchan ix.
+ %spa quién lo va ha caargar ha ella, quién lo va ha cargar ha ella.
++ ruido.
+L mach olin uch ix chi jun.
+ = mach ol kuchan ix chi' jun.
+ %spa quién lo va ha cargar ha ella pues.
+L solo grita y diciendo algo, pero no se entiende nada.
+ = ( ).
+ %spa ( )
+I ( ).
+ = ( ).
+ %spa ( ).
+I iiiiiiiiiiii.
+ = ( ).
+ %spa ( ).
+J chab'wal hilo.
+ = chab'wal hacha'al.
+ %spa tenes dos hilos.
+L ( ).
+ = ( ).
+ %spa ( ).
+J tiworot.
+ = ( ).
+ %spa ( ).
++ se escucha el ruido del juguete.
+A tzin xa chi t'ay, tzin xa chi.
+ = tzin xa chi t'ay, tzin xa chi.
+ %spa silencio decíle, silencio decí.
++ se escucha ruido y ruido de juguete.
+A ak'b'at sspepe.
+ = ak'b'at skape.
+ %spa dale su café.
++ se escucha ruido.
+A ak' spepe hanene' chi.
+ = ak' skape hanene' chi'.
+ %spa dale su café a tu nene pues.
++ se escucha ruido.
+A ak' stek wi.
+ = ak' stek winh.
+ %spa dale la comida de él.
++ se escuchan ruidos.
++ ruido de un golpe.
+A ni' tete' xa chi.
+ = ni ixta' xa chi.
+ %spa tomas tus jugguetes.
++ ruido.
+A ni' hatete' xa chi.
+ = ni' ixta' xa chi.
+ %spa ten tus juguetes decí.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ni.
+ = ni'i.
+ %spa ten o tenga.
++ ruido.
+A ak'b'ati.
+ = ak'b'ati.
+ %spa dale o enviale.
+L no se logra escuchar lo que dice.
+ = ( ).
+ %spa ( ).
+I ni'.
+ = ni'.
+ %spa ten.
+A nene' xa chi.
+ = nene' xa chi.
+ %spa nene decí.
+I nnni'.
+ = ni'.
+ %spa ten.
+I ninaaa'.
+ = Lina o Axul.
+ %spa A.
++ ruido.
+J hoy ma'.
+ = hoy ma'.
+ %spa si mijo.
+A nene' xa chi.
+ = nene' xa chi.
+ %spa nene decí.
++ ( ).
++ se escucha ruido.
+I Nina.
+ = Lina o Axul.
+ %spa A.
++ se escucha ruido.
+F xxxxxxxxx xi'.
+ = ( ).
+ %spa ( ).
+I nnna'.
+ = Lina o Axul.
+ %spa A.
+I iitaa'.
+ = Xep o Xepel.
+ %spa Isa o I.
++ ruido.
+I nina'.
+ = Lina o Axul.
+ %spa A.
++ se escucha ruido.
+I noo'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I Nina.
+ = Lina o Axul.
+ %spa A.
++ ruido y ruido de juguete.
+A keo xa chi.
+ = keo xa chi.
+ %spa queo decí.
+I o'.
+ = o.
+ %spa o.
++ ruido.
++ ruido.
+A yonnn.
+ = yon.
+ %spa ¡oh!.
+L ( ).
+ = ( ).
+ %spa ( ).
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A ajtej.
+ = ajtej eli'.
+ %spa sueltalo.
+L ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A jab'xo iko' xa chi.
+ = jab'xo iko' xa chi.
+ %spa otro poco de usted decí.
++ se escucha ruido.
+N hina.
+ = Lina o Axul.
+ %spa A.
+I ok tukchi.
+ = olin kuch ix.
+ %spa la voy ha cargar.
++ ruido.
+N hina.
+ = Lina o Axul.
+ %spa A.
+A kuch ixx.
+ = kuch ix.
+ %spa cargala.
++ ruido.
+N hinnaaaa'.
+ = Lina o Axul.
+ %spa A.
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
+N ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A lem xa chi.
+ = lem xa chi.
+ %spa ven decí.
+N se rié.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ un grupo de niños empiezan a reir.
+A lem xa chi.
+ = lem xa chi.
+ %spa ven decí.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escucha ruido.
+N hinha.
+ = Lina o Axul.
+ %spa A.
++ ruido.
+N hinha.
+ = Lina o Axul.
+ %spa A.
+A lem xach.
+ = lem xa chi.
+ %spa ven decí.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+N hinha'.
+ = Lina o Axul.
+ %spa A.
+A kuch ix.
+ = kuch ix han.
+ %spa cargala pues.
++ ruido.
+N hinaaa.
+ = Lina.
+ %spa A.
++ se escucha ruido.
+L Xepel ni'.
+ = Xepel ni'.
+ %spa I ten.
++ ruido.
+L Xepel.
+ = Xepel.
+ %spa I.
++ ( ).
+L xxitchichi'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ ( ).
+A ikoti xa chi.
+ = ikoti xa chi.
+ %spa traígalo decí.
++ ruido.
+A b'ati xa chi.
+ = sb'ati xa chi.
+ %spa se va decí.
++ se escucha ruido.
+A ikoti xa chi t'a ix.
+ = ikoti xa chi t'a ix.
+ %spa traígalo decí a ella.
++ se escucha ruido del juguete.
++ se escucha ruido.
+A ikoti xa chi t'a ix.
+ = ikoti xa chi t'a ix.
+ %spa traígalo decí a ella.
+N Nina.
+ = Lina.
+ %spa A.
++ se escucha ruido.
+A ikot nan nene' chi t'a ix.
+ = ikot hanene' chi' t'a ix.
+ %spa traíga tu nene a ella.
++ se escucha ruido.
+A wiko' xa chi.
+ = wiko' xa chi.
+ %spa es mío decí.
++ se escuchan ruidos.
+L canta.
+ = ( ).
+ %spa ( ).
+A wiko' xa chiiiii.
+ = wiko' xa chi.
+ %spa es mío decí.
++ se escucha ruido.
+L canta.
+ = ( ).
+ %spa ( ).
+N Nina.
+ = Lina.
+ %spa A.
++ se escucha ruido.
+N mnnhm.
+ = ( ).
+ %spa ( ).
++ ruido.
+A ilel jun.
+ = ilel jun.
+ %spa ve ha ver eso.
+A ( ).
+ = ( ).
+ %spa ( ).
+N Ninaa'.
+ = Lina o Axul.
+ %spa A.
+L tox wa'emi.
+ = toxo ixwak'emi.
+ %spa ya lo mnetí.
+A tox a'emi.
+ = toxo ixak'emi.
+ %spa ya lometiste.
+N Nina.
+ = Lina.
+ %spa A.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L Xepel ni'.
+ = Xepel ni'.
+ %spa I ten.
++ ruido.
+L xitxitxitxit.
+ = ( ).
+ %spa ( ).
+N hina.
+ = Lina.
+ %spa A.
++ ruido.
++ ( ).
+A konh xa chi t'ay hanene' chi', konh xa chi t'ay.
+ = konh xa chi t'ay hanene' chi', konh xa chi.
+ %spa vamos decí ha tu nene pues, vamos decí.
+N hina.
+ = Lina.
+ %spa A.
++ se escucha ruido.
+I teña.
+ = ( ).
+ %spa ( ).
++ se escucha el ruido del juguete.
+L ( ).
+ = ( ).
+ %spa ( ).
+A ikoti xa chi.
+ = ikoti xa chi.
+ %spa traígalo decí.
++ ruido.
+A ikoti xa chi t'a ix.
+ = ikoti xa chi t'a ix.
+ %spa traígalo decíle ha ella.
+I inade.
+ = ( ).
+ %spa ( ).
++ ( ).
+A ikoti xa chi.
+ = ikoti xa chi.
+ %spa traígalo decí.
+I laye'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido y algunos voces que no se capa ni se escucha lo 
+  que dice.
+N tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I lale.
+ = ak'a.
+ %spa dale.
++ se escucha ruido.
+I lapp.
+ = ( ).
+ %spa ( ).
++ ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
+I Makal.
+ = Malpal o Malin.
+ %spa María.
++ ruido.
+A awtej ix Mal.
+ = awtej ix Malpal.
+ %spa llamá ha María.
+N Lina.
+ = Lina.
+ %spa A.
+I papay.
+ = Malpal.
+ %spa María.
+I is'.
+ = ix.
+ %spa ella.
++ ruido.
+N hina.
+ = Lina.
+ %spa A.
+L Malpal.
+ = Malpal.
+ %spa María.
+I lapal.
+ = Malpal.
+ %spa María.
++ ( ).
+I to'o.
+ = ( ).
+ %spa ( ).
+L Malpal.
+ = Malpal.
+ %spa María.
++ ruido.
+N nena.
+ = nena.
+ %spa nena.
++ ruido.
+I tó.
+ = ( ).
+ %spa ( ).
++ ruido del juguete.
+A ab'i taj xi ix.
+ = ab'i taj xi ix.
+ %spa escucha, que dice ella.
+N tin.
+ = tin.
+ %spa tin.
+I eno issssss.
+ = weno xi ix.
+ %spa bueno dice ella.
++ ruido.
+N hiiinha.
+ = Lina.
+ %spa A.
++ ruido.
+I ele'.
+ = ( ).
+ %spa ( ).
+I ( ).
+ = ( ).
+ %spa ( ).
+N liiinaaaa.
+ = Lina.
+ %spa A.
+I hina.
+ = Lina.
+ %spa A.
++ ruido.
+I niinaa.
+ = Lina.
+ %spa A.
++ ruido.
+A b'aj ix Lina.
+ = b'ajay ix Lina.
+ %spa donde está A.
++ se escucha ruido.
+I ninaaa.
+ = Lina.
+ %spa A.
+I llora.
+ = ( ).
+ %spa ( ).
+N nina.
+ = Lina.
+ %spa A.
+A hi'.
+ = hi'.
+ %spa si.
++ ruido.
+I vita' te.
+ = ( ).
+ %spa ( ).
+A ni'i.
+ = ni'i.
+ %spa tenga.
++ ruido de un golpe.
+I taviiii.
+ = ( ).
+ %spa ( ).
+L hinmontej winh hinene'.
+ = hinmontej winh hinene'.
+ %spa voy ha motivar ha mi nene.
+L haxo winh hinene' ni' majyak' win.
+ = haxo winh hinene' ni' majyak'laj winh.
+ %spa y mi nene no actuó.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan voces, pero no se sabe de quien son.
+A Lina xa chi.
+ = Lina xa chi.
+ %spa A decí.
++ ruido.
+L huu.
+ = ( ).
+ %spa ( ).
++ ruido.
+I yonnhh.
+ = yonh.
+ %spa ¡oh!.
+L ni tik.
+ = ni tik.
+ %spa aquí está.
+A papa lem xa chi t'a winh papa.
+ = mamin lem xa chi t'a winh hamam.
+ %spa vení papi decí con tu papá.
+I yo'.
+ = yo'.
+ %spa ¡oh!.
++ ( ).
+I kabayyyy llo.
+ = nok' chej.
+ %spa el caballo.
++ ruido.
+I may.
+ = ma'ay.
+ %spa no.
++ se escucha ruido y voces particulares.
+A ikot hinene' xa chi.
+ = ikot hinene' xa chi.
+ %spa traígame mi nene decí.
++ se escucha ruido.
+A koti wi.
+ = syikot winh.
+ %spa él lo tiene que traer.
+I vavot te'.
+ = ( ).
+ %spa ( ).
+I yyott.
+ = ( ).
+ %spa ( ).
++ ( ).
++ se escucha un voz particular.
+I ooopat.
+ = yolpat.
+ %spa dentro de la casa.
++ ( ).
+A ek ix Xepel, ek ix Xepel, lem ek ix.
+ = ek ix Xepel t'a yib'anh yixta' karro, ek ix Xepel t'a yib'anh 
+  yixta' karro, lem ek ix.
+ %spa empuja ha I encima de su juguete de carro, empuja ha I 
+  encima de su juguete de carro, empuja ha ella.
++ ruido.
+A ek ix Xe.
+ = ek ix Xepel.
+ %spa empuja ha I.
+I aaaaaaaaaammm.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I ham.
+ = ( ).
+ %spa (  ).
++ se escuchan ruidos.
+A ikej hatete' t'a ix.
+ = ikot ixta' t'a ix.
+ %spa traíga tu juguete ha ella.
++ se escucha ruido y el ruido del zapato del niño al momento de 
+  tener contacto con el suelo al caminar.
++ se escucha la platica de un grupo de estudiente que estaban en la 
+  casa haceindo una tarea.
+A tosea.
+ = ( ).
+ %spa ( ).
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha la plática de un grupo.
+A sik'i ikoti xa chi.
+ = sik'e'i tzik'ankoti xa chi.
+ %spa recógelo y lo traes decí.
++ se escucha ruido de zapato y voces particulares.
+A ni'i xa chi t'ay.
+ = ni'i xa chi t'a winh.
+ %spa tenga decíle con él.
+I empieza a llorar.
+ = ( ).
+ %spa ( ).
+A ni'i xi.
+ = ni'i xi.
+ %spa tenga dice.
+I llora.
+ = ( ).
+ %spa ( )
+A tik skikot han tzi.
+ = tik skikot han tzin.
+ %spa ahorita lo traemos silencio pues.
++ se escucha ruido.
+A ni jun ik tik ni chum wi.
+ = ni jun ik tik ni schum einh.
+ %spa aquí tenes uno ve, dejalo.
++ se escucha ruido.
+L iijiii.
+ = ( ).
+ %spa ( ).
+I llora.
+ = ( ).
+ %spa ( ).
+A ay jun nok' tete' ayo.
+ = ( ).
+ %spa ( ).
+L tete' ix mama kik'a'.
+ = syak' ixta' ix konun t'a kik'an.
+ %spa mamá te va  ha dar un juguete para mañana.
++ se escuchan voces de particulares.
+N ne' t'o pe b'eb'eb'et'i.
+ = ( ).
+ %spa ( ).
+A b'at al t'a ix Pepel ni ito' xa chi t'a.
+ = b'at al t'a ix Xepel ni iko' xa chi t'a ix.
+ %spa ve ha decirle aI aquí tenes el tuyo decíle a ella.
+N hitzeyyy.
+ = ( ).
+ %spa ( ).
++ ruido.
+I empieza a llorar.
+ = ( ).
+ %spa ( ).
+A hi' kokexel ix Pepel.
+ = hi' kokexel ix Xepel.
+ %spa I, si la vamos a cambiar.
+L ati katpati.
+ = ak'koti kak'b'ati.
+ %spa damelo vamos a devolverlo.
++ ruido y no se capta lo que dicen o quién está hablando.
+L ni ken hakayo tzakok.
+ = ni k'en hakarro tzach tajni yet'ok.
+ %spa aquí tenes tu carro con quién vas a jugar.
+L no se entiende nada lo que ella dice.
+ = ( ).
+ %spa ( ).
+I ok.
+ = ok.
+ %spa pies.
+A ixin smak' waj pin xa chi.
+ = ixin smak' waj N xa chi.
+ %spa N me pego decí.
+N ( ).
+ = ( ).
+ %spa ( ).
+F mmm.
+ = mmm.
+ %spa mmm.
+I lechhh'.
+ = lech.
+ %spa leche.
++ ruido.
+A ixin smak' winh xa chi.
+ = ixin smak' winh xa chi.
+ %spa él me pego, decí.
+N grita.
+ = ( ).
+ %spa ( ).
+L ( ).
+ = ( ).
+ %spa ( ).
++ se escucha voces particulares.
++ ruido.
++ voces particulares.
+L ch'okb'aj ayinek'i ilnab' nene' t'a chi'.
+ = ch'okb'ajtil ayin ek'i ilnab' ixt'a t'a chi'.
+ %spa estoy en otro lado, mirá unos juguetes allí.
+I neninnn.
+ = hinene'.
+ %spa mi nene.
++ se escucha ruido.
+L nene.
+ = nene'.
+ %spa nene.
++ ruido.
+A tzin tzin tzin xa chi t'ay hanene'.
+ = tzin, tzin,tzin xa chi t'ay hanene'.
+ %spa silencio, silencio, silencio decíle a tu nene.
+L kune'.
+ = ( ).
+ %spa ( ).
+L hola nene' hachi.
+ = chajxi nene' xa chi.
+ %spa hola nene decí.
++ se escucha ruido.
++ se escucha la plática del grupo de estudiante, que están 
+  realizando sus tareas en la casa.
+L olb'at hanh tu'.
+ = olb'at hanh tut.
+ %spa se va ir el frijol.
+A tzin xa chi.
+ = tzin xa chi.
+ %spa silencio decí.
+A tosea.
+ = ( ).
+ %spa ( ).
+L weeenoo.
+ = weno.
+ %spa bueno.
++ ruido.
++ se escucha una voz particular.
+L ho'.
+ = ho.
+ %spa ¡oh!.
++ ruido.
+A ka'och jun tete' han.
+ = kakoch jun ixta' han.
+ %spa vamos a meterte un tu juguete pues.
++ se escuchan voces particulares.
+L ni nene' ni.
+ = ni nene' ni.
+ %spa ten nene ve.
+L ni'iiii.
+ = ni'i.
+ %spa tenga.
++ se escucha ruido.
+A kot.
+ = ( ).
+ %spa ( ).
+A cuatekss xa chi.
+ = hachin wachk'ol xa chi.
+ %spa mi amigo decí.
++ ruido.
+I ni.
+ = ni.
+ %spa ten o tenga.
++ se escucha una voz particular.
++ se escucha ruido y ruido de un golpe.
+A lemach han.
+ = lemach han.
+ %spa venite pues.
++ ruido.
+A lem xa chi.
+ = lem xa chi.
+ %spa vení decí.
++ se escucha ruido.
+A lem xa chi yujchi olin b'atok.
+ = lem xa chi yujchi' olin b'atok.
+ %spa ven decí, por eso voy a ir.
++ ruido.
+I ni'ii.
+ = ni'i.
+ %spa tenga.
++ ruido.
+I tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido de juguetes y un voz que no se puede identificar 
+  de quién es.
+I empieza a llorar.
+ = ( ).
+ %spa ( ).
+A ak'b'at tete' t'a ix,b'at ak'b'ati, b'at ak'b'ati.
+ = b'at ak'b'at yixta' ix chi', b'at ak'b'at yixta' ix chi', b'at 
+  ak'b'ati.
+ %spa ve a dejar el juguete de ella pues, ve a dejar el juguete de ella 
+  pues, ve a dejarlo.
++ se escuchan ruidos de los zapatos al momento de tener contacto con 
+  la tierra al caminar.
++ se escucha un voz particular.
+I immm.
+ = ( ).
+ %spa ( ).
+L ( ).
+ = ( ).
+ %spa ( ).
++ ( ).
+I empieza a chillar.
+ = ( ).
+ %spa ( ).
+A lem xa chi t'a wi.
+ = lem xa chi t'ay winh.
+ %spa ven decile a él.
+I aaam.
+ = am.
+ %spa am.
++ ruido.
+A lem xa chi.
+ = lem xa chi.
+ %spa ven decí.
+I grita.
+ = ( ).
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa ( ).
+I maaammm.
+ = nunin.
+ %spa mamá.
++ ruido.
+A ikoti xa chiii.
+ = ikoti xa chi.
+ %spa traígalo decí.
+I ichiii im.
+ = ikot chi'.
+ %spa traé eso.
++ ruido.
+A ni chi' xa chi.
+ = ni chi' xa chi.
+ %spa ahí está decí.
+I grita.
+ = ( ).
+ %spa ( ).
++ ruido.
+L ni tik.
+ = ni tik.
+ %spa aquí está.
++ se escucha ruido.
+L tzutze ixxx.
+ = manh hatzuntzej ix.
+ %spa no la molestas.
++ ruido.
+L tani ix.
+ = to stajni ix.
+ %spa porque ella juega.
++ se escucha ruido.
+A mmi'i.
+ = ni'i.
+ %spa tenga.
++ ruido.
+N se rié.
+ = ( ).
+ %spa ( ).
+L se rié.
+ = ( ).
+ %spa ( ).
+I b'ayal.
+ = ( ).
+ %spa ( ).
++ ruido.
++ se escucha ruido de un golpe.
+L no se entiende nada lo que dice.
+ = ( ).
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+I chulla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+N hi'iina.
+ = Lina.
+ %spa A.
+L ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+N hihaaa.
+ = Lina.
+ %spa A.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A tajxi winh.
+ = tajxi winh.
+ %spa que dice él.
++ se escucha ruido.
+A tajxi wi' nene' chi'.
+ = tajxi winh nene' chi'.
+ %spa que dice él nene pues.
++ se escucha ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
+A Lina xi wi.
+ = Lina xi winh.
+ %spa Lina dice él.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ ruido.
+A lem hach kani.
+ = lem xach kanta'.
+ %spa ven, no te vayas a quedar.
++ se escucha ruido del zapato de N.
+I uuuuuuv.
+ = uuuu.
+ %spa uuuu.
++ se escucha ruido.
+I uuv.
+ = uuy.
+ %spa ¡uy!.
++ ruido.
++ ruido de la silla donde Ana se sienta.
+I uuuuv uv.
+ = uyyy.
+ %spa ¡uy!.
+A tosea.
+ = ( ).
+ %spa ( ).
+I huvuv.
+ = uyuy.
+ %spa ¡uy!, ¡uy!.
+A ( ).
+ = ( ).
+ %spa ( ).
+I se rié.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A se rié.
+ = ( ).
+ %spa ( ).
++ ruido.
+A huuu xa chi.
+ = hu xa chi.
+ %spa hu decí.
+I huuuuuuuu.
+ = hu.
+ %spa hu.
++ ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
+I heee.
+ = he.
+ %spa ¡eh!.
+A ( ).
+ = ( ).
+ %spa ( ).
+I grita.
+ = ( ).
+ %spa ( ).
++ ruido.
+I grita.
+ = ( ).
+ %spa ( ).
++ se escucha ruido de juguetes.
+A hiiikot.
+ = ikoti'.
+ %spa traígalo.
++ se escucha ruido.
+L hikoti.
+ = ikoti'.
+ %spa traígalo.
++ se escucha ruido.
+I hanh.
+ = hanh.
+ %spa tu planta.
++ se escucha ruido.
+L kachi.
+ = ( ).
+ %spa ( ).
+A k'e'an xa chi.
+ = k'e'an xa chi.
+ %spa subite decí.
+L b'at ikot hinmemeyo.
+ = b'at ikot wanhb'al.
+ %spa ve a traer mi medicamento.
++ se escucha ruido y un voz que no se sabe de quien es..
+L papa'.
+ = mamin.
+ %spa papá.
++ se escucha ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
+A tzin xa chi.
+ = tzin xa chi.
+ %spa silencio decí.
+N grita.
+ = ( ).
+ %spa ( ).
+A hachi hachi.
+ = tzin xa chi.
+ %spa silencio decí.
++ ruido.
+I putz.
+ = ( ).
+ %spa ( ).
++ se escucha el ruido de la silla.
+I grita.
+ = ( ).
+ %spa ( ).
+A tzin chekb'ilt'a.
+ = tzin ( ).
+ %spa silencio ( ).
+N rié.
+ = ( ).
+ %spa ( ).
+I maaamo'.
+ = nunin.
+ %spa mamá.
+A ni chi' han, ni chi'.
+ = ni chi' han, ni chi'.
+ %spa ahí está ve, ahí está.
++ se escucha ruido.
+A ikoti xa chi t'a wi.
+ = ikoti xa chi t'ay winh.
+ %spa damelo decíle a él.
++ se escucha ruido.
+A hakoti xa chi t'a wi'.
+ = hakoti xa chi t'ay winh.
+ %spa damelo decíle a él.
+A hakoti ma'ay.
+ = hakoti ma'ay.
+ %spa damelol no.
+L b'at kosay nok' hatete' hachi'.
+ = b'at kosaykot nok' ixta' t'a chi'.
+ %spa vamos a buscarte tu juguete ahí.
++ ruido.
+I tichi'.
+ = chib'ej.
+ %spa carne.
++ se escucha ruido de juguetes.
+L mm.
+ = mm.
+ %spa mm.
++ ruido.
+L ay no hatete' t'a ti'.
+ = ay nok' hixta' t'a tik.
+ %spa tenes juguete aquí.
++ ruido.
+L ay no hatete' hatik mamin.
+ = ay hista' chi' t'ay tik mamin.
+ %spa tenes tus juguetes aquí papi.
++ se escucha ruido.
+L ay no' hatete' hatik.
+ = ay nok' hixta' t'a tik.
+ %spa tenes tus juguetes aquí.
++ ruido.
+A konh xa chi, konh xa chi.
+ = konh xa chi, konh xa chi.
+ %spa vamos decí, vamos decí.
+I ( ).
+ = ( ).
+ %spa ( ).
+A t'ay wi' nene.
+ = t'ay winh nene'.
+ %spa al nene.
++ ruido del juguete.
+A ke'an t'a yol hakarro chi' eka'.
+ = ke'an t'a yol hakarro chi', eka'.
+ %spa subite en tu carro pues y empuja.
++ ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+L kosay no' hanene'.
+ = kosay nok' hixta'.
+ %spa vamos a buscarte tu juguete.
+A konh xa chi.
+ = konh xa chi.
+ %spa vamos decí.
++ se escucha ruido y un golpe.
+A haaaannnnnn (sonido del carro).
+ = ( ).
+ %spa ( ).
++ ruido del juguete.
++ se escucha ruido.
+A haaannnnnn (sonido del carro).
+ = ( ).
+ %spa ( ).
++ ruido.
++ se escucha un voz paricular.
+A yooohoo.
+ = yoo
+ %spa ¡oh!.
+I yemiii uuuga'.
+ = ix em wuk'ab'.
+ %spa se cayó mi plato.
++ se escucha ruido.
+I hottt'.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+I at'wan.
+ = ( ).
+ %spa ( ).
+N tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+N tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
+I hama til.
+ = ha' ixin nun tik.
+ %spa está es mi mamá.
++ se escucha ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
+A tosea.
+ = ( ).
+ %spa ( ).
+I chichhh jo.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I niiii tzi'.
+ = ni chi'.
+ %spa ahí está.
++ ruido.
+A b'ajaj.
+ = b'ajay.
+ %spa donde.
+I niiiii tzi'.
+ = ni chi'.
+ %spa ahí está.
++ se escucha ruido.
+A ini ha'.
+ = ini han.
+ %spa tengala pues.
+L grita.
+ = ( ).
+ %spa ( ).
+N grita.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A b'ajay waj Lexo lem.
+ = b'ajay waj Lexo lem.
+ %spa donde está Andrés vení.
++ se escucha ruido.
+A b'ajay wi'.
+ = b'ajay winh.
+ %spa donde está él.
++ se escucha ruido.
+A sik syab'i.
+ = sik syab'i.
+ %spa siente frío.
++ se escucha ruido.
+L nenita, nenita, nenitaaa.
+ = ix yune', ix yune', ix yune'.
+ %spa nenita, nenita, nenita.
++ se escucha ruido.
+N 'u'uumm.
+ = ( ).
+ %spa ( ).
+I empieza a chillar.
+ = ( ).
+ %spa ( ).
+A tzinek.
+ = tzinek.
+ %spa hagan silencio.
++ ruido.
+I hi'.
+ = hi'.
+ %spa si.
++ ruido.
+N hi'.
+ = hi'.
+ %spa si.
+I ma'ay.
+ = ma'ay.
+ %spa no.
++ se escucha ruido.
+A se rié.
+ = ( ).
+ %spa ( ).
+L ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tas tzach mak'waj.
+ = tas tzach mak'waji.
+ %spa porque lo pegas.
+I evvá hinnnnnnnn.
+ = ( ).
+ %spa ( ).
++ ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+L xa smak ix.
+ = ixach smak' ix.
+ %spa ella te pego.
+N ( ).
+ = ( ).
+ %spa ( ).
+L ( ).
+ = ( ).
+ %spa ( ).
+I aawwww.
+ = nunin.
+ %spa mamá.
+I hiitziiiiii.
+ = ni chi'.
+ %spa ahí está.
+I ewayyy.
+ = (  ).
+ %spa ( ).
++ ruido.
+N wamm.
+ = nunin.
+ %spa mamá.
+A b'at ek' ix  hoye.
+ = b'at ek' ix Malin hoye'.
+ %spa ve a empujar a María Cinco.
+I hiiiiiii'.
+ = hi'.
+ %spa si.
+L lemmmmmm.
+ = lem o lemach.
+ %spa ven o vení.
+I nenn.
+ = lem.
+ %spa vení.
+A lemach han ni.
+ = lemach han ni.
+ %spa venite pues ve.
+I kayy.
+ = ay.
+ %spa ¡ay!.
+L nennee.
+ = nene'.
+ %spa nene.
+A kotanh yet' hakarro.
+ = kotanh yet' ha karro.
+ %spa venite con tu carro.
+L kotena' no'.
+ = koten nok'.
+ %spa vamos a machacarlo.
+L t'a tik ni.
+ = t'a tik ni.
+ %spa aquí ve.
+I yoo'ooo.
+ = yo'o.
+ %spa ¡oh!.
+L kosay nok' hanene' hukil.
+ = kosay nok' hanene' kuchil.
+ %spa vamos a buscarte tu pequeño reboso.
+N paayyyyyysssss.
+ = ( ).
+ %spa ( ).
+L kosay nok' hatul.
+ = kosay nok' hakuchil.
+ %spa vamos a buscarte tu reboso.
+N huwall.
+ = skot' yowal.
+ %spa se enoja.
++ ruido.
+N jika'.
+ = ( ).
+ %spa ( ).
++ ruido.
+L malaj nok' t'a tik.
+ = malaj nok' t'a tik.
+ %spa no está el aquí.
++ se escucha ruido.
+A ajtil ay no hanene' util.
+ = b'ajtil ayek' nok' hanene' kuchil.
+ %spa donde está tu pequeño reboso.
++ se escucha ruido.
++ ruido del juguete al tener contacto con el suelo.
++ se escucha ruido.
+A nanwala.
+ = ( ).
+ %spa ( ).
++ ruido.
++ se escucha ruido del juguete.
++ se escucha ruido.
++ ruido de juguetes.
+A ni nok' hanene' ni ixtik.
+ = ni nok' ixta' ni ixtik.
+ %spa aquí tenes tu juguete, así ve.
++ ruido.
+L titan te ho' ni.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ ( ).
++ se escucha ruido.
+L elanh kot.
+ = elanh koti.
+ %spa salite.
++ se escucha ruido.
+R koti.
++ elanh koti.
++ spa        salite.
++ se escucha ruido.
+A aja ix Sandi.
+ = b'ajay ix Sandra.
+ %spa donde está Sandra.
++ ( ).
++ se escucha ruido.
+N ni ti tii'ii.
+ = ni tik.
+ %spa aquí está.
+I niiiii ñiiii'i
+ = ni'i ni.
+ %spa tenga ve.
++ se escucha ruido de los zapatos del niño.
+I ni'aj.
+ = ni'i.
+ %spa tenga.
++ se escucha ruido.
+L e'.
+ = e.
+ %spa e.
++ se escuchan ruidos y ruidos de los zapatos del niño.
+L ol yuk is.
+ = ol yuk' ix.
+ %spa lo va a tomar ella.
++ se escucha ruido.
+N ava.
+ = awa.
+ %spa agua.
++ ruido.
+L t'uwu'.
+ = oluk'ej.
+ %spa lo vas a tomar.
++ se escucha ruido.
+I uuuuuuuu'uuvu.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L tek xa.
+ = tek xa chi.
+ %spa tek decí.
++ se escucha ruido y de los zapatos del niño al momento de caminar.
+A ak' smimi' hanene' chi'.
+ = ak' yim hune' chi'.
+ %spa dale de mamar a tu nene pues.
++ se escucha el ruido de los zapatos.
+A ak' smimi' .
+ = ak' yim.
+ %spa dale de mamar (pecho).
++ se escuchan ruidos.
+L chum ix.
+ = schum ix.
+ %spa ay lo verá ella.
+N ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A Lina.
+ = Lina o Axul.
+ %spa A.
++ se escucha ruido.
+A montejkan heb' xa ti'.
+ = montejkan heb' t'a tik.
+ %spa anima ha ellos aquí.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A chakanok.
+ = chakani.
+ %spa recibilo.
++ ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+I uuuuuuuuuvvvvvvvvvvvo.
+ = ( ).
+ %spa ( ).
+A Lex.
+ = Lexo.
+ %spa Andrés.
+A Lex.
+ = Lexo.
+ %spa Andrés.
++ se escucha ruido.
+L Lex.
+ = Lexo.
+ %spa Andrés.
++ ruido.
+L uwe'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+N moo na'.
+ = chab'in.
+ %spa mona.
++ ruido de juguete.
+L pinnn.
+ = N.
+ %spa N.
+N mmm.
+ = mmm.
+ %spa mmm.
++ ruido y sonido de la s.
+F pinnh.
+ = N.
+ %spa N.
++ se escucha ruido.
+I pinh.
+ = N.
+ %spa N.
++ se escucha ruido.
+F piiinhhhh.
+ = N.
+ %spa N.
++ ruido.
+L oy xa chi.
+ = oy xa chi.
+ %spa si, decí.
+F hutt.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+F huttt.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+F lemach ha'.
+ = lemach han.
+ %spa vení pues.
++ se escucha ruido.
+F kowayi.
+ = konh wayok.
+ %spa vamos a dormir.
++ ruido.
+N hitko.
+ = ( ).
+ %spa ( ).
+L inajun ni t'a tik ne'.
+ = ilnab'jun ni, t'a tik ni.
+ %spa ya vió pues, aquí ve.
++ se escucha ruido.
+L kaway ha'.
+ = wayanh han.
+ %spa dormite pues.
++ ruido.
++ ( ).
++ se escucha ruido y algunas voces de particulares.
++ voz de particular.
++ se escucha ruido.
++ se escucha ruido de los juguetes o sillas.
++ ( ).
++ ruido.
+L kil nene.
+ = kil nene', o kil ixta'.
+ %spa vamos a ver al nene, vamos a ver juguetes.
++ ruido.
+I teaa.
+ = ( ).
+ %spa ( ).
++ se escucha ruido de juguetes y golpe.
+N ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+J ni toma ix tik ni, tome yetni.
+ = ni ix tik ni, ni ix tik ni.
+ %spa aquí está ella ve, aquí está ella ve.
+L Xepe.
+ = Xepel.
+ %spa I.
+L Xepel.
+ = Xepel.
+ %spa I.
+L xit, xit, xit, xi.
+ = xit, xit, xit, xit.
+ %spa ey, ey, ey, ey.
+N junilxa.
+ = jun elxo.
+ %spa otra vez.
++ se escucha ruido.
+I pat.
+ = pat.
+ %spa casa.
+F ixti.
+ = ix tik ni.
+ %spa así ve.
++ ruido.
+F ix tik ni.
+ = ix tik ni.
+ %spa así ve.
+N hiko hapatik.
+ = ikot hapatik.
+ %spa traíga tu espalda.
++ se escuchan ruidos.
+F koyamoch yich kilan.
+ = koyamoch yich kilan.
+ %spa vamos a empezar a ver.
++ ruido.
+F kila uno.
+ = skilek ju'un.
+ %spa vemos el uno.
++ ruido.
+F ewala'.
+ = yel swala'.
+ %spa digo la verdad.
++ se escucha ruido.
+F may hajun.
+ = ma'ay ha jun.
+ %spa no es un.
+L lem kob'o hanene', kob'o hanene'.
+ = lem kob'o hune', kob'o hune'.
+ %spa ven vamos a arreglar tu nene, ven vamos a arreglar tu nene.
+F k'en niwan skikoti.
+ = hak'en niwan skikoti.
+ %spa traígamos el grande.
++ ruido.
+F eswal ma'.
+ = yel swal ma'.
+ %spa verdad mijo.
++ se escucha un voz de particulares.
+I wita ku.
+ = hawixta' tzin kuchu'.
+ %spa voy a cargar mis juguetes.
+L kob'o hanene' le.
+ = kob'o hune' lem.
+ %spa arreglamos tu nene vení.
+N ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+N ( ).
+ = (  ).
+ %spa ( ).
++ se escucha ruido.
+I ni'.
+ = ni'.
+ %spa ten.
+L lem.
+ = lemach.
+ %spa ven o vení.
++ se escucha ruido.
+L lema'.
+ = lem han.
+ %spa vení pues.
++ se escuchan ruidos.
+N lali'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+N pann.
+ = ixim pan.
+ %spa pan.
++ se escuchan ruidos.
+I t'aa.
+ = ( ).
+ %spa ( ).
++ ruido.
+L mmm.
+ = mmm.
+ %spa mmm.
++ ruido.
++ ruido de juguete.
++ se escucha ruido.
++ saber de quien ese voz.
++ se escucha ruido.
++ se escuchan ruidos de juguetes.
+J uuuuuum.
+ = (  ).
+ %spa ( ).
+N ( ).
+ = ( ).
+ %spa ( ).
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+J wayanh han, wayanh.
+ = wayanh han, wayanh.
+ %spa dormite pues, dormite.
+I ( ).
+ = ( ).
+ %spa ( ).
++ ( ).
++ se escuchan ruidos.
+I ajjjjj.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L tzeka.
+ = tzeka'.
+ %spa lo empujas.
+I tutu'.
+ = tzin kuchu'.
+ %spa lo voy a cargar.
++ se escucha ruido.
+N chunche i'.
+ = stzuntzej ix.
+ %spa ella molesta.
+L ikot han kob'o han xi.
+ = ikot han kob'o'o.
+ %spa traígalo pues lo vamos hacer.
++ se escucha ruido.
+L ella suspira.
+ = ( ).
+ %spa ( ).
+I ni.
+ = ni.
+ %spa ten.
++ se escucha ruido.
+I nob' na.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+F chikila' chuma.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I grita.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+F pilip ke'a.
+ = pilip ke'a.
+ %spa vos apurate.
++ ruido.
+F mm.
+ = mm.
+ %spa mm.
++ se escucha ruido.
+L kistina.
+ = Cristina.
+ %spa Cristina.
+L junxo ti'.
+ = junxo tik.
+ %spa este otro.
++ se escucha ruido.
+I lolo'.
+ = hin pek'al.
+ %spa mi glotón.
++ se escucha ruido.
+L ikel han ni.
+ = ikel han ni.
+ %spa quitalo pues ve.
++ se escucha ruido.
+L kux han ni.
+ = kuch han ni.
+ %spa cargalo pues ten.
++ se escucha ruido.
++ ( ).
+L lem, lem, lem, lemmmmm.
+ = lem, lem, lemach.
+ %spa ven, ven, vení.
++ se escuchan algunos ruidos.
+L ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
+N nina.
+ = Lina o Axul.
+ %spa A.
+A konhach, kon b'at kil ken kalo altamay ol yik'b'at k'en winh pin.
+ = konhach, kon b'at kil k'en karro t'amay ol yik'b'at k'en waj 
+  N.
+ %spa vamos, vamos a ver el carro, sino N lo va a llevar.
++ se escucha ruido.
+A konhach.
+ = konhach.
+ %spa vamos.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+I titit.
+ = k'en karro.
+ %spa el carro.
++ se escuchan ruidos.
+N yyyaannnnnnnnnn.
+ = ( ).
+ %spa ( ).
++ se esucucha ruido.
+L ikot, ikot, ikot, ikoooooooooooooo.
+ = ikoti, ikoti.
+ %spa traígalo, traígalo.
++ ruido.
+L ikoti, ikoti.
+ = ikoti, ikoti.
+ %spa traígalo, traígalo.
+I ni.
+ = ni.
+ %spa ten o tenga.
+I hi.
+ = ni.
+ %spa ten.
++ se escucha ruido.
+I hii.
+ = ni.
+ %spa ten.
++ se escucha ruido.
+L ni.
+ = ni.
+ %spa ten.
+I uuyyuu.
+ = ( ).
+ %spa ( ).
+L kob'o hanene'.
+ = kob'o hune'.
+ %spa vamos hacer tu nene.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+L ikot ha.
+ = ikot han.
+ %spa traígalo pues.
++ se escucha ruido.
+I han.
+ = han.
+ %spa pues.
++ se escucha ruido.
+L kux nene' ni.
+ = kuch hune' ni.
+ %spa cargá tu nene ve.
+N je.
+ = je.
+ %spa je.
++ ( ).
++ se escucha ruido.
+N welach.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+L ( ).
+ = (  ).
+ %spa ( ).
+L tosea.
+ = ( ).
+ %spa ( ).
+N lolo'.
+ = pek'al.
+ %spa glotones.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+F ni winh papityo.
+ = ni winh komam.
+ %spa él es nuestro papito.
++ se escuchan ruidos.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L ití.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L moki.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L nok.
+ = nok'.
+ %spa animal.
++ se escucha ruido.
+I nak'.
+ = nok'.
+ %spa animal.
++ se escuchan ruidos.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I hun.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ ruido de juguetes.
++ se escucha ruido y algunos voces.
+I mama.
+ = nunin.
+ %spa mamá.
++ se escucha ruido.
++ ruido de un golpe.
+N ni ni'.
+ = ( ).
+ %spa ( ).
++ ruido.
+I chilla.
+ = ( ).
+ %spa ( )
++ se escucha el ruido del juguete.
+L eje'.
+ = ( ).
+ %spa ( ).
++ se escucha el ruido del juguete.
+N nene'.
+ = nene'.
+ %spa nene.
++ se escucha el ruido del juguete de I.
+I tat.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I tat.
+ = ( ).
+ %spa ( ).
++ hay ruido.
+I lolo'.
+ = pekal.
+ %spa glotones.
++ ruido.
+I grita.
+ = ( ).
+ %spa ( ).
++ se escucha ruido y un voces que no se sabe de quien es.
+L chib'at k'en hakalo tiiii'.
+ = sik'b'at k'en hakarro hi'.
+ %spa guarda tu carro si.
+L nnne.
+ = ( ).
+ %spa ( ).
++ ruido.
+L kosik'b'at k'en hakalo.
+ = kosik'b'at k'en hakarro.
+ %spa guardamos tu carro.
+I grita.
+ = ( ).
+ %spa ( ).
+L ( ).
+ = ( ).
+ %spa ( ).
+L tosea.
+ = ( ).
+ %spa (  ).
++ ruido.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se esucucha ruido.
++ ( ).
+I tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
+L lem xi nene' ni.
+ = lem xi winh nene' ni.
+ %spa vení dice él nene ve.
+I tosea.
+ = ( ).
+ %spa ( ).
+I papa.
+ = mamin.
+ %spa papá.
+L chiwi nene' chi ni.
+ = xi winh nene' chi' ni.
+ %spa dice él nene pues ve.
+L nene' ni.
+ = nene' ni.
+ %spa ten nene.
+I tosea.
+ = ( ).
+ %spa ( ).
+L uuuuyy.
+ = uy.
+ %spa ¡uy!.
+L hat'a'taki ha ix.
+ = ( ).
+ %spa ( ).
+J kil ix mama.
+ = b'at kil ix konun.
+ %spa vamos a ir a ver a nuestra mamá.
+L b'at il ix mama, b'ato b'ata nhana yeta ix.
+ = b'at il ix konun, olb'at sman jun hakuxkux ix.
+ %spa ve a ver a nuestra mamá, ella te va a comprar una galleta.
+J ix mam.
+ = ix konun.
+ %spa nuestra mamá.
+J ni.
+ = ni.
+ %spa ten.
+J ko man kogalleta lem.
+ = ko man kokuxkux lem.
+ %spa compramos una galleta ven.
++ se escucha ruido.
+G chum, chum ix.
+ = schum, schumam ix.
+ %spa dejala, dejala ella.
++ ruido.
+C ma stakk.
+ e =  ( ).
+spa  ( ).
+I tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I tosea.
+ = ( ).
+ %spa ( ).
+I ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+L ni'an ni kob'o hanene' ni.
+ = ni'an ni kob'o hanene' ni.
+ %spa tenga pues, vamos a arreglar tu nene ve.
++ se escucha ruido.
+L nene' ni.
+ = nene' ni.
+ %spa nene ve.
+I tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L nene' le.
+ = nene' lem.
+ %spa nene o nena vení.
+I ay.
+ = ay.
+ %spa ¡ay!.
+L ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
+I nn papa.
+ = mamin.
+ %spa papá.
++ se escuchan ruidos de juguetes y voces.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I nox papa.
+ = mamin.
+ %spa papá.
+F hii',hiiiiiiiii keee ha'ani.
+ = hi', hi ke hak'ani.
+ %spa si, ¡iiiiih! vos decí o actúa.
+F nene.
+ = nene'.
+ %spa nene.
+L ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+N hiiiiiiiiiiiiiiiiiiii.
+ = hiiiiiiiiiiiiiii.
+ %spa ¡iiiiiiiiiiiiiiiih!.
+J Malpa.
+ = Malpal.
+ %spa María.
++ se escucha ruido.
+I mama.
+ = nun o nunin.
+ %spa mamá.
++ ruido.
+L mama.
+ = ixa nun.
+ %spa tú mamá.
+J Malpalll.
+ = Malpal.
+ %spa María.
++ grito de un gato.
+N ma'aaa.
+ = ma'ay.
+ %spa no.
++ se escucha ruido.
+I muvaa.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I mama.
+ = nunin.
+ %spa mamá.
+A ilem nok' kaxlanh.
+ = ilem nok' kaxlanh.
+ %spa ve a ver la gallina.
++ se escuchan ruidos.
+F Malpal.
+ = Malpal.
+ %spa María.
++ ruido.
+L malaj ix.
+ = malaj ix.
+ %spa no está ella.
++ ruido.
+I maammaaa'.
+ = nunin.
+ %spa mamá.
++ ( ).
+I coolutosss.
+ = ( ).
+ %spa ( ).
++ ruido.
+L maama.
+ = nunin.
+ %spa mamá.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
+L hi' konh han ni.
+ = hi' konh han ni.
+ %spa si, vamos pues ve.
+I buuuum.
+ = ( ).
+ %spa ( ).
+F waaaajjjjj.
+ = ( ).
+ %spa ( ).
+L kikot jak konene' ni.
+ = kikot jak kixta' ni.
+ %spa traígamos un poco nuestro juguete ve.
++ se escucha ruido.
+L nene' ni.
+ = ixta' ni.
+ %spa juguete ve.
++ se escucha el ruido del juguete.
+L pipixxx.
+ = emanh kojanh.
+ %spa sentate.
+I llora.
+ = ( ).
+ %spa ( ).
++ se escucha el ruido del juguete.
+I llora.
+ = ( ).
+ %spa ( )
+I mamaaaaaa.
+ = nunin.
+ %spa mamá.
++ se escucha ruido.
+L emanh pipix xa chi ni, pat kil ix mama chi' achi achi ayek' ix ni.
+ = emanh kojanh t'a chi' ni, b'at kil ix hanun chi' ni yajek ix chi' 
+  ni.
+ %spa sentate ahí ve, vamos a ver a tú mamá, ahí está ella ve.
++ ( ).
++ ruido de un golpe.
+L ni, ni konh yol karro b'at kik' hameko'.
+ = ni, ni konh yol karro b'at kik' hiko'.
+ %spa ten, ten vamos dentro del carro vamos a traerte el tuyo.
++ se escucha ruido del juguete.
+I llora.
+ = ( ).
+ %spa ( ).
+I mama.
+ = nunin.
+ %spa mamá.
+L tzinan.
+ = tz'inan.
+ %spa callate pues.
+I nhi'a.
+ = ( ).
+ %spa ( ).
+N chilla.
+ = ( ).
+ %spa ( ).
+I mamua.
+ = nunin.
+ %spa mamá.
++ no se sabe de quién es esa voz.
++ ruido.
+F pafff.
+ = ( ).
+ %spa ( ).
++ no se sabe de quién es esa voz.
+L ni k'en sas.
+ = ni k'en sat.
+ %spa ten la cara.
+F ma'ay b'at ini ix tik.
+ = ma'ay ini ix tik.
+ %spa no, ella aquí está.
++ se escucha ruido.
+L tas makti mach sb'ati hajinh.
+ = ( ).
+ %spa ( ).
+I grita.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L yo malaj ix.
+ = yo malaj ix.
+ %spa ¡oh! no está ella.
++ se escucha ruido.
+L t'a chi' b'at kik ix.
+ = t'a chi' b'at kil ix.
+ %spa ahí vamos a ir a verla.
+I tza.
+ = ( ).
+ %spa ( ).
+L t'a chi.
+ = t'ay chi'.
+ %spa ahí ve.
++ ruido.
++ no se sabe quien está toseando.
+L ko hata' b'at kil ix konh.
+ = konh hata' b'at kil ix konh.
+ %spa vamos, ahí vamos a ir a verla, vamos.
+L ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos de juguetes y otros ruidos.
+I chilla.
+ = ( ).
+ %spa ( ).
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+A tzach k'eta, ke'ankot yol hakarro tik.
+ = tzach k'eta, ka'ankot t'a yol hakarro tik.
+ %spa te subis, subite dentro de tu carro pues.
+N molo'.
+ = molo'.
+ %spa juntar.
++ ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+A hoch chuna karro.
+ = ochanh t'a yol hakarro.
+ %spa metete dentro de tu carro.
++ se escucha ruido.
+A xit tzin.
+ = xit tzin.
+ %spa ¡ey silencio!.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+N yoyo.
+ = Goyo.
+ %spa Gregorio.
+A tzach lolon yet' winh pap.
+ = tzach lolon yet' winh hamam.
+ %spa hablas con tú papá.
+A ( ).
+ = ( ).
+ %spa ( ).
+L ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+I llora.
+ = ( ).
+ %spa ( ).
+A tas jun chi.
+ = tas jun chi'.
+ %spa que es eso.
+A tas.
+ = tas.
+ %spa que.
+A tzach lolon jun.
+ = tzach lolon jun.
+ %spa hablas pues.
+I llora.
+ = ( ).
+ %spa ( ).
+A tzin tzin.
+ = tz'in, tz'in.
+ %spa callate, callate.
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+L jawi toway.
+ = ( ).
+ %spa ( ).
+L no se escucha nada por el ruido de la niña.
+ = ( ).
+ %spa ( ).
+A xxxxxit tz'in.
+ = xit tz'in.
+ %spa ¡ey callate!.
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+A tas jun tas.
+ = tas jun tas.
+ %spa que pues que.
+A tas jun tas.
+ = tas jun tas.
+ %spa que pues que.
+A xxxxiiiiiiiiixixxixi.
+ = ( ).
+ %spa ( ).
+I sigue llorando o chillando.
+ = ( ).
+ %spa ( ).
+A ni hatete' eee.
+ = ni ixta' han.
+ %spa tenga tu juguete pues.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+A tzinach tzi.
+ = tz'inach xi.
+ %spa callate dicen.
+A no se escucha nada por el ruido de la niña.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+A b'at kik' jun hapan.
+ = b'at kik' jun hapan.
+ %spa vamos a traerte una tu pan.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa ( ).
+A mama, hab'i sja ix mam b'at kik' hapan.
+ = nunin, hab'i sja ix nunin b'at kik' hapan.
+ %spa mamá, ahí viene la abuela vamos a traerte tu pan.
+A no se escucha nada por el grito de la niña.
+ = ( ).
+ %spa ( ).
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+A tas ju.
+ = tas jun.
+ %spa que pues.
+A pipisssssss.
+ = hemanh kojan.
+ %spa sentate.
+A b'ati lukuk stak ix.
+ = ( ).
+ %spa ( ).
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+A se rie.
+ = ( ).
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa ( ).
+A tz'in han, tzi tzi.
+ = tz'in han, tz'in, tz'in.
+ %spa callate pues, callate, callate.
+N nena.
+ = ix nene'.
+ %spa nena.
+N no se escucha lo que dice por el grito de la niña.
+ = ( ).
+ %spa ( ).
+A tasss.
+ = tas.
+ %spa que.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+N no se escucha por el grito de la niña.
+ = ( ).
+ %spa ( ).
+A ni tumin ni.
+ = ni tumin ni.
+ %spa ten dinero ve.
+L tumin, tumin ni.
+ = tumin, tumin ni.
+ %spa dinero, dinero ten.
+A ni jun hatumin.
+ = ni jun hatum.
+ %spa ten un tú dinero.
+I chilla.
+ = ( ).
+ %spa ( ).
+L tumin.
+ = tumin.
+ %spa dinero.
++ ruido.
+N tatolche mignha.
+ = ( ).
+ %spa ( ).
+A tza lo' halolo.
+ = tza lo' hapek'al.
+ %spa vas a comer tus glotones.
+N tom hiiii.
+ = ( ).
+ %spa ( ).
+L lolo.
+ = pek'al.
+ %spa glotones.
++ se escucha ruido.
+N pipí.
+ = hemanhkojan.
+ %spa sentate.
+I chilla.
+ = ( ).
+ %spa ( ).
+A lo halolo.
+ = tza lo' hapek'al.
+ %spa comes tus glotones.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+A lolo.
+ = lolo' (pek'al).
+ %spa glotones.
++ se escucha ruido.
+A lolo.
+ = pek'al.
+ %spa glotones.
++ saber quien tosea.
++ ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+A kanan han, ti sb'at is Lina b'at smana'.
+ = kananh han, chi' sb'at ix Axul b'at smana'.
+ %spa quedate pues, ya va A a comprarlo.
+N nooooo.
+ = ma'ay.
+ %spa no.
++ se escucha ruido.
+L nñauuu, (grito de los gatos).
+ = ( ).
+ %spa ( ).
++ voz particular.
++ se escucha ruido.
+A ixlajwi.
+ = ixlajwi.
+ %spa se termino.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I sigue chillando.
+ = ( ).
+ %spa (  ).
++ ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+A tom ixa tutu' ix jun.
+ = tom ixa kuch ix jun.
+ %spa la cargaste a ella pues.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
++ ruido.
+A kek hatete' han.
+ = kik'ot junok ixta' han.
+ %spa traígamos un tu juguete pues.
++ se escucha ruido.
+I tete'eeee.
+ = wixta'.
+ %spa mi juguete.
+A Lina b'at ikot jun sflolral xutit t'a ix.
+ = Axul b'at ikot junok xumakil anh xutit t'a ix.
+ %spa A ve a traer una flor del palo de campana a ella.
+R mak te'.
++ mak te'.
++ spa        cerralo.
++ se escucha el ruido de golpes y un voz que no se capta de quien es.
+I mamaaa.
+ = nunin.
+ %spa mamá.
++ ruido de la puerta al momento de cerrarlo.
+I mammoooo.
+ = nunin.
+ %spa mamá.
+I mmaammmaaa.
+ = nunin.
+ %spa mamá.
++ se escucha ruido.
+L mimi' tik ni.
+ = ni him tik ni.
+ %spa aquí tenes tu seno (pecho de las mujeres).
+J vení.
+ = lemach.
+ %spa vení.
+N chilla.
+ = ( ).
+ %spa ( ).
+A ikot nene' t'a ix.
+ = ikot hixta' t'a ix.
+ %spa traíga tu juguete a ella.
+J lem.
+ = lem.
+ %spa ven.
+L mamaaa.
+ = nun o nunin.
+ %spa mamá.
+A ( ).
+ = ( ).
+ %spa ( ).
+I chilla de nuevo.
+ = ( ).
+ %spa ( ).
+N maaama.
+ = nunin.
+ %spa mamá.
+A hinpitza yol hachuchu' tzach wawi.
+ = hachin kuch han yo tzach wayi'.
+ %spa te cargo pues y dormite.
+N mamaaaaaaa.
+ = nunin.
+ %spa mamá.
+R lem han lem.
++ lem han lem.
++ spa        venite pues, vení.
+A tz'in chi' sb'at ix yiga tz'in.
+ = tz'in chi' sb'at ix yik'a tz'in.
+ %spa callate ya que ella ya se está yendo a traerlo callate.
+N mamaaaaaa.
+ = nunin.
+ %spa mamá.
++ se escucha ruido.
+N mamaaa.
+ = nunin.
+ %spa mamá.
++ se escucha ruido.
++ ( ).
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+R se rié.
++ ( ).
++ spa        ( ).
+I ayaaaaa'.
+ = ( ).
+ %spa ( ).
+I chilla.
+ = (  ).
+ %spa ( ).
+I aaayooo'.
+ = pek'al.
+ %spa glotones.
+A lolo.
+ = pek'al.
+ %spa glotones.
++ ruido.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+I haaaayyyooo'.
+ = pek'al.
+ %spa glotones.
+A tz'inach han, tz'innaach tz'in.
+ = tz'inach han, tz'inach tz'in.
+ %spa callate pues, callate, callate.
+I ( ).
+ = ( ).
+ %spa ( ).
+I empieza a chillar de nuevo.
+ = ( ).
+ %spa ( ).
+A ixik han b'at ilel ix.
+ = ixik han b'at ilel ix.
+ %spa vete pues, ve a verla.
+I sigue chillando.
+ = ( ).
+ %spa (  ).
+A ( ).
+ = ( ).
+ %spa ( ).
+N ( ).
+ = ( ).
+ %spa ( ).
+A ay Dios tz'inaaa.
+ = Ay Yos tz'inach.
+ %spa ay Dios callate.
+I sigue chillado.
+ = ( ).
+ %spa ( ).
+A no se escucha nada por el ruido.
+ = ( ).
+ %spa ( ).
+N llora.
+ = ( ).
+ %spa ( ).
+A ni jun hatete'  ni.
+ = ni jun ixta' ni.
+ %spa tenga una tú juguete ve.
+N mhama.
+ = nunin.
+ %spa mamá.
+N empieza a chillar.
+ = ( ).
+ %spa ( ).
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+N maaamaaaaaaaaaa.
+ = nunin.
+ %spa mamá.
+N maaaaaaaaaauu.
+ = ( ).
+ %spa ( ).
+A tas jun.
+ = tas jun.
+ %spa que pues.
+A b'at ilel ix han, b'at ilel ix.
+ = b'at ilel ix han, b'at ilel ix.
+ %spa ve a verla pues, ve a verla.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+L no se escucha nada por el ruido de la niña.
+ = ( ).
+ %spa ( ).
+L niiii.
+ = ni.
+ %spa ten o tenga.
+A ni'an.
+ = ni'an.
+ %spa tenga pues.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+I pamm.
+ = pan.
+ %spa pan.
++ se escuchan ruidos.
++ ruido de juguetes.
+A paaav.
+ = pan.
+ %spa pan.
++ se escucha el ruido de juguetes.
+F Ravi.
+ = David.
+ %spa David.
++ ruido de juguetes.
+R chap pilip.
++ tza pilip.
++ spa        te apuras.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+A papa pira ni.
+ = ( ).
+ %spa ( ).
+A tasss.
+ = tas.
+ %spa que.
++ ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ ruido.
+A wa papa.
+ = tzach wa'i'.
+ %spa quieres comer.
++ se escucha ruido.
+N ( ).
+ = ( ).
+ %spa ( ).
+A emanh wokan.
+ = emanh wokan.
+ %spa tome asiento.
+N mama.
+ = nunin.
+ %spa mamá.
+A emanh wokan b'at wik hapape.
+ = emanh wokan b'at wik' hakape.
+ %spa tome asiento voy a traerte café.
++ ruido.
+A lilin hach.
+ = emanh linhan.
+ %spa parate.
+L ni ni ni plor ni.
+ = ni, ni, ni jun xumak ni.
+ %spa mira, mira, mira una flor ve.
+A lilin b'at wik' hapape.
+ = emanh linhan b'at wik' hakape.
+ %spa parate voy ir a traerte café.
+L xit, xit, xit.
+ = xit, xit, xit.
+ %spa xit, xit, xit.
+A ixik t'a ix Linnn.
+ = Ixik t'a ix Axul.
+ %spa ve con A.
+I paammmm.
+ = pan.
+ %spa pan.
+A ixik t'a ix Linnn.
+ = ixik t'a ix Axul.
+ %spa ve con A.
++ se escucha ruido.
+A tok'em jun jun jun sskamix ix chi' het' Linn.
+ = tok'em jun skamix ix chi' het' Axul.
+ %spa A hazle bajar la camisa de ella por favor.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido y voces particulares.
+R ssyaab'iiii.
++ syab'i.
++ spa        él lo escucha.
+I maaamm.
+ = nunin.
+ %spa mamá.
++ no se puede reconocer quien esta hablando.
++ se escucha ruido y voces particulares.
+L kuch hanene' ni.
+ = kuch hune' ni.
+ %spa carga tu nene ve.
+L ayyy nene.
+ = ay ilnab' tzun ixta'.
+ %spa ¡ay! mira un juguetito.
++ se capta escuchar un voz pero muy bajo.
+I ni.
+ = ni.
+ %spa ten.
+L nene.
+ = hixta'.
+ %spa tú juguete.
+I neneeeeee''''.
+ = wixta'.
+ %spa mi juguete.
++ se escuchan voces particulares.
+L nene.
+ = hixta'.
+ %spa tú juguete.
++ se esucha ruido.
+F ha'irio.
+ = ( ).
+ %spa ( ).
++ ruido.
+I hiii han iiii'.
+ = ni han, hi'.
+ %spa tenga pues, si.
+I tosea.
+ = ( ).
+ %spa ( ).
+L hay.
+ = ¡ay!.
+ %spa ¡ay!.
++ se escucha ruido.
+L b'aj ix Malpal.
+ = b'ajay ix Malpal.
+ %spa donde esta María.
++ ruido.
+N empieza a chilla.
+ = ( ).
+ %spa ( ).
+I papaallllll.
+ = Malpal.
+ %spa María.
+A ajti kot ix.
+ = b'ajtil ix k'och ix.
+ %spa donde se fue ella.
+I hiiii.
+ = hi'.
+ %spa si.
+N chilla.
+ = ( ).
+ %spa ( ).
++ ruido.
+L t'ayin.
+ = t'ayin.
+ %spa conmigo.
+I tosea.
+ = ( ).
+ %spa ( ).
+L t'aaayyyiiiiiiiiiinnnnn.
+ = t'ayin.
+ %spa conmigo.
++ se escuchan voces particulares.
+F aww.
+ = ¡aw!.
+ %spa ¡ay!.
+L ( ).
+ = ( ).
+ %spa ( ).
+I mamaaa.
+ = nunin.
+ %spa mamá.
+N mam.
+ = nun o nunin.
+ %spa mamá.
+N hintz'ulu'.
+ = hintz'ulu'.
+ %spa lo pelo (de pelar).
++ se escucha ruido.
+I mama hiii'.
+ = ixin nun chi'.
+ %spa mi mamá pues.
+L ajtil ix k'och ix jun.
+ = b'ajtil ix k'och ix jun.
+ %spa donde se fue ella pues.
+I tosea.
+ = ( ).
+ %spa ( ).
+A tosea.
+ = ( ).
+ %spa ( ).
+I ayiiip.
+ = hi'.
+ %spa si.
++ se escucha ruido.
+I tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
+L mantik han ni.
+ = ( ).
+ %spa ( ).
+L lllilin ni.
+ = emanh linhan ni.
+ %spa parate y tenga.
+J ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L nena.
+ = nene'.
+ %spa nena.
++ se escucha ruido.
+L chami ach.
+ = tzach chami.
+ %spa te moris.
++ se escucha ruido.
+N lolo'.
+ = pek'al.
+ %spa glotones.
++ se escucha ruido.,
+N loxla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+N pavvv pa'.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+I avvv vi.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+I vvveeetee.
+ = ixik.
+ %spa vete.
++ se escucha ruido.
+J tosea.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+N yooyoo'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido y un voz que no se sabe de quien es.
++ se escuchan ruidos.
++ se escucha ruido.
++ se escucha ruido.
+N ay jun biolxa mama.
+ = ay jun wolsa nunin.
+ %spa ay una bolsa mamá.
++ se escucha ruido y unos voces que no se sabe de quien es.
+N togek' tumin.
+ = ix stok'ek' k'en hin tumin.
+ %spa me quito mi dinero.
+N togek wakax, kax, kax.
+ = stok'ek wakax.
+ %spa él quito la vaca.
++ se escucha ruido.
+J b'ay tanel.
+ = ak' tajnel.
+ %spa juga.
+F jantak jun nok' hagorrochi jun.
+ = jantak jun nok' hak'oxk'on chi' jun.
+ %spa donde esta tu gorra pues.
++ se escucha ruido.
+F yem, yem t'a nene.
+ = lem, lem t'a ix nene'.
+ %spa ven, ven con la nena.
+L nene.
+ = nene'.
+ %spa nena.
++ se escucha ruido.
++ se escucha el sonido de un juego (oso).
++ se escucha ruido.
++ ( ).
++ el sonido de un jugo (oso).
++ se escucha ruido.
+I to.
+ = jun elxo.
+ %spa otra vez.
++ se escuchann ruidos.
++ el sonido del juguete (oso).
++ se escucha ruido.
++ sonido del juguete (oso).
+L hin  julel yesik.
+ = hin julel yista'.
+ %spa voy a tirar su juguete.
++ sonido del juguete (oso).
++ se escucha ruido.
+L ni hakalo yet' nok ni.
+ = ni hakarro yet' nok' ni.
+ %spa ten juga carro con tu oso ve.
++ se escucha ruido.
+L lem.
+ = lem.
+ %spa ven.
++ ruido.
++ el sonido del juguete (oso).
++ se escucha ruido.
+L xuk hixa tita'.
+ = kuch hixa tik han.
+ %spa carga tu esta pues.
+L hixa tik ni.
+ = hixa tik ni.
+ %spa esta tú (nena) ve.
++ se escucha el canto de una gallina.
+L pan han nu.
+ = b'an han nu.
+ %spa oprimi pues mija.
++ se escucha ruido.
++ el sonido del juguete (oso).
+L kopicha aaajj.
+ = kopich han.
+ %spa lo envolvamos pues.
++ se escucha ruido.
+L pipixx t'a tik.
+ = emanh k'ojan t'a tik.
+ %spa sentate aquí ve.
++ ruido.
+L to ko pan hapan.
+ = to'ol, komanh hapan.
+ %spa es que te vamos a comprar tu pan.
++ se escucha ruido del juguete.
+I ( ).
+ = ( ).
+ %spa ( ).
+N aaaaaayy pukkkkk.
+ = ( ).
+ %spa ( ).
++ se escucha el sonido del osito y el ruido del juguete (carro).
++ se escucha la caída de I encima de su juguete.
+L puxik'.
+ = ( ).
+ %spa ( ).
+I empieza a llorar por la caída.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tz'in, tz'in, tz'in tz'in.
+ = tz'in, tz'in, tz'in tz'in.
+ %spa callate, callate, callate, callate.
+L se rié.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tz'in, tz'in.
+ = tz'in, tz'in.
+ %spa callate, callate.
++ se escucha ruido.
+I sigue llorando por la caída.
+ = ( ).
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa ( ).
+A tzinach.
+ = tz'inach.
+ %spa callate.
++ el sonido del juguete (oso o peluche).
+A ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A tz'in tz'in.
+ = tz'in, tz'in.
+ %spa callate, callate.
++ se escucha ruido.
+A tz'inach han, tz'in tz'in.
+ = tz'inach han, tz'in, tz'in.
+ %spa callate pues, callate, callate.
+I sigue llorando.
+ = ( ).
+ %spa ( ).
++ ruido.
+A tz'inatz.
+ = tz'inach.
+ %spa callate.
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+A tzin.
+ = tz'in.
+ %spa callate.
+A tz'in olkalyab' winh papa tz'in.
+ = tz'in olkalkot yab' winh mamin tz'in.
+ %spa callate lo vamos a decir a papá callate.
+L ch'inan ni.
+ = tz'in han ni.
+ %spa callate pues.
++ se escucha el sonido del (osito).
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+A tz'in, tz'in.
+ = tz'in, tz'in.
+ %spa callate, callate.
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+J mach ixach mak'.
+ = mach ixach mak'ani.
+ %spa quien te pego.
+A ol komaga' tz'in, ol komaga' tz'in.
+ = ol komak'a' tz'in, ol komak'a' tz'in.
+ %spa lo vamos a pegar, callate, lo vamos a pegar callate.
+L hajun tik.
+ = hajun tik.
+ %spa es esto.
++ se escucha ruido.
+I sigue llorando por la caída.
+ = ( ).
+ %spa ( ).
+A tz'in tz'in ol komaga tz'in.
+ = tz'in, tz'in ol komak'a' tz'in.
+ %spa callate, callate lo vamos a pegar callate.
+A tz'in han, tz'in.
+ = tz'in han, tz'in.
+ %spa callate pues, callate.
+I llora.
+ = ( ).
+ %spa ( ).
+L ch'in han ni.
+ = tz'in han ni.
+ %spa callate pues ten.
+L alb'at t'a winh papa.
+ = alb'at t'ay winh komam.
+ %spa digalo con nuestro papá.
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+A ni alb'at t'a winh papa, alb'at t'a winh papa.
+ = ni alb'at t'a winh hamam, alb'at t'a winh hamam.
+ %spa ten avisale con tú papá, avisale con tú papá.
+A alb'at t'a winh papa.
+ = alb'at t'a winh hamam.
+ %spa digale a tú papá.
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+A tz'ina.
+ = tz'inach.
+ %spa callate.
+A ( ).
+ = ( ).
+ %spa ( ).
+A alb'at t'a winh papa han tz'in.
+ = alb'at t'a winh  hamam chi' han tz'in.
+ %spa digale a tú papá pues, silencio.
+A b'ajtil, b'ajtil b'ajay hayaya'.
+ = b'ajtil, b'ajtil, ix hab' sya'il.
+ %spa ¿dónde?, ¿Dónde te dolió?.
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+A b'ajay hayaya'.
+ = b'ajtil ix hab' sya'il.
+ %spa donde te dolió.
+I chi aaaaaaaaaaaaa.
+ = t'a chi', aaaaaaaaaa.
+ %spa ahí, aaaaaa.
+A t'a chi.
+ = t'ay chi'.
+ %spa ahí.
+A taxa k'ulej, tax hak'ulej.
+ = tas ixa k'ulej, tas ixa k'ulej.
+ %spa que te paso, que te paso.
+I mmaamaaa.
+ = nunin.
+ %spa mamá.
+A ixach hempum.
+ = ixach hempunhnajok.
+ %spa te caíste.
++ ruido de un golpe.
+I sigue llorando por la caída.
+ = ( ).
+ %spa ( ).
+A ix hak' hapum.
+ = ixach hempunhnajok.
+ %spa te caíste.
+I sigue llorando.
+ = ( ).
+ %spa ( ).
++ ( ).
+A ix hak' hapummm.
+ = ixach hempunhnajok.
+ %spa te caíste.
+A tz'in han, tz'in, manhach ok'ok.
+ = tz'in han, tz'in manhach ok'ok.
+ %spa silencio pues, silencio, no llorés.
++ se escucha ruido.
+I sigue llorando todavia.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tz'inach, tz'in.
+ = tz'inach, tz'in.
+ %spa silencio, silencio.
++ se escuchan ruidos.
+I chilla.
+ = ( ).
+ %spa ( ).
++ ruido.
++ se escucha el ruido de juguete (oso).
+I ( ).
+ = ( ).
+ %spa ( ).
+A ab'i.
+ = hab'i.
+ %spa escucha.
++ se escucha ruido.
+A b'ajtil, taxak'ulej, taxak'ulej.
+ = b'ajtil, tas ixa k'ulej, tas ixa k'ulej.
+ %spa donde, que te paso, que te paso.
++ se escucha ruido.
+I ni ttiii'.
+ = t'ay chi'.
+ %spa ahí.
++ ruido.
+A ix yak' hayaya.
+ = ixach hempunhnajok.
+ %spa te caíste.
+I hhiiiii'.
+ = hi'
+ %spa si.
+A b'ajtil, b'ajtil.
+ = b'ajtil, b'ajtil.
+ %spa donde, donde.
++ se escucha ruido.
+I nnnnni tikkk.
+ = t'ay tik.
+ %spa aquí.
+A b'ajtil ix yak' hayaya' chi.
+ = b'ajtil ixach hempunhnaj chi'.
+ %spa donde fue tu caída.
++ se escucha ruido de unas sillas.
+A pum ya'ani.
+ = pum yak'ani.
+ %spa ¡pum! sonó.
++ se escucha ruido.
+A k'ax yak' hayaya'.
+ = b'ajtil ixach hempunhnajok.
+ %spa donde fue tu caída.
++ se escucha ruido.
+A t'a tik.
+ = t'a tik.
+ %spa fue aquí.
++ ruido.
+I nhhh hi.
+ = ( ).
+ %spa ( ).
+A ch'oxo' b'aj ix yak' hayaya'.
+ = ch'oxo' b'ajtil ixach hempunhnajok.
+ %spa mostra donde fue tú caída.
++ se escucha ruido.
+I chilla.
+ = (  ).
+ %spa (  ).
+A ni hann.
+ = ni han.
+ %spa ten pues.
++ se escucha ruido.
+A b'aj ix yak' hayaya' jun.
+ = b'ajtil ixach hempunhnaj jun.
+ %spa donde fue tú caída pues.
+I wii tiiiii.
+ = ( ).
+ %spa ( ).
++ ruido.
+A ch'ox han, ch'oxo'.
+ = ch'ox han, ch'oxo'.
+ %spa mostra pues, mostra.
++ ruido.
+I chilla de nuevo.
+ = ( ).
+ %spa ( ).
+A ch'oxo' b'aj ix yak' yaya' chi'.
+ = ch'oxo' b'ajtil ixach hempunhnaj chi'.
+ %spa mostra donde fue tú caída pues.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
+A lem yol ol.
+ = ( ).
+ %spa ( ).
+I sigue chillando.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A lulu' xa chi.
+ = ukem xa chi.
+ %spa atol decí. (bebida).
++ ruido de un golpe.
++ se escucha ruido.
+A emanh han, tzak, tzuk'an halulu' emanh.
+ = emanh han, tzuk'an huk'em, emanh.
+ %spa bajate pues y toma tú atol, baja.
++ ruido.
+I mnh.
+ = (  ).
+ %spa (  ).
++ ruido.
+A emanh pipis tzuk'an halulu'.
+ = emanh k'ojan tzuk'an huk'em.
+ %spa sentate y tomas tu atol (tomas tú bebida).
++ se escucha ruido.
+A linhan.
+ = emanh linhan.
+ %spa parate.
++ se escuchan ruidos.
+A tz'inan ni hak' spán nok' hanene' tik.
+ = tz'inan ni hak' span nok' ixta' tik.
+ %spa silencio pues dale el pan a tu juguete pues.
++ ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+A emanh wokan t'a ti.
+ = emanh wokan t'a tik.
+ %spa sentate aquí.
++ se escucha ruido.
+A emanh wokan.
+ = emanh wokan.
+ %spa sentate.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A ni'i.
+ = ni'i.
+ %spa tenga.
++ se escuchan ruidos y golpes.
+A ak' slulu' nok', ak' slulu' no.
+ = ak' yuk'em nok', ak' yuk'em.
+ %spa dale de tomar, dale de tomar.
++ ruido de un golpe.
+I ( ).
+ = ( ).
+ %spa ( ).
+I tosea.
+ = ( ).
+ %spa (  ).
++ ruido.
+I unnn tiiiiiiii'.
+ = hajun tik.
+ %spa es esto.
+A hajun tik ix ak'an hayayaa.
+ = hajun tik ixach ak'an hempunhnajok.
+ %spa fue esto que te hizo caer.
++ ruido.
+I unn tiii'.
+ = hajun chi'.
+ %spa fue eso o es eso.
+A tax hak'ulej, tax hak'ulej.
+ = tas ixa k'ulej, tas ixa k'ulej.
+ %spa que te paso, que te paso.
++ se escucha ruido.
+I uu uu uuuuuu.
+ = ( ).
+ %spa ( ).
++ se escuchan los ruidos del juguete.
+A ( ).
+ = (  ).
+ %spa ( ).
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A b'aj ix yak' hapum.
+ = b'ajtil ixach hempinhnajok.
+ %spa donde fue tú caída.
++ se escucha ruido.
+A b'aj ix yaga.
+ = b'ajtil ix yak'a.
+ %spa donde fue.
++ se escucha ruido.
+A Esmi b'aj ix yak' hayaya'.
+ = Esmeraida b'ajtil ixach hempunhnajok.
+ %spa Esmeraida donde fue tú caída.
++ ruido.
++ se escucha el canto de un gallo.
+I nhh.
+ = ( ).
+ %spa ( ).
+A hata.
+ = hata'.
+ %spa fue ahí.
++ se escucha el ruido.
+A ax ak'ani.
+ = tas ix ajyak'ani.
+ %spa como fue.
++ se escucha ruido.
+A tas ix sk'ulej.
+ = tas ixa k'ulej.
+ %spa que te paso.
++ se escuchan ruidos y el canto de un gallo.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A alb'at  t'a winh papa ol yikot lolo' winh.
+ = alb'at t'a winh hamam ol yikot hapek'al winh.
+ %spa digale a tú papá que te traé tus glotones.
++ ruido.
+A alb'at t'a wi.
+ = alb'at t'a winh.
+ %spa digale con él.
+A ( ).
+ = ( ).
+ %spa ( ).
+A papa hinlolo' xa chi.
+ = mamin hinpek'al xa chi.
+ %spa papá mis glotones.
++ ruido.
+I ho.
+ = ho.
+ %spa ¡oh!.
++ se escucha ruido.
+A mmi pam xa chi.
+ = tzikot hinpan xa chi.
+ %spa me traes mi pan, decí.
++ ruido.
++ se escucha el canto de un gallo.
++ se escucha ruido.
+A alb'at t'a winh olyik'ot hapan wi.
+ = alb'at t'a winh olyik'ot hapan winh.
+ %spa digale a él, que te traen tus panes.
++ se escucha ruido.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escucha el ruido de los juguetes de la niña.
++ se escucha ruido.
+A ak'jak yik hanene' chi', ak'jak yiko'.
+ = ak'jak yik hune' chi', ak'jak yiko'.
+ %spa dale algo para tu nene pues, dale algo para él.
++ se escucha ruido.
+A ni nene' xa chi.
+ = ni nene' xa chi'.
+ %spa tenga nene decí.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido y el canto de un gallo.
+A b'ajay waj Arnolfin, b'ajay winh.
+ = b'ajay waj Arnolfin, b'ajay winh.
+ %spa donde esta Arnolfin, donde esta él.
++ se escucha ruido.
+A b'aj ix k'och wi.
+ = b'ajtil ix k'och winh.
+ %spa donde se fue él.
+L ni wintik t'a hintz'ey.
+ = ni winh tik t'a hintz'ey.
+ %spa aquí esta él a mi lado.
+A b'aj ix k'och win.
+ = b'ajtil ix k'och winh.
+ %spa donde se fue él.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A b'aj ix k'och waj pin.
+ = b'ajtil ix k'och winhaj Arnolfi.
+ %spa donde se fue él.
+I witk'.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+A ix b'at wi.
+ = ix b'at winh.
+ %spa él se fue.
++ se escucha ruido.
+A ch'oxo' b'ajtil ix b'at wi.
+ = ch'oxo' b'ajtil ix b'at winh.
+ %spa señalá o mostra donde se fue él.
++ se escucha ruido.
+A nena.
+ = nene'.
+ %spa nena.
++ se escuchan ruidos.
++ se escucha el ruido de una silla.
+A al t'a ix papal.
+ = al t'a ix Malpal.
+ %spa digale a María.
++ ruido.
+A al t'a ix Malpal.
+ = al t'a ix Malpal.
+ %spa digale a María.
++ se escucha el ruido de una silla metal.
++ se escucha ruido y ruido  de un golpe.
+L tosea.
+ = ( ).
+ %spa ( ).
+A awtej ix.
+ = awtej ix.
+ %spa llámala.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A Malpal xa chi.
+ = Malpal xa chi.
+ %spa María decí.
++ se escucha ruido.
+A tajnanh  han.
+ = tajnanh han.
+ %spa juga pues.
++ se escucha ruido.
+L k'e'anh yol hakarro.
+ = ke'anh yol hakarro.
+ %spa subí dentro de tú carro.
++ se escucha ruido.
+L Xepel.
+ = Xepel.
+ %spa I.
++ ruido.
++ sonido de la vosina del juguete estilo carro.
+A a yok'i.
+ = ab'i yok'i.
+ %spa escucha su sonido.
++ ruido.
+A tax ke'i'.
+ = tzach k'e'i'.
+ %spa te subis.
++ se escucha ruido.
+I hoy.
+ = hoy.
+ %spa si.
++ se escucha ruido.
++ se escucha el canto de un gallo.
+A wab'at hapan han tzach k'e'i'.
+ = wab'at hapan han tzach k'e'i'.
+ %spa comé tú pan pues y te subís.
++ se escucha ruido.
+A b'ajti hix ya hayayan.
+ = b'ajtil ixach hempunhnajok.
+ %spa donde fue tú caída.
++ se escucha ruido.
+A ajxaga yak hayaya.
+ = b'ajtil ixach hempunhnajok.
+ %spa donde fue tú caída.
++ se escuchan ruidos.
+A Esme.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escucha el canto de un gallo.
+A axa ya hayaya.
+ = b'ajtil ixach hempunhnajok.
+ %spa donde fue tú caída.
++ se escucha el ruido de los zapatos de Arnolfin al momento de 
+  caminar.
+A ch'oxo' b'aj ix yak hayaya'.
+ = ch'oxo' b'ajtil ixach hempunhnajok.
+ %spa mostra donde fue tú caída.
++ se escucha ruido y golpes.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha el canto de un gallo.
++ se escucha ruido.
++ se escucha ruido.
+A Xepel.
+ = Xepel.
+ %spa I.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
+A b'ax ya' hayaya'.
+ = b'aj ixach empunhnajok.
+ %spa donde fue tú caída.
++ ruido.
+A yoooo ix maj, ix maj.
+ = yo ix lajwi, ix lajwi.
+ %spa ¡oh! se termino, se termino.
++ se escucha el ruido de una gallina.
+A ix maj xa chi.
+ = ix lajwi xa chi.
+ %spa se termino decí.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ix maj xa chi.
+ = ix lajwi xa chi.
+ %spa se termino decí.
++ se escucha el canto de un gallo.
+A ( ).
+ = ( ).
+ %spa ( ).
+I quiere chillar de nuevo.
+A to yujun ixim ix emnumnaj ix chine'.
+ = to yuj jun ixim ix emnumnaj ix chine'ik.
+ %spa solo por uno que le dí, ella se calló de llorar.
+I chilla de nuevo.
+ = ( ).
+ %spa ( ).
+A tz'inach, tz'in, tz'in.
+ = tz'inach, tz'in, tz'in.
+ %spa callate, silencio, silencio.
+A tz'in tamay ol hik' sincha tz'in.
+ = tz'inach tama'ay ol hik' sincha tz'in.
+ %spa silencio, si no te van a cinchar.
+I empieza a chillar de nuevo.
+ = ( ).
+ %spa ( ).
+A tz'in xach yik'tab'at heb' winh tik tz'inach.
+ = tz'in xach yik'tab'at heb' winh tik tz'inach.
+ %spa silencio que no te vayan a llevar estos silencio.
++ se escucha el canto de un gallo.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ se escucha  el canto de un gallo.
++ se escuchan ruidos.
+A elanh xa chi, elanh xa chi.
+ = elanh xa chi, elanh xa chi.
+ %spa quita decí, quita decí.
++ se escucha ruido y cantos de pollitos y una gallina.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ se escucha el canto de un gallo.
+A se rié.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A yelk'ola wa'an b'at ixim hapam chi'.
+ = yelk'olal hawa'an b'at ixim hapan chi'.
+ %spa apurate en comerte tú pan pues.
++ se escucha ruido canto de una gallina.
++ se escucha el canto de una gallina y pollitos.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido y canto de unos pollitos y un voz que se sabe de 
+  quien y que dice.
++ se escucha el canto de un gallo.
+L no se escucha lo que dice.
+ = ( ).
+ %spa ( ).
++ se escucha ruido y canto de unos pollitos.
++ se escucha el canto de los pollitos y ruidos.
+A b'ajay winh papa.
+ = b'ajay winh hamam.
+ %spa donde está tú papá.
++ se escucha ruido y cantos de los pollitos.
+A aj ix k'och winh papa.
+ = b'aj ix k'och winh hamam.
+ %spa donde se fue tú papá.
++ se escucha ruido yel canto de un gallo.
+A b'a ix k'och wi papa.
+ = b'ajtil ix k'och winh hamam.
+ %spa donde se fue tú papá.
++ se escuchan ruidos.
+A b'ajtil ix k'och winh.
+ = b'ajtil ix k'och winh.
+ %spa donde se fue él.
++ se escucha ruido.
+A tas.
+ = tas.
+ %spa que.
+I nii niiii i''.
+ = ( ).
+ %spa ( ).
+A b'ajti'il.
+ = b'ajtil.
+ %spa en donde.
++ se escucha ruido.
+A b'ajtil, b'ajtil.
+ = b'ajtil, b'ajtil.
+ %spa en donde, en donde.
++ se escucha ruido y canto de los pollitos.
+I empieza a chillar de nuevo.
+ = ( ).
+ %spa ( ).
+A tz'inach, tz'in manhach ok'ok tz'in.
+ = tz'inach, tz'in manhach ok'ok tz'in.
+ %spa silencio, silencio no llores silencio.
+A manhach ok'ok tz'in.
+ = manhach ok'ok tz'in.
+ %spa no llores silencio.
+I quiero llorar de nuevo.
+ = ( ).
+ %spa ( ).
+A ke'anh lilin b'an olach yik' b'ati.
+ = ke'anh linhan han olach yik'b'at heb' winh.
+ %spa parate pues, ellos te van a llevarte.
+A olach yik'b'at heb' winh yuj hachukal ma'ok'ok.
+ = olach yik'b'at heb' winh yuj hachukal, manhach ok'ok.
+ %spa ellos te van a llevar por ser malcriada, no llorés.
++ ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha el canto de unos pollitos.
+A olach yik'b'at heb' wi.
+ = olach yik'b'at heb' winh.
+ %spa ellos te van a llevar.
+A adios xa chi.
+ = kalxi xa chi.
+ %spa adios decí.
+A xach yik'tab'at heb' wii.
+ = xach yik'tab'at heb' winh.
+ %spa que no te vayan a llevar ellos.
++ se escucha ruido y pollitos.
+I ( ).
+ = ( ).
+ %spa ( ).
+A manhach ok'ok.
+ = manhach ok'ok.
+ %spa no llorés.
++ se escucha ruido.
+A tzach ke yipan hakalo.
+ = tzach k'e yib'an hakarro.
+ %spa te subis en cima de tú carro.
++ se escucha ruido.
+I chilla.
+ = (  ).
+ %spa ( ).
+A tz'inach, tz'in.
+ = tz'inach, tz'in.
+ %spa silencio, silencio.
++ ruido.
+I sigue chillando.
+ = ( ).
+ %spa ( ).
++ ruido de una silla.
+I nnnniii.
+ = ni.
+ %spa ten.
++ se escucha una platica particular.
+A tzin.
+ = tz'in.
+ %spa silencio.
+A tz'in manhach ok'ok, tz'inach.
+ = tz'in manhach ok'ok, tz'inach.
+ %spa silencio no llorés, silencio.
++ se escucha ruido y voces particulares.
+A awtej ix Malpal awtej ix.
+ = awtej ix Malpal, awtej ix.
+ %spa llama a María, llamala.
++ se escucha ruido.
+A Palpal ix xa chi.
+ = Malpal ix xa chi.
+ %spa ella es María.
+A respira como que está cansada.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
+A al t'a ix Malpal.
+ = al t'a ix Malpal.
+ %spa dígale a María.
++ no se sabe de quién es ese voz.
++ ruido.
+A awtej ix.
+ = awtej ix.
+ %spa llámala.
++ se escucha ruido.
+A tzach way may.
+ = tzach wayi' may.
+ %spa quieres dormir.
++ se escucha ruido.
+A tzach way.
+ = tzach wayi'.
+ %spa quieres dormir.
++ ruido.
+I nhi.
+ = hi'.
+ %spa si.
++ se escucha ruido.
+A la skot hawaya.
+ = lan skot hawayanh.
+ %spa ya te esta dando sueño.
++ ruido.
+I nhhi'.
+ = hi'.
+ %spa si.
++ se escucha ruido de cables.
+A way xa chi'an, way xa chi.
+ = skot hinwayanh xa chi han, skot hin wayanh xa chi.
+ %spa ya me esta dando sueño decí pues, ya me esta dando sueño decí.
++ se escucha ruido.
+A tas.
+ = tas.
+ %spa que.
++ se escucha ruido.
+A way xa chi.
+ = tzin wayi' xa chi.
+ %spa me duermo decí.
++ ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A way xa chi.
+ = tzin wayi' xa chi.
+ %spa me duermo decí.
+I chilla.
+ = ( ).
+ %spa ( ).
+I quiere llorar.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tas k'ule.
+ = tas ix sk'ulej.
+ %spa que le paso.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+A mmmmm.
+ = mmmmm.
+ %spa mmmmm.
+A tzin way xa chi.
+ = tzin wayi' xa chi.
+ %spa me duermo decí.
+I chilla.
+ = ( ).
+ %spa ( ).
+A nene.
+ = nene'.
+ %spa nena.
+L chit, chit, xu.
+ = xit, xit, xit.
+ %spa ey, ey, ey.
+A tas.
+ = tas.
+ %spa que.
++ se escucha ruido.
++ se escucha el sonido del juguete (oso o peluche).
+I hiii.
+ = hab'i.
+ %spa escucha.
+A hapi yakan no.
+ = ab'i yak'an nok'.
+ %spa oí como dice.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A jayy pppuxi.
+ = ( ).
+ %spa ( ).
+L ni.
+ = ni.
+ %spa ten o tenga.
++ se escucha ruido.
+A ak' sbeso.
+ = ak' jun stz'ob'.
+ %spa dale un su beso.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A jiji ay yo ix ak' sbeso.
+ = jiji ay yos ix ak' jun stz'ob'.
+ %spa jiji ay Dios le diste un su beso.
++ se escucha ruido.
+A hemanh wokan han.
+ = emanh wokan han.
+ %spa sentate pues.
+A emanh wokan.
+ = emanh wokan.
+ %spa sentate.
++ se escucha ruido.
+A emanh wokan tzak sbeso.
+ = emanh wokan tzak'an jun stz'ob'.
+ %spa sentate y dale un su beso.
++ se escucha ruido.
+A hipipis.
+ = emanh wokan.
+ %spa sentate.
+I ( ).
+ = ( ).
+ %spa ( ).
+A hepipis em pipis han ni.
+ = tzach emk'ojan, emanh k'ojan han ni.
+ %spa te sentá, sentate pues ten.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha rl canto de un gallo.
+A ak' sbeso, ak' sbeso.
+ = ak' jun stz'ob', ak' jun stz'ob'.
+ %spa dale un su beso, dale un beso.
++ ruido.
+A ak sbeso ni.
+ = ak' jun stz'ob' ni.
+ %spa dale un su beso ten.
++ se escucha ruido.
+A eso.
+ = hatoni.
+ %spa eso.
++ se escucha ruido.
+A tzach way yet' nok.
+ = tzach way yet' nok'.
+ %spa te dormís con el (osito o peluche).
+I ( ).
+ = ( ).
+ %spa ( ).
+I hiii tiiiii i'.
+ = ni chi'.
+ %spa ahí esta.
+A b'aja.
+ = b'ajay.
+ %spa ¿Dónde?.
++ ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ ( ).
+I chilla.
+ = ( ).
+ %spa ( ).
+A tz'in, tz'in.
+ = tz'in, tz'in.
+ %spa silencio, silencio.
+I wwaaaa.
+ = tzin wayi'.
+ %spa me duermo.
+I hijiji wwwamaaa.
+ = hijiji nunin ha.
+ %spa hijiji mamá.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I empieza a llorar.
+ = ( ).
+ %spa ( ).
+I sigue llorando.
+ = ( ).
+ %spa ( ).
+A tzi.
+ = tz'in.
+ %spa silencio.
++ se escucha el sonido del juguete (peluche).
++ se escucha ruido.
+A manhxo achok'ok.
+ = manhxo hach ok'ok.
+ %spa ya no llorés.
++ se escucha ruido de una silla.
++ ( ).
+I ( ).
+ = ( ).
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa ( ).
+A lob'at.
+ = lob'ati.
+ %spa comelo.
+A ( ).
+ = ( ).
+ %spa ( ).
+A hinlolo' xa chi.
+ = hinpek'al xa chi.
+ %spa mi glotón decí.
++ se escuchan voces particulares en la grabación.
+A hinlolo' xa chi.
+ = hinpek'al xa chi.
+ %spa mi glotón decí.
+I ni.
+ = ni.
+ %spa ten.
+A hinlolo' xa chi.
+ = hinpek'al xa chi.
+ %spa mi glotón decí.
+I chilla.
+ = ( ).
+ %spa ( ).
+I ( ).
+ = ( ).
+ %spa ( ).
+A Lexit.
+ = Lexito, Lexo o Antil.
+ %spa Andrés.
++ se escucha ruido.
+F tass.
+ = tas.
+ %spa que.
+A b'at ik'eta jun k'uchulub' sko.
+ = b'at ik'eta jun k'uchulub' sko leselta jun tik.
+ %spa ve atraer un cuchillo, para cortarle un poco este.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+F tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido de los zapatos al momento de caminar.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A hinlolo' xa chi.
+ = hinpek'al xa chi.
+ %spa mi glotón decí.
++ se escucha ruido.
++ saber quien tosea.
++ se escucha el sonido del peluche y el toseamiento de alguien.
+I ( ).
+ = ( ).
+ %spa ( ).
+I ni'iiii.
+ = ni'i.
+ %spa tenga.
++ se escucha ruido.
+A ni'an ak' slo'.
+ = ni'an ak' slo'o.
+ %spa tenga pues dale de comer.
+A ak' slo'.
+ = ak' slo'o.
+ %spa dale de comer.
+A hinlo'ein.
+ = hinlo' ha'in tik.
+ %spa yo lo como.
++ se escucha ruido.
+I aaaa'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ se escucha voces particulares.
++ se escucha ruido y canto de pollitos.
+A emanh wokan a'.
+ = emanh wokan han.
+ %spa sentate pues.
++ se escucha ruido.
+F anheja t'a ti.
+ = anheja t'ay tik.
+ %spa va  hacer aquí de nuevo.
++ se escucha voz particular.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+A ak' slolo' hanene'.
+ = ak' spek'al hanene'.
+ %spa dale sus glotones de tú nene.
++ se escucha ruido.
+A lolo' xa chi.
+ = pek'al xa chi.
+ %spa glotones decí.
++ se escucha ruido y un voz.
+A ( ).
+ = ( ).
+ %spa (  ).
++ se escucha un voz y ruidos.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ni.
+ = ni.
+ %spa ten.
+A awtej kanh t'a yolch'anh yikan och ta wih.
+ = awtej kanh och yolch'anh ol yikan och ta winh.
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa (  ).
++ ruido de un golpe.
++ se escucha una platica que no se logra escuchar nada.
++ ( ).
++ se escucha ruido de juguetes.
+A hooo' xa chi.
+ = ho' xa chi.
+ %spa ho' decí.
++ se escucha ruido y voces.
+A ( ).
+ = ( ).
+ %spa ( ).
+A ak' yik hanene', ak' yik hanene'.
+ = ak' yik hune', ak' yik hune'.
+ %spa dale a tú nene, dale a tú nene.
++ se escucha ruido.
+A ak' slolo' hanene'.
+ = ak' slolo' hune'.
+ %spa dale sus glotones a tú nene.
++ se escucha ruido.
++ se escucha ruido.
+I yyyoooonn.
+ = yon.
+ %spa ¡oh!.
++ se escucha ruido.
++ sonido de un teléfono.
++ se escucha ruido y una platica de particulares.
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A jakxi iko' xa chi.
+ = ni jab'xo iko' xa chi.
+ %spa aqu´ki tenes otro poco decí.
++ se escucha ruido.
++ se escucha ruido.
++ se escucha ruido.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+A jakxo xa chi yuj chi' olwaga'.
+ = jakxo wiko' xa chi, tuj chi' olwak'a'.
+ %spa dame otro poco decí, por eso te lo voy a dar.
++ ruido.
+A ak jakxo wiko' xa chi.
+ = ak jakxo wiko' xa chi.
+ %spa dame otro poco decí.
+I ay ayyyy ay ayyyy.
+ = ( ).
+ %spa ( ).
+A b'ajay jun, b'aja.
+ = b'ajay jun, b'ajay.
+ %spa donde esta pues, donde esta.
++ ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A b'ajay.
+ = b'ajay.
+ %spa donde esta.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+A b'ajay jun, b'ajay.
+ = b'ajay jun, b'ajay.
+ %spa donde esta pues, donde esta.
++ se escucha ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+A ix lolo'.
+ = slolo' ix.
+ %spa glotones de ella.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A lolo' xa chi yuj chi' olwaga'.
+ = lolo' o pek'al xa chi, yuj chi' olwak'a'.
+ %spa glotones decí, por eso te lo doy.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I wiwiss.
+ = emanhk'ojan.
+ %spa sentate.
+A pipisss.
+ = tzin emkojan.
+ %spa me siento.
+I chilla.
+ = ( ).
+ %spa ( ).
+A hinempipis han, hinempipis.
+ = hin emk'ojanh han, hin emk'ojan.
+ %spa me siento pues, me siento.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ se escucha ruido.
+A pipis xa chi t'a waj Lexo.
+ = emanhk'ojan xa chi t'a waj Lexo o Antil.
+ %spa sentate decí con Andrés.
++ se escucha ruido.
+F xal winh papa Xepel.
+ = xal winh hamam Xepel.
+ %spa y tú papá I.
++ se escucha ruido.
+F Xepel.
+ = Xepel.
+ %spa I.
++ se escucha ruido.
+F xal winh papa.
+ = xal winh hamam.
+ %spa y tú papá.
++ se escucha ruido.
+A papa winh xa chi.
+ = hinmam winh xa chi.
+ %spa es mi papá decí.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tomaj hakuch ix.
+ = tomaj hakuch ix.
+ %spa a caso que no la vas a cargarla.
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tza kuch ix.
+ = tza kuch ix.
+ %spa la cargas.
++ se escucha ruido.
+A Esmi.
+ = Esmeraida.
+ %spa Esmeraida.
++ ruido.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A kuchu' ix, kuchu' ix.
+ = kuch ix, kuch ix.
+ %spa cargala, cargala.
++ se escucha ruido.
+A kuchu' ix.
+ = kuch ix.
+ %spa cargala.
++ se escucha ruido.
++ se escucha ruido.
+I haaab'.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos y voces particulares.
+I mmmnh.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A b'ajay.
+ = b'ajay.
+ %spa donde esta.
++ se escuchan ruidos.
+I mmppb'.
+ = ( ).
+ %spa ( ).
+I cchhhiiiii'.
+ = ni jun chi'.
+ %spa ahí esta otro.
+A b'ajay.
+ = b'ajay.
+ %spa donde esta.
++ se escuchan ruidos.
+A hooo' xa chi.
+ = ho' o mik xa chi.
+ %spa basura decí o sucio decí.
++ se escucha ruido.
+A sucio xa chi.
+ = mik xa chi.
+ %spa sucio decí.
++ se escucha ruido.
+A b'ajay sucio, b'ajay sucio.
+ = b'ajay mik, b'ajay mik.
+ %spa donde esta sucio, donde esta sucio.
++ se escucha ruido.
+A b'hhaaa.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ se escucha una platica de unos niños particulares.
++ se escucha ruido.
+A tomaja kuchu' ix hinchuchu' ix, hinchuchu' ix.
+ = tomaja kuch ix, hinkuch ix ha'in tik, hinkuch ix ha'in tik.
+ %spa a caso no la vas a cargarla, yo la voy a cargarla, yo la voy a 
+  cargarla.
++ se escucha ruido.
+A hin chuchu' ix.
+ = hinkuch ix ha'in tik.
+ %spa yo la voy a cargarla.
+I mmm tzi'.
+ = ni jun chi'.
+ %spa ahí esta uno.
++ se escucha ruido.
+A mal ixxxx.
+ = mach ix.
+ %spa quién ella.
++ se escucha ruido.
+A k'e'an linhan tza kuchan ix.
+ = k'e'an linhan tza kuchan ix.
+ %spa parate y cargala.
++ se escuchan ruidos.
+A huuxx.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+A tza kuch ix.
+ = tza kuch ix.
+ %spa la cargas.
++ se escuchan ruidos.
+I wwwiiiiiiiiii'.
+ = hi'.
+ %spa si.
++ ruido.
+A hakuch ix.
+ = tza kuch ix.
+ %spa la cargas.
+A hiiiiii telan tas jun chi'.
+ = hi telan tas jun chi'.
+ %spa ¡ih! por cierto que es eso.
++ se escucha ruido.
+A sucio.
+ = mik.
+ %spa sucio.
++ se escucha ruido.
+A sucio xa chi.
+ = mik xa chi.
+ %spa sucio.
++ se escucha ruido.
+A sucio.
+ = mik.
+ %spa sucio.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
+A ak' jak smansan hanene', ak' jak smansan.
+ = ak' jak smansan hune', ak' jak smansan.
+ %spa dale un poco la manzA con tú nene, dale un poco su manzana.
+A tosea.
+ = ( ).
+ %spa ( ).
+I hoooo.
+ = hoy.
+ %spa si.
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
+A ak'b'at t'a hanene'.
+ = ak'b'at t'a hune'.
+ %spa dale con tú nene.
++ ruido.
+I ho.
+ = ho.
+ %spa oy o si.
++ ruido.
+A ak'b'at t'ayanene'.
+ = ak'b'at t'ay hune'.
+ %spa dale eso con tú nene.
+I niiii.
+ = ni.
+ %spa ten.
++ ruido.
+A ni'i xa chi t'ay.
+ = ni'i xa chi t'ay.
+ %spa tenga decile con.
++ se escucha ruido.
+A nena xa chi.
+ = nene' xa chi.
+ %spa nena decí.
++ se escucha ruido.
+A niii xa chi.
+ = ni xa chi.
+ %spa ten decí.
++ se escucha ruido.
+I niii.
+ = ni.
+ %spa ten.
++ se escucha ruido.
+A ni hiko' xa chi.
+ = ni hiko' xa chi.
+ %spa ten es tuyo decí.
++ se escucha ruido.
+A ni halolo' xa chi t'a nene'.
+ = ni hapek'al xa chi t'a nene'.
+ %spa ten tú glotón decile al nene.
++ se escucha ruido.
+I nhaw.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I nhi piiii'.
+ = ni chi'.
+ %spa ahí esta.
++ ruido.
+A nene' tz'in xa chi.
+ = nene' tz'in xa chi.
+ %spa nena silencio decí.
+I mam.
+ = nun o nunin.
+ %spa mamá.
+A hooo.
+ = hoy.
+ %spa si.
++ se escucha ruido.
+A jun tik.
+ = jun tik.
+ %spa es esto.
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+L tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
+A ni chi' xa chi.
+ = ni chi' xa chi.
+ %spa ahí esta decí.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+A tosea.
+ = ( ).
+ %spa ( ).
++ ruido.
+A tz'in xa chi t'ay.
+ = tz'in xa chi t'ay.
+ %spa silencio decile.
+A mak' syop.
+ = mak' o tz'it syop.
+ %spa pégale el trasero.
++ se escucha el ruido de una silla.
+A k'e'an linhan, tz'in xa chi, hajun tik tziga'.
+ = k'e'an linhan, tz'in xa chi, hajun tik tzik'a'.
+ %spa parate, silencio esto es lo que vas a llevar.
++ se escucha ruido.
+A tz'in xa chi.
+ = tz'in xa chi.
+ %spa silencio decí.
++ se escucha el ruido de un cerrucho que esta cortando una madera.
+A tz'inach xa chi t'ay.
+ = tz'inach xa chi t'ay.
+ %spa silencio decíle.
++ se escucha el ruido de un cerrucho cortando una madera.
+I ( ).
+ = ( ).
+ %spa ( ).
+I kooo kii.
+ = ( ).
+ %spa ( ).
+A ak' t'ay hanene', kak' t'ay.
+ = ak' t'ay hanene', kak' t'ay.
+ %spa dale cincho con tú nene, damoslo.
++ se escucha un ruido de un golpe.
++ se escucha el ruido de un cerrucho cortando una madera.
+A hiiiiii slo'aniiiiiiiiii.
+ = hi slo'ani.
+ %spa ¡ih! lo esta comiendo.
+A ix lajwel yu'uj.
+ = ix lajwel yu'uj.
+ %spa lo termino.
++ se escucha ruido y el ruido del cerrucho.
+A yyyoo.
+ = yo.
+ %spa oh.
++ se escuchan ruidos y un voz particular.
+A yoo.
+ = yo.
+ %spa ¡oh!.
++ se escuchan voces de unos niños particulares.
+A pat ikot jun hatete' chi', b'at ikoti, ak'b'at stete' hanene' chi' 
+  b'at higa'.
+ = b'at ikot jun hixta' chi', b'at ikoti, ak'b'at yixta' hune' chi', 
+  b'at ikoti.
+ %spa ve a traerte ese tú juguete pues, ve a traerlo, dale su juguete de 
+  tú nene pues, ve a traerlo.
++ ruido.
+A iniwal yok'.
+ = iniwal yok'i.
+ %spa mira como esta llorando.
++ se escucha ruido.
+A ikot stete' hanene' chi'.
+ = ikot yixta' hune' chi'.
+ %spa traíga el juguete de tú nene pues.
++ se escuchan ruidos.
+A tomajxo ha'ch, majxo ha'ach lolon yet' winh papa.
+ = tomajxo ha'ach lolon yet' winh hamam.
+ %spa ya no quieres hablar con tú papá.
++ ruido.
+I yoo.
+ = alo.
+ %spa alo.
++ se escucha ruido.
+A alo xa chi.
+ = alo xa chi.
+ %spa alo decí.
++ se escucha ruido.
+I ( ).
+ = (  ).
+ %spa ( ).
++ ruido.
+I wat.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+A hi xa chi.
+ = hi' xa chi.
+ %spa si decí.
++ se escuchan ruidos.
+A lolonanh han.
+ = lolonanh han.
+ %spa habla pues.
+A ikot hinlolo' xa chi t'a win.
+ = ikot hinpek'al xa chi t'ay winh.
+ %spa traígame glotones decile con él.
++ se escucha ruido.
+I yoyooo'.
+ = tzik'ot hinpek'al.
+ %spa me traes glotones.
++ ruido.
+A papa xa chi.
+ = mamin xa chi.
+ %spa papá decí.
+I papa.
+ = mamin.
+ %spa papá.
++ ruido.
+A lolo' xa chi.
+ = pek'al xa chi.
+ %spa glotones decí.
++ se escucha ruido.
+A lolo' xa chi.
+ = pek'al xa chi.
+ %spa glotón decí.
++ se escucha ruido.
+A papa lolo' xa chi.
+ = mamin pek'al xa chi.
+ %spa papá glotones decí.
++ se escucha ruido.
+I wawooo'.
+ = tzikot hinpek'al.
+ %spa me traes glotones.
++ se escucha ruido.
+A ikoti xa chi.
+ = ikoti xa chi.
+ %spa traígalo decí.
+I hooo'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A ko xa chi.
+ = wiko' xa chi.
+ %spa mío decí.
++ se escucha ruido.
+I kooo.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A konh xa chi.
+ = konh xa chi.
+ %spa vamos decí.
++ se escucha ruido.
+I kot.
+ = konh.
+ %spa vamos.
++ se escucha ruido.
+A lemach cha chi.
+ = lemach xa chi.
+ %spa venite decí.
++ ruido.
+L ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A lem xa chi.
+ = lem xa chi.
+ %spa ven decí.
++ se escucha ruido.
++ ( ).
+A lem xa chi t'a.
+ = lem xa chi t'ay winh.
+ %spa ven decile a él.
++ se escucha ruido.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ se escucha ruido.
+A pipis xa chi t'a hanene' tik, pipis xa chi t'a t'ay.
+ = emanhk'ojan xa chi t'a hune' tik, emanhk'ojan xa chi t'ay.
+ %spa sentate decile a tu nene pues, sentate decile con él.
++ se escucha ruido y un voz particular.
+L tosea.
+ = ( ).
+ %spa ( ).
++ se escucha el ruido de un pato.
+I grita.
+ = ( ).
+ %spa (  ).
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+A tas.
+ = tas.
+ %spa que.
++ se escucha ruido.
+A tas.
+ = tas.
+ %spa que.
++ se escucha ruido.
+A tzub'ej,tzub'ej.
+ = tzub'ej, tzub'ej.
+ %spa escupe, escupe.
++ se escucha ruido.
+A tzub'ej.
+ = tzub'ej.
+ %spa escupe.
++ se escucha ruido.
+A tzub'ej jun chi', tzub'ej.
+ = tzub'ej jun chi', tzub'ej.
+ %spa escupe eso pues, escupe.
++ ruido.
+I eh e'.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A yaaat.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tzub'ej han, tzub'ej.
+ = tzub'ej han, tzub'ej.
+ %spa escupe pues, escupe.
++ se escuchan ruidos y voces de unos niños particulares.
+A tzub'ej.
+ = tzub'ej.
+ %spa escupe.
++ se escucha la platica de los niños particulares y también se 
+  escuch ruido.
+I quiere chillar de nuevo.
+ = ( ).
+ %spa ( ).
++ se escucha ruido y voces de los niños.
+I chilla.
+ = ( ).
+ %spa ( ).
+A tzub'ej, tzub'ej.
+ = tzub'ej, tzub'ej.
+ %spa escupe, escupe.
+I empieza a chillar.
+ = ( ).
+ %spa ( ).
+I siga chillando.
+ = ( ).
+ %spa ( ).
+A no habla recio y no se escucha lo que dice.
+ = ( ).
+ %spa ( ).
++ se escucha ruido y voces.
+A sucio xa chi.
+ = chejtak xa chi.
+ %spa sucio decí.
++ se escucha ruido.
+A tzub'ej, tzub'ej.
+ = tzub'ej, tzub'ej.
+ %spa escupe, escupe.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ ( ).
++ se escucha ruido.
+A tzub'ej han, tzub'ej.
+ = tzub'ej han, tzub'ej.
+ %spa escupe pues, escupe.
++ ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tzub'ej, tzub'ej.
+ = tzub'ej, tzub'ej.
+ %spa escupe, escupe.
++ se escucha ruido.
+I huuto.
+ = miktak o jaktak.
+ %spa sucio.
++ se escucha ruido.
+A sucio.
+ = miktak.
+ %spa sucio.
++ se escucha ruido.
+A alb'at t'a winh papa.
+ = alb'at t'a winh hamam.
+ %spa avisale o digale a tú papá.
+A alb'at t'a wi.
+ = alb'at t'a winh.
+ %spa digale a tú papá.
++ ruido.
+A papa sucio xa chi.
+ = mamim miktak xa chi.
+ %spa papá esta sucio decí.
++ se escuchan ruidos.
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A sucio xa chi.
+ = miktak xa chi.
+ %spa sucio decí.
++ se escucha ruido.
+A lem manhach ochta' lem, lem.
+ = lem manhach ochta' lem, lem.
+ %spa ven, no te metes en eso, vení, vení.
++ se escucha ruido.
+L tosea.
+ = ( ).
+ %spa ( ).
+I goyy.
+ = gol (wol).
+ %spa gol.
+A hoy.
+ = hoy.
+ %spa oh o si.
++ ( ).
++ se escucha ruido.
+A sucio xa chi.
+ = miktak xa chi.
+ %spa sucio decí.
++ se escucha ruido.
+I k'ol.
+ = gol (wol).
+ %spa gol.
++ se escucha ruido.
+A pajtil.
+ = b'ajtil.
+ %spa en donde.
++ se escucha ruido.
++ se escucha ruido.
++ se escucha ruido.
+A ak' slolo' hanene' ni tik.
+ = ak' slolo' hune' ni tik.
+ %spa dale sus glotones a tú nene aquí están.
++ se escucha ruido.
+A tz'in xa chi, tz'in xa chi ab'il yoki'.
+ = tz'in xa chi , tz'in xa chi hab'il yoki'.
+ %spa silencio, silencio escucha como llora.
++ ruido.
+A tz'in xa chi t'a hanene' chi'.
+ = tz'in xa chi t'a hune' chi'.
+ %spa silencio decí a tu nene pues.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+A montej hanene' chi', montej tz'in, tz'in, tz'in, tz'in xa chi.
+ = montej hune' chi', montej tz'in, tz'in, tz'in, tz'in xa chi.
+ %spa motiva a tú nene pues, motivalo silencio, silencio, silencio, 
+  silencio decí.
++ ruido.
+A tz'in xa chi, iniwal yok'i.
+ = tz'in xa chi iniwal yok'i.
+ %spa silencio decí miralo coom llora.
++ se escucha ruido.
+A tz'in xa chi, mak' syop hanene' mak' syop.
+ = tz'in xa chi, mak' sy0'op hune', mak' syo'op.
+ %spa silencio decí, pegale el trasero, pegale el trsero.
++ se escucha ruido.
+A mak' syo'op.
+ = mak' syo'op.
+ %spa pegale el trasero.
++ se escucha ruido.
++ ( ).
++ se escucha ruido.
+A mak' syop hanene'.
+ = mak' syo'op hune'.
+ %spa pegale el trasero de tú nene.
++ se escucha ruido.
+A ni han lolonanh.
+ = ni han lolonanh.
+ %spa ten pues y habla.
++ se escucha ruido.
++ (  ).
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A sukeli, sukeli, sukel t'a hak'ab'
+ = sukeli, sukeli, sukel t'a hak'ab'.
+ %spa limpialo, limpialo, limpialo con tú mano.
++ ruido.
+A sukeli.
+ = sukeli.
+ %spa limpialo.
++ se escucha ruido.
+A ho' xa chi.
+ = ho' xa chi.
+ %spa oh decí.
++ se escucha ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A tosea.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+A b'ajtil.
+ = b'ajtil.
+ %spa en donde.
++ se escucha ruido.
+I empieza a chillar.
+ = ( ).
+ %spa ( ).
+A b'ajtil tzonh k'ochi, b'ajtil tzonh.
+ = b'ajtil tzonh k'ochi, b'ajtil tzonh k'ochi.
+ %spa para donde nos vamos, para donde nos vamos.
+A tz'in.
+ = tz'in.
+ %spa silencio.
+I sigue chillando la niña.
+ = ( ).
+ %spa ( ).
+A xit tz'in.
+ = xit tz'in.
+ %spa ey silencio.
++ se escucha ruido.
++ se escuchan ruidos.
+A emanh chorran.
+ = emanh wokan o emanh choran.
+ %spa sentate.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+I wii chiiii'.
+ = ni chi'.
+ %spa ahí está.
+A b'ajay.
+ = b'ajay.
+ %spa donde.
++ ruido.
+I mmmama.
+ = nunin.
+ %spa mamá.
++ ruido.
+A mama.
+ = nunin.
+ %spa mamá.
+L tosea.
+ = ( ).
+ %spa ( ).
+I hiii' chiii'.
+ = ni chi'.
+ %spa ahí esta.
+L tosea.
+ = ( ).
+ %spa ( ).
+A tas jun chi'.
+ = tas jun chi'.
+ %spa que es eso.
+I nni chiii'.
+ = ni chi'.
+ %spa ahí esta.
+A tas jun chi'.
+ = tas jun chi'.
+ %spa que es eso.
+I mm mamaaa.
+ = nun o nunin.
+ %spa mamá.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+I mami.
+ = nun o nunin.
+ %spa mamá.
++ ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
+A hooy.
+ = hoy.
+ %spa oh o si.
++ se escucha ruido.
+A b'ajay b'ajay.
+ = b'ajay, b'ajay.
+ %spa donde, donde.
++ se escuchan ruidos.
+I ( ).
+ = ( ).
+ %spa ( ).
+L ajay winh papa xa chi.
+ = b'ajay winh hamam xa chi.
+ %spa donde esta tú papá decí.
++ ruido.
+L koymemm.
+ = ( ).
+ %spa ( ).
++ ruido.
+A bolo xa chi.
+ = huk'umanh xa chi.
+ %spa bolo o borracho decí.
+I nni tziii'.
+ = ni chi'.
+ %spa ahí esta.
+A jun ti.
+ = jun tik.
+ %spa es esto.
+I nnniiii tiii.
+ = ni tik.
+ %spa aqui esta.
++ se escucha ruido de unas sillas.
+A iko ti tan.
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos  de unas sillas.
+A jani olach way.
+ = janik olach wayok'.
+ %spa a que horas vas a dormir.
++ se escucha ruido.
+I chilla.
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ saber quien tosea.
++ se escucha ruido.
+A wawi' xa chi.
+ = wayan xa chi.
+ %spa dormite decí.
++ ruido.
+A wawich cha chi.
+ = wayan xa chi.
+ %spa dormite decí.
++ ( ).
++ se escucha ruido.
+A konh way xa chi.
+ = konh wayek xa chi.
+ %spa vamos a dormir, decí.
++ se escucha ruido.
+A ikochi.
+ = ( ).
+ %spa ( ).
+A ik' way hanene' tik hetok' ni.
+ = ik' way hune' tik hetok' ni.
+ %spa llevá a tú nene contigo a dormir ve.
++ se escucha ruido.
+A konh gaw xa chi t'ay.
+ = konh wayok xa chi t'ay.
+ %spa vamos a dormir decíle.
+I haaaj.
+ = ( ).
+ %spa ( ).
++ ruido.
++ se escucha voz particular.
++ ruido.
+I ( ).
+ = ( ).
+ %spa ( ).
++ voz particular.
++ se escucha ruido.
+A konh wayok xa chi t'a winh.
+ = konh wayok xa chi t'a winh.
+ %spa vamos a dormir decíle con él.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escucha ruido.
++ se escuchan ruidos.
++ ( ).
++ se escucha ruido.
+A top slolon hanene' tik telefono.
+ = top slolon hune' tik t'ay k'en telefono.
+ %spa dice que tú nene quiere hablar en el teléfono.
++ se escuchan ruidos y un golpe.
+I too.
+ = yo.
+ %spa ¡oh!.
+A yoooo.
+ = yo.
+ %spa ¡oh!.
++ se escuchan ruidos de algunas sillas al momento de moverlas.
++ se escuchan ruidos y el ruido de las sillas.
++ ( ).
++ se escuchan ruidos de las sillas.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
++ se escuchan ruidos.
+A ( ).
+ = ( ).
+ %spa ( ).
++ se escuchan ruidos.
+I haaaaj.
+ = ( ).
+ %spa ( ).
+A tzach way yet'o.
+ = tzach way yet' hixta'.
+ %spa te dormis con tu juguete.
++ se escucha ruido.
+I tuaaaa.
+ = ( ).
+ %spa ( ).
+G tuusss.
+ = ( ).
+ %spa ( ).
++ ruido.
+A tzach way yet'o.
+ = tzach way yet' hixta'.
+ %spa te dormis con tu juguete.
++ se escuchan ruidos.
+A wawi h'ach yet' hane' tik, wawi h'ach yet'o.
+ = wayanh yet' hune' tik, wayanh yet' hune' tik.
+ %spa dormite con tú nene, dormite con tú nene.
++ se escucha ruido.
+A ak' haway.
+ = wayanh.
+ %spa dormite.
++ se escucha ruido.
++ ruido de cables.
+A koo'ow.
+ = konh.
+ %spa vamos.

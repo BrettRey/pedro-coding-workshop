@@ -1,0 +1,305 @@
+file	child	age	role	person	token	chuj_full	spanish	function	notes
+CB120711.txt	Brendo	?	child	2SG	hak´en	hak´en kuchwajum.	es carro.	false_pos	hak'en = "es (un)" demonstrative/copular particle; not ha- ergative or possessive; 2SG false positive from regex
+CB120711.txt	Brendo	?	child	1SG	hinchej	ni nok´ hinchej tik.	aquí esta mi caballo.	poss	hinchej = hin- + chej (horse/caballo); "mi caballo"
+CF110711_1.txt	Francisco	1;7.6	child	1PL	konh	konh, konhach.	vamos, vamos.	abs_error	konh = "vamos"; hortative 1PL form on intransitive movement verb; Set A on intransitive
+CF110711_1.txt	Francisco	1;7.6	child	1PL	konhach	konh, konhach.	vamos, vamos.	abs_error	konhach = "vamos"; hortative 1PL on intransitive; Set A on intransitive
+CF110711_1.txt	Francisco	1;7.6	child	3SG	yamin	yamin.	agarrame.	erg	yamin = y- + amin (agarrar); "agárrame" = transitive, 3SG agent grabs 1SG object
+CF110711_1.txt	Francisco	1;7.6	child	3SG	stzun	tzin stzun tzej ix.	ella me molesta mucho	erg	stzun = s- + tzun (molestar); "ella me molesta" = transitive, 3SG erg agent
+CI120711.txt	Isabel	2;0.22	child	1SG	hinkuch	hinkuch ix han.	la cargo pues.	erg	hinkuch = hin- + kuch (cargar); "la cargo" = transitive 1SG agent carries 3SG object; unusual — could be abs_error if kuch is intransitive here, but "cargar" is transitive
+CI120711.txt	Isabel	2;0.22	child	3SG	yich	ak'kot wib'an o ak'kot t'a yich hinpatik.	damelo en la espalda.	poss	yich = y- + ich (body part, face/surface); "en la espalda (de ella)" = possessive on body-part noun
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpatik	ak'kot wib'an o ak'kot t'a yich hinpatik.	damelo en la espalda.	poss	hinpatik = hin- + patik (espalda); "mi espalda" — possessive on body-part noun
+CI120711.txt	Isabel	2;0.22	child	2SG	hannnnnnn	hann hannnnnnn.	hann hannnnnnn. (sonido de los carros).	false_pos	onomatopoeia/car sound; not a morphological prefix
+CI120711.txt	Isabel	2;0.22	child	3SG	sb'al	wak'och sb'al ix.	le pongo su pañal.	poss	sb'al = s- + b'al (pañal); "su pañal" = possessive on noun
+CI120711.txt	Isabel	2;0.22	child	1SG	hinmam	winh hinmam.	mi papá.	poss	hinmam = hin- + mam (papá/abuelo); "mi papá" = possessive on kin term
+CI120711.txt	Isabel	2;0.22	child	1SG	hinkuxkux	hinkuxkux.	mi galleta.	poss	hinkuxkux = hin- + kuxkux (galleta); "mi galleta" = possessive on noun
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpekal	tzik'ot hinpek'al.	me traes glotones.	poss	hinpek'al = hin- + pek'al (glotón/snack); "me traes mi glotón" — possessive on noun (the object of "traer" is possessed by speaker)
+CI120711.txt	Isabel	2;0.22	child	1SG	hinlolo	hinlolo' o hinpek'al.	mi glotón.	poss	hinlolo = hin- + lolo' (glotón); "mi glotón" = possessive
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpek'al	hinlolo' o hinpek'al.	mi glotón.	poss	hinpek'al = hin- + pek'al; "mi glotón" = possessive
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpan	hinpan.	mi pan.	poss	hinpan = hin- + pan (pan); "mi pan" = possessive on Spanish loanword
+CI120711.txt	Isabel	2;0.22	child	2SG	hawa	hawa'.	agua.	false_pos	hawa' = "agua"; likely Spanish/Chuj word for water; not ha- prefix on a base; or possibly ha + wa' but the gloss is simply "agua" with no possessive sense
+CI120711.txt	Isabel	2;0.22	child	1SG	hinye	weno o hinye'.	bueno.	false_pos	hinye' = discourse particle "bueno/está bien"; not a morphological prefix; fixed expression
+CI120711.txt	Isabel	2;0.22	child	3SG	yo'ok	yo'ok.	sus pies.	poss	yo'ok = y- + o'ok (pies); "sus pies" = possessive on body-part noun
+CI120711.txt	Isabel	2;0.22	child	3SG	yo'ok	yo'ok.	sus pies.	poss	yo'ok = y- + o'ok (pies); "sus pies" = possessive on body-part noun (duplicate)
+CI120711.txt	Isabel	2;0.22	child	3SG	yonh	yonh.	¡oh!.	false_pos	yonh = exclamation "¡oh!"; not y- prefix; discourse interjection
+CI120711.txt	Isabel	2;0.22	child	3SG	yolpat	yolpat.	dentro de la casa.	false_pos	yolpat = "dentro de la casa"; yol = inside, pat = house; yol- is a positional/locative root, not y- Set A prefix on pat
+CI120711.txt	Isabel	2;0.22	child	1SG	hinene	hinene'.	mi nene.	poss	hinene = hin- + ene' (nene, bebé); "mi nene" = possessive on Spanish loanword
+CI120711.txt	Isabel	2;0.22	child	2SG	hanh	hanh.	tu planta.	poss	hanh = ha- + nh? or ha- + anh (planta); "tu planta" = possessive; Spanish "tu" confirms possessive
+CI120711.txt	Isabel	2;0.22	child	3SG	yo'o	yo'o.	¡oh!.	false_pos	yo'o = exclamation; not y- morphological prefix; discourse interjection
+CI120711.txt	Isabel	2;0.22	child	2SG	hawixta	hawixta' tzin kuchu'.	voy a cargar mis juguetes.	poss	hawixta' = ha- + wixta' (juguetes); "mis juguetes" — but wait, Spanish says "mis" (1SG poss) while token has ha- (2SG); unclear if child error or if hawixta' = "tus juguetes" and translation is loose; classify as poss (Set A on noun, possessive function regardless of person)
+CI120711.txt	Isabel	2;0.22	child	2SG	hajun	hajun tik.	es esto.	false_pos	hajun = demonstrative/copular "es esto/uno"; not ha- possessive/ergative prefix; demonstrative particle
+CI120711.txt	Isabel	2;0.22	child	2SG	hajun	hajun chi'.	fue eso o es eso.	false_pos	hajun = demonstrative/copular; same as above
+CI120711.txt	Isabel	2;0.22	child	2SG	hab'i	hab'i.	escucha.	erg	hab'i = ha- + b'i (oír/escuchar); "escucha" = imperative transitive; 2SG agent hears/listens; transitive command
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpek'al	tzik'ot hinpek'al.	me traes glotones.	poss	hinpek'al = hin- + pek'al; "mi glotón" = possessive (same as above)
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpek'al	tzikot hinpek'al.	me traes glotones.	poss	hinpek'al = hin- + pek'al; possessive on noun
+CI120711.txt	Isabel	2;0.22	child	1PL	konh	konh.	vamos.	abs_error	konh = "vamos"; hortative 1PL on intransitive; Set A on intransitive
+CI260711.txt	Isabel	2;0.22	child	3SG	yonh	¡yonh!	¡oh!	false_pos	yonh = exclamation; not y- morphological prefix
+CI260711.txt	Isabel	2;0.22	child	3SG	yonh	¡yonh!	¡oh!	false_pos	yonh = exclamation; not y- morphological prefix (duplicate)
+CI260711.txt	Isabel	2;0.22	child	2SG	hawinh	hawinh.	es él.	false_pos	hawinh = demonstrative/identificational "es él"; not ha- ergative/possessive; copular/deictic expression
+CM080711.txt	Mateo	2;1.26	child	2SG	hach	nhikan hach.	hay que estar lista.	false_pos	hach = free pronoun "tú/usted"; not ha- prefix; independent pronoun
+CM080711.txt	Mateo	2;1.26	child	2SG	hach	nhikan hach an.	listo pues.	false_pos	hach = free pronoun "tú"; independent pronoun, not prefix
+CM080711.txt	Mateo	2;1.26	child	2SG	haxo	haxo k'en tuktuk.	ahora el tuctuc.	false_pos	haxo = temporal/demonstrative "ahora/este"; not ha- ergative/possessive prefix
+CM080711.txt	Mateo	2;1.26	child	3SG	yemxol	yemxol winh.	viene bajando él.	abs_error	yemxol = y- + emxol (bajar/descender); "viene bajando él" = intransitive motion verb; 3SG on intransitive
+CM080711.txt	Mateo	2;1.26	child	3SG	yemxol	yemxol winh chi.	viene bajando él.	abs_error	yemxol = y- + emxol; intransitive motion; same as above
+CM080711.txt	Mateo	2;1.26	child	3SG	yonh	yonh.	ahora (se fue)	false_pos	yonh = "ahora/oh"; not y- morphological prefix; discourse particle or interjection
+CM080711.txt	Mateo	2;1.26	child	3SG	skot	skot' ix.	viene ella.	abs_error	skot' = s- + kot' (venir/llegar); "viene ella" = intransitive motion verb; Set A on intransitive
+CM080711.txt	Mateo	2;1.26	child	2SG	hanh	hanh hanh'.	( ).	false_pos	hanh = unclear; empty gloss, possible onomatopoeia or filler; no Spanish translation to confirm
+CM080711.txt	Mateo	2;1.26	child	2SG	hanh	hanh hanh'.	( ).	false_pos	hanh = same as above; no translation available
+CM080711.txt	Mateo	2;1.26	child	1PL	kokaro	nijunxo kokaro tik.	aqui tenemos otro carro.	poss	kokaro = ko- + karro (carro); "nuestro carro" = possessive on Spanish loanword; "tenemos" confirms possession
+CM080711.txt	Mateo	2;1.26	child	2SG	haaaaa	haaaaa.	haaaaa.	false_pos	haaaaa = vocalization/exclamation; not a morphological prefix
+CM080711.txt	Mateo	2;1.26	child	3SG	yamnok	b'at'in yamnok'.	voy ir a agarrar la pelota.	erg	yamnok' = y- + am + nok' (agarrar la pelota); "voy a agarrar la pelota" = transitive; 3SG erg or object-incorporated transitive
+CM080711.txt	Mateo	2;1.26	child	2SG	hachin	hachin tek'ta.	no te voy a patear.	false_pos	hachin = focus/negative particle or demonstrative "no/ese"; "no te voy a patear" — hachin here is a discourse/focus particle, not ha- prefix
+CM080711.txt	Mateo	2;1.26	child	3SG	yonh	yonh.	ahora (se fue).	false_pos	yonh = "ahora/oh"; discourse particle; not y- morphological prefix
+CM080711.txt	Mateo	2;1.26	child	3SG	yak'ani	yak'ani.	así lo hizo.	erg	yak'ani = y- + ak'an + i (hacer/decir así); "así lo hizo" = transitive 3SG agent did it; common transitive verb
+CM080711.txt	Mateo	2;1.26	child	1PL	konh	konh em kuman.	nos ponemos de rodillas.	abs_error	konh = "vamos/nos"; hortative 1PL intransitive; Set A on intransitive
+CM080711.txt	Mateo	2;1.26	child	3SG	sb'at	ni sb'at k'en karro chi'.	alli va el carro.	abs_error	sb'at = s- + b'at (ir/se va); "va el carro" = intransitive motion; Set A on intransitive
+CM080711.txt	Mateo	2;1.26	child	2SG	haaaannn	titiiiit  haaaannn.	( ).	false_pos	haaaannn = onomatopoeia; not a morphological prefix
+CM080711.txt	Mateo	2;1.26	child	3SG	skot	t'ay tik skot ix.	traela ella aqui.	erg	skot = s- + kot; "traela ella" — here kot appears used as transitive "bring/traer" with object; context "traela" is transitive imperative with 3SG agent
+CM080711.txt	Mateo	2;1.26	child	3SG	yonh	yonh.	ho.	false_pos	yonh = discourse interjection "ho/oh"; not y- morphological prefix
+CM080711.txt	Mateo	2;1.26	child	3SG	schum	schum ix nene'.	dejemoslo a ella	erg	schum = s- + chum (dejar); "déjala" = transitive; 3SG leaves/abandons object; transitive verb
+CM080711.txt	Mateo	2;1.26	child	2SG	haan	haan.	( ).	false_pos	haan = no translation; possible filler or onomatopoeia
+CM080711.txt	Mateo	2;1.26	child	3SG	sk'eta	wan sk'eta ix.	ella está subiendo.	abs_error	sk'eta = s- + k'eta (subir); "está subiendo ella" = intransitive motion; Set A on intransitive
+CM080711.txt	Mateo	2;1.26	child	2SG	hach	hach weka'.	te empujo.	false_pos	hach = free pronoun "tú/te"; independent pronoun, not ha- prefix on verb
+CM080711.txt	Mateo	2;1.26	child	3SG	sb'olxaxil	¿yo tom malaj sb'olxaxil k'apak?	¿a poco no tiene bolsa?	poss	sb'olxaxil = s- + b'olxaxil (bolsa); "no tiene bolsa (su bolsa)" = possessive on noun; "no tiene" implies "su bolsa"
+CM080711.txt	Mateo	2;1.26	child	3SG	sk'eta	sk'eta ix.	subir a ella.	abs_error	sk'eta = s- + k'eta (subir); "subir ella" = intransitive motion; Set A on intransitive
+CM080711.txt	Mateo	2;1.26	child	1PL	konhach	konhach.	vamos.	abs_error	konhach = "vamonos"; hortative 1PL intransitive; Set A on intransitive
+CM080711.txt	Mateo	2;1.26	child	3SG	yolb'e	ik'il ix yolb'e.	quitala ella en el camino.	false_pos	yolb'e = "en el camino"; yol = interior/along, b'e = road/camino; yol- is locative, not y- Set A prefix; "en el camino" is a locative PP
+CM080711.txt	Mateo	2;1.26	child	3SG	yolb'e	elanhek yolb'e.	quitense en el camino.	false_pos	yolb'e = "en el camino"; same as above; locative expression
+CM080711.txt	Mateo	2;1.26	child	2SG	hahan	hahan.	(empty)	false_pos	hahan = no translation; possible filler/onomatopoeia; cannot classify
+CM080711.txt	Mateo	2;1.26	child	1SG	hinye	hinye.	bueno.	false_pos	hinye = discourse particle "bueno"; fixed expression; not hin- prefix on noun or verb
+CM080711.txt	Mateo	2;1.26	child	3SG	yamin	yamin.	agarrame.	erg	yamin = y- + amin (agarrar); "agárrame" = transitive 3SG agent grabs 1SG
+CM080711.txt	Mateo	2;1.26	child	3SG	yamin	yamin.	agarrame.	erg	yamin = y- + amin (agarrar); "agárrame" = transitive 3SG agent grabs 1SG (duplicate)
+CM080711.txt	Mateo	2;1.26	child	2SG	hato	hato t'ay chi ol och juntik t'a hin kamix tik.	hasta allí me van ha poner esto en mi camisa.	false_pos	hato = "hasta allí/hasta allá"; spatial/temporal particle; not ha- ergative/possessive
+CM080711.txt	Mateo	2;1.26	child	3SG	stonh	hin stonh ix.	aquí esta su medalla.	poss	stonh = s- + tonh (medalla); "su medalla" = possessive on noun
+CM080711.txt	Mateo	2;1.26	child	3SG	yak'an	yak'an ix ana.	hacía ana.	erg	yak'an = y- + ak'an (hacer/decir); "hacía Ana" = transitive 3SG agent
+CM080711.txt	Mateo	2;1.26	child	3SG	yak'a	ay ichachi yak'a n ix ana.	hay hacía ana.	erg	yak'a = y- + ak'a (hacer); "hacía Ana" = transitive 3SG agent
+CM080711.txt	Mateo	2;1.26	child	3SG	yak'ani	( ). yak'ani.	( ) decía.	erg	yak'ani = y- + ak'ani (decir/hacer así); "decía" = transitive/utterance verb 3SG agent
+CM080711.txt	Mateo	2;1.26	child	1SG	hinsat	hin ch'ox hinsat	voy a persignar.	erg	hinsat = hin- + sat (persignar/hacer cruz); "voy a persignarme" — though reflexive, sat here is a transitive verb with 1SG agent acting on object; erg
+CM080711.txt	Mateo	2;1.26	child	2SG	hach	¿b'ajay hach?	¿dónde estás?	false_pos	hach = free pronoun "tú"; "¿dónde estás tú?" = independent pronoun; not ha- prefix
+CM080711.txt	Mateo	2;1.26	child	3SG	yowal	yowal winh ket'ok.	está enojado él con nosotros.	abs_error	yowal = y- + owal (enojado); "está enojado él" = intransitive stative; Set A on intransitive/stative
+CM080711.txt	Mateo	2;1.26	child	3SG	sk'e	ta sk'e ix jachkut ix t'ay tik t'ay tik ni.	si sube ella, arrastrala ella aquí.	abs_error	sk'e = s- + k'e (subir); "si sube ella" = intransitive motion; Set A on intransitive
+CM090811.txt	Mateo	2;1.26	child	3SG	yak'in	ix yak'in yaya'.	me dolió.	erg	yak'in = y- + ak'in (doler/hacer daño); "me dolió" — though experiential, ak'in takes an object; transitive experiential verb 3SG
+CM090811.txt	Mateo	2;1.26	child	3SG	yaya	ix yak'in yaya'.	me dolió.	false_pos	yaya' = "pain/dolor" — yaya' is the noun "pain/hurt"; token is yaya not yak'in; y- here is part of the root/reduplicated noun, not Set A prefix on verb
+CM090811.txt	Mateo	2;1.26	child	1PL	konhach	konhach.	vamos.	abs_error	konhach = "vamonos"; hortative 1PL intransitive; Set A on intransitive
+CM090811.txt	Mateo	2;1.26	child	1PL	komida	b't /b'o hin komida.	ve a hacer mi comida.	false_pos	komida = ko- + mida? or Spanish "comida" with ko- prefix; BUT wait: "ve a hacer mi comida" — Spanish "mi" suggests 1SG, not 1PL; komida likely ko- + mida (comida loanword) as "nuestra comida" but translation says "mi"; OR possibly the whole word is the Spanish loanword "comida" starting with co-; classify as false_pos given the ambiguity with a Spanish loanword
+CM090811.txt	Mateo	2;1.26	child	1SG	hina	manh hina tek'a' junxonhej rato weno hayaj ko b'at chi b'i'an.	no me pateas solo un rato buno y nos vamos.	false_pos	hina = "me/a mí"; this is likely the 1SG object clitic or pronoun "me"; not hin- ergative or possessive prefix on a noun/verb; absolutive/object pronoun
+CM090811.txt	Mateo	2;1.26	child	2SG	hayaj	manh hina tek'a' junxonhej rato weno hayaj ko b'at chi b'i'an.	no me pateas solo un rato buno y nos vamos.	false_pos	hayaj = "y/entonces" temporal/connective particle; not ha- ergative/possessive prefix
+CM090811.txt	Mateo	2;1.26	child	2SG	haxo	haxo junchi'.	el otro.	false_pos	haxo = "ahora/el otro"; demonstrative or temporal particle; not ha- ergative/possessive
+CM090811.txt	Mateo	2;1.26	child	1PL	konhach	konhach an.	vamos pues.	abs_error	konhach = "vamonos pues"; hortative 1PL intransitive; Set A on intransitive
+CM090811.txt	Mateo	2;1.26	child	2SG	hatik	hatik.	esto.	false_pos	hatik = "esto/aquí" demonstrative; not ha- ergative/possessive prefix
+CM090811.txt	Mateo	2;1.26	child	3SG	swala	hin wol swala'.	digo mi pelota.	poss	swala' = s- + wala' (pelota); "mi pelota" (hin wol = digo/quiero decir); swala' = "su pelota" but context is "digo mi pelota" — s- is possessive on wala' (pelota); poss
+CM090811.txt	Mateo	2;1.26	child	3SG	yakis	kak' yakis.	juguemos diaquis.	false_pos	yakis = "diaquis" (a game/toy name); yakis is a proper noun or borrowed game name; not y- Set A prefix
+CM090811.txt	Mateo	2;1.26	child	3SG	yakis	/kak' yakis.	juguemos diaquis.	false_pos	yakis = game name "diaquis"; same as above; false positive
+CM090811.txt	Mateo	2;1.26	child	1PL	konhach	konhach.	vamos.	abs_error	konhach = "vamonos"; hortative 1PL intransitive; Set A on intransitive
+CM090811.txt	Mateo	2;1.26	child	3SG	yo'ol	/ak'im yo'ol.	ponga adentro.	false_pos	yo'ol = "adentro/dentro"; locative/positional "inside"; y- here is part of the locative root yo'ol, not Set A prefix
+CM230811.txt	Mateo	2;1.26	child	3SG	skarro	ha jun skarro ix.	un carro de ella.	poss	skarro = s- + karro (carro); "su carro/un carro de ella" = possessive; Spanish "de ella" confirms
+CM230811.txt	Mateo	2;1.26	child	3SG	schumama	schumama.	dejalo.	erg	schumama = s- + chumama (dejar/poner); "déjalo" = transitive 3SG agent; imperative transitive
+CM230811.txt	Mateo	2;1.26	child	3SG	sxanhab	sxanhab' winh.	zapato de el.	poss	sxanhab' = s- + xanhab' (zapato); "zapato de él" = possessive; "de él" confirms
+CM230811.txt	Mateo	2;1.26	child	3SG	sxanhab	in sxanhab' winh.	mira los zapatos de el.	poss	sxanhab' = s- + xanhab'; "zapatos de él" = possessive; "de él" confirms
+CM230811.txt	Mateo	2;1.26	child	3SG	sb'at	sb'at nok'.	se va.	abs_error	sb'at = s- + b'at (irse); "se va" = intransitive motion; Set A on intransitive
+CM230811.txt	Mateo	2;1.26	child	3SG	yiko	ha ix ay yiko'.	es de ella.	poss	yiko' = y- + iko' (el/la de ella); "es de ella" = possessive pronoun; poss
+CM230811.txt	Mateo	2;1.26	child	3SG	yiko	ha ix ay yiko'.	es de ella.	poss	yiko' = y- + iko'; "es de ella" = possessive (duplicate entry)
+CM230811.txt	Mateo	2;1.26	child	3SG	smankut	smankut ix mama t'ayon.	nos compra la mamá a nosotros.	erg	smankut = s- + man + kut (comprar para nosotros); "nos compra" = transitive 3SG erg (mama) agent; applicative transitive
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	kampana yak'ani.	campana dice.	erg	yak'ani = y- + ak'ani (decir); "campana dice" = transitive utterance verb 3SG agent
+CM230811.txt	Mateo	2;1.26	child	3SG	sman	sman winhin papa.	mi padre me compra.	erg	sman = s- + man (comprar); "mi padre me compra" = transitive 3SG erg agent buys for 1SG
+CM230811.txt	Mateo	2;1.26	child	3SG	yowal	yowal ix./	esta enojada ella.	abs_error	yowal = y- + owal (enojado/a); "está enojada ella" = intransitive stative; Set A on intransitive
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	yak'ani.	lo hace.	erg	yak'ani = y- + ak'ani; "lo hace" = transitive 3SG agent; erg
+CM230811.txt	Mateo	2;1.26	child	3SG	stok'ik	stok'ik' winh.	me lo quita.	erg	stok'ik' = s- + tok'ik' (quitar); "me lo quita" = transitive 3SG agent takes from 1SG
+CM230811.txt	Mateo	2;1.26	child	3SG	yib'anh	t'ay yib'anh ix el ix.	ella salió arriba.	false_pos	yib'anh = "arriba"; yib'anh = locative "encima/arriba"; y- is part of the locative root, not Set A prefix; "salió arriba" = intransitive location
+CM230811.txt	Mateo	2;1.26	child	3SG	sb'at	sb'at ix nena.	se va la nena	abs_error	sb'at = s- + b'at (irse); "se va la nena" = intransitive motion; Set A on intransitive
+CM230811.txt	Mateo	2;1.26	child	3SG	sb'at	sb'at ix nena.	e va la nena.	abs_error	sb'at = s- + b'at; "va la nena" = intransitive motion; Set A on intransitive (duplicate)
+CM230811.txt	Mateo	2;1.26	child	3SG	stak'laj	max stak'laj ix.	no quiere ella.	abs_error	stak'laj = s- + tak'laj (querer); "no quiere ella" = stative/intransitive; Set A on intransitive stative
+CM230811.txt	Mateo	2;1.26	child	3SG	yeli	yeli.	salio.	abs_error	yeli = y- + eli (salir); "salió" = intransitive motion; Set A on intransitive
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	t'inh yak'ani.	se explotó.	erg	yak'ani = y- + ak'ani; but "se explotó" is reflexive/intransitive; however yak'ani is consistently transitive "lo hace/dice"; unclear here — context "se explotó" suggests intransitive meaning; classify as abs_error given intransitive Spanish gloss
+CM230811.txt	Mateo	2;1.26	child	3SG	sjuk'an	wan sjuk'an ix.	esta lavando ella.	erg	sjuk'an = s- + juk'an (lavar); "está lavando ella" = transitive 3SG agent; washing is transitive
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	ponh yak'ani.	dice ponh.	erg	yak'ani = y- + ak'ani (decir); "dice ponh" = transitive utterance 3SG agent
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	ponh yak'ani.	dice ponh.	erg	yak'ani = y- + ak'ani; "dice ponh" = transitive 3SG (duplicate)
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	ponh yak'ani.	dice pom.	erg	yak'ani = y- + ak'ani; "dice pom" = transitive 3SG (near-duplicate, different Spanish gloss)
+CM260711.txt	Mateo	2;1.26	child	3SG	skak	tas jun skak' chi?	que es lo que hacemos?	erg	skak' = s- + kak' (hacer); "que hacemos" = transitive verb; though "hacemos" is 1PL, skak' has s- (3SG Set A); context "qué es lo que hacemos" — skak' may be "hacer" transitive 3SG or could be ko- error; classify as erg (transitive "hacer" with 3SG agent)
+CM260711.txt	Mateo	2;1.26	child	3SG	sch'ayxi	sch'ayxi k'e'en.	se moja el carro.	abs_error	sch'ayxi = s- + ch'ayxi (mojarse); "se moja el carro" = intransitive reflexive/middle; Set A on intransitive
+CM260711.txt	Mateo	2;1.26	child	3SG	sb'at	sb'at nok wol.	se fue mi pelota.	abs_error	sb'at = s- + b'at (irse); "se fue mi pelota" = intransitive motion; Set A on intransitive
+CM260711.txt	Mateo	2;1.26	child	3SG	syil	¿tasum syil ix?	¿no se que es lo que ella nos vea?	erg	syil = s- + yil (ver); "ella nos vea" = transitive 3SG agent sees object; erg
+CM260711.txt	Mateo	2;1.26	child	3SG	skak'a	ha tik skak'a'.	/hagamos esto.	erg	skak'a' = s- + kak'a' (hacer esto); "hagamos esto" = transitive; but s- is 3SG and context is inclusive "hagamos" — possible person mismatch; still a transitive verb with Set A; erg
+CM260711.txt	Mateo	2;1.26	child	3SG	sb'at	yo sb'at t'ay chi'.	oh se va allá.	abs_error	sb'at = s- + b'at (irse); "se va allá" = intransitive motion; Set A on intransitive
+CM260711.txt	Mateo	2;1.26	child	2SG	haxo	haxo nok' tik.	ahora el otro.	false_pos	haxo = "ahora/el otro"; demonstrative/temporal; not ha- ergative/possessive prefix
+CM260711.txt	Mateo	2;1.26	child	3SG	schumama	schumama.	dejalo.	erg	schumama = s- + chumama (dejar); "déjalo" = transitive 3SG agent; erg (same as above)
+CM260711.txt	Mateo	2;1.26	child	3SG	schumama	schumama.	dejalo.	erg	schumama = s- + chumama; "déjalo" = transitive 3SG (duplicate)
+CM260711.txt	Mateo	2;1.26	child	3SG	schumama	schumama.	dejalo.	erg	schumama = s- + chumama; "déjalo" = transitive 3SG (triplicate)
+CM260711.txt	Mateo	2;1.26	child	2SG	hatik	hatik.	a qui.	false_pos	hatik = demonstrative "aquí/esto"; not ha- ergative/possessive prefix
+CM260711.txt	Mateo	2;1.26	child	2SG	hatik	hatik.	aqui.	false_pos	hatik = demonstrative "aquí"; not ha- ergative/possessive prefix (duplicate)
+CM260711.txt	Mateo	2;1.26	child	1PL	konh	nunin konh /tajnok.	mamá juguemos.	abs_error	konh = "juguemos/vamos"; hortative 1PL intransitive; Set A on intransitive
+CM260711.txt	Mateo	2;1.26	child	2SG	hachi	hachi'.	ese.	false_pos	hachi' = demonstrative "ese/eso"; not ha- ergative/possessive prefix
+CM260711.txt	Mateo	2;1.26	child	2SG	hatik	hatik.	aqui.	false_pos	hatik = demonstrative "aquí"; not ha- ergative/possessive prefix
+CM260711.txt	Mateo	2;1.26	child	2SG	haxo	haxo k'entik.	ahora este.	false_pos	haxo = "ahora/este"; demonstrative/temporal; not ha- prefix
+CM260711.txt	Mateo	2;1.26	child	3SG	schiwaj	ha nok' otela schiwaj nok'.	la Otela /ladra	abs_error	schiwaj = s- + chiwaj (ladrar); "ladra" = intransitive; Set A on intransitive verb
+CM260711.txt	Mateo	2;1.26	child	2SG	haxo	haxo junxo nok' chi'.	y el otro.	false_pos	haxo = "ahora/y el otro"; demonstrative/temporal; not ha- prefix
+CM260711.txt	Mateo	2;1.26	child	3SG	sb'at	yo sb'at k'en karambola.	oh se va la canica.	abs_error	sb'at = s- + b'at; "se va la canica" = intransitive; Set A on intransitive
+CM260711.txt	Mateo	2;1.26	child	3SG	yallaj	max yallaj.	no se pude.	abs_error	yallaj = y- + allaj (poder); "no se puede" = intransitive modal/stative; Set A on intransitive
+CM260711.txt	Mateo	2;1.26	child	3SG	schumama	schumama konh.	dejalo vamos.	erg	schumama = s- + chumama (dejar); "déjalo" = transitive 3SG; erg
+CM260711.txt	Mateo	2;1.26	child	1PL	konh	schumama konh.	dejalo vamos.	abs_error	konh = "vamos"; hortative 1PL intransitive; Set A on intransitive
+CM260711.txt	Mateo	2;1.26	child	2SG	haxo	haxo junnxo k'e'en.	ahora el otro.	false_pos	haxo = "ahora/el otro"; demonstrative/temporal; not ha- prefix
+CM260711.txt	Mateo	2;1.26	child	3SG	yonh	yonh /sb'at k'en karambola.	oh se va la canica.	false_pos	yonh = exclamation "oh"; not y- morphological prefix
+CM260711.txt	Mateo	2;1.26	child	3SG	yib'anh	yo ha yib'anh jun karro.	oh arriba de un carro.	false_pos	yib'anh = "arriba"; locative root; y- not Set A prefix; same as above
+CM260711.txt	Mateo	2;1.26	child	3SG	yib'anh	yib'anh k'en.	encima de.	false_pos	yib'anh = "encima de"; locative; y- not Set A prefix
+CY120711.txt	Yeseña	2;0.22	child	1PL	kopapis	kak'och kopapis.	torteamos.	poss	kopapis = ko- + papis (tortillas?); "torteamos" — kak'och = "torteamos" and kopapis = "nuestras tortillas"; possessive object incorporated; poss
+CY120711.txt	Yeseña	2;0.22	child	3SG	skalnaji	ak'b'at skalnaji'.	mete dentro de.	false_pos	skalnaji' = "dentro de/adentro"; kalnaji or k'alnaji = interior locative; s- here may be locative prefix, not Set A 3SG; "mete dentro" doesn't imply 3SG agent possession; false_pos
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanh	hanh paj'ich.	el tomate.	false_pos	hanh paj'ich = "el tomate"; hanh here is a demonstrative article/determiner "el/la", not ha- possessive or ergative; false_pos
+CY120711.txt	Yeseña	2;0.22	child	2SG	hatek	nulej ni hatek.	hermana aquí tienes tu comida.	poss	hatek = ha- + tek (comida); "tu comida" = possessive; "tu" confirms 2SG poss
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'ati	sb'ati.	se va.	abs_error	sb'ati = s- + b'ati (irse); "se va" = intransitive motion; Set A on intransitive
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'ati	sb'ati.	se va.	abs_error	sb'ati = s- + b'ati; "se va" = intransitive (duplicate)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	yune'.	nena.	poss	yune' = y- + une' (hijo/a pequeño/a, nena); "nena" = "su nena/hija" = possessive kin term (possessed noun without explicit possessor in context)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	yune'.	nena.	poss	yune' = y- + une'; "nena" = possessive kin term (duplicate)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	i' yune'.	si nena.	poss	yune' = y- + une'; "sí, nena" = possessive kin term
+CY120711.txt	Yeseña	2;0.22	child	3SG	yooo	yooo!.	¡ooooh!.	false_pos	yooo = prolonged exclamation; not y- morphological prefix
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	false_pos	Yadira = proper name; y- is part of the name, not Set A prefix
+CY120711.txt	Yeseña	2;0.22	child	2SG	hachin	hachin chamk'o'ol.	mi amor.	false_pos	hachin = term of address "mi amor/querido"; not ha- ergative/possessive on noun/verb; fixed vocative expression
+CY120711.txt	Yeseña	2;0.22	child	3SG	snhach	snhach.	mordeo.	erg	snhach = s- + nhach (morder); "mordió" = transitive 3SG agent bites object; erg
+CY120711.txt	Yeseña	2;0.22	child	3SG	swuk'a	swuk'a'.	quiero tomar agua.	erg	swuk'a' = s- + wuk'a' (tomar agua/querer tomar); "quiero tomar agua" — wuk'a' = "tomar agua"; s- 3SG erg; but wait, "quiero tomar" suggests 1SG subject; either child error in person or swuk'a' is a lexicalized form meaning "water-drinking" event; classify as erg (transitive drinking action with 3SG Set A)
+CY120711.txt	Yeseña	2;0.22	child	2SG	hab'lej	ni hab'lej.	tenga proba.	erg	hab'lej = ha- + b'lej (probar); "tenga/prueba" = transitive imperative 2SG agent tastes/tries; erg
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinmam	winh hinmam.	mi papá.	poss	hinmam = hin- + mam; "mi papá" = possessive kin term
+CY120711.txt	Yeseña	2;0.22	child	3SG	swak'ek	swak'ek' xapon t'ay.	le paso el jabón.	erg	swak'ek' = s- + wak'ek' (pasar/dar); "le pasó el jabón" = transitive 3SG agent passes object to recipient; erg
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'	Aldea Yolonhte'.	false_pos	Yolonhte' = proper place name; y- is initial letter of place name, not Set A prefix
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	false_pos	Yolonhte' = proper place name (duplicate)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	false_pos	Yolonhte' = proper place name (triplicate)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	false_pos	Yolonhte' = proper place name (quadruplicate)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yulch'en	i' t'a Yulch'en.	si en la Aldea de Yulch'en.	false_pos	Yulch'en = proper place name; y- is part of place name, not Set A prefix
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	3SG	syuk	syuk' anhb'al.	va a tomar medicina.	erg	syuk' = s- + yuk' (tomar/beber); "va a tomar medicina" = transitive 3SG agent drinks/takes medicine; erg
+CY120711.txt	Yeseña	2;0.22	child	3SG	yajek	yajek' chi'.	ahí esta.	false_pos	yajek' = "ahí está"; demonstrative/locative existential; not y- Set A prefix on verb; fixed locative expression
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinkape	i' hinkape.	si mi café.	poss	hinkape = hin- + kape (café); "mi café" = possessive on Spanish loanword
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	false_pos	Yolonhte' = proper place name
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	false_pos	Yolonhte' = proper place name (duplicate)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	false_pos	Yolonhte' = proper place name (triplicate)
+CY120711.txt	Yeseña	2;0.22	child	1PL	komam	xit' winh komam.	fue nuestro papá.	poss	komam = ko- + mam (papá/abuelo); "nuestro papá" = possessive kin term; "nuestro" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	yulch'en	Yulch'en.	Aldea Yulch'en.	false_pos	Yulch'en = proper place name; false positive
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinmam	ix b'ay winh hinmam t'a Yulch'en.	se fue mi papá en la Aldea Yulch'en.	poss	hinmam = hin- + mam; "mi papá" = possessive kin term
+CY120711.txt	Yeseña	2;0.22	child	3SG	yulch'en	ix b'ay winh hinmam t'a Yulch'en.	se fue mi papá en la Aldea Yulch'en.	false_pos	Yulch'en = proper place name; false positive
+CY120711.txt	Yeseña	2;0.22	child	2SG	hakal	b'at kik' hakal.	vamos a traer nuestra agua.	poss	hakal = ha- + kal (agua); "nuestra agua" — but "nuestra" is 1PL while ha- is 2SG; possible person mismatch or hakal is a compound for water; Spanish "nuestra" vs ha- 2SG is inconsistent; classify as poss (Set A on noun, possessive function)
+CY120711.txt	Yeseña	2;0.22	child	3SG	swaso	swaso han.	vaso pues.	poss	swaso = s- + waso (vaso); "vaso pues" = "su vaso" = possessive on Spanish loanword
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	nun Yadira.	mamá Yadira.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' kalnel.	es la oveja.	false_pos	hanok' = "es la/el" demonstrative/copular; not ha- ergative/possessive prefix
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanh	ni' hanh hinxumak'.	aquí está mi flor.	false_pos	hanh = demonstrative "aquí está/ten"; not ha- possessive prefix; deictic particle
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinxumak	ni' hanh hinxumak'.	aquí está mi flor.	poss	hinxumak' = hin- + xumak' (flor); "mi flor" = possessive
+CY120711.txt	Yeseña	2;0.22	child	3SG	sway	sway nok'.	duerme el.	abs_error	sway = s- + way (dormir); "duerme él" = intransitive; Set A on intransitive
+CY120711.txt	Yeseña	2;0.22	child	3SG	yichil	yichil.	su chile o picante.	poss	yichil = y- + ichil (chile/picante); "su chile" = possessive; "su" confirms
+CY120711.txt	Yeseña	2;0.22	child	1PL	kopes	kopes.	jovencita.	false_pos	kopes = "jovencita"; kopes is a lexical noun meaning young woman; ko- is part of the root, not 1PL Set A prefix; false positive
+CY120711.txt	Yeseña	2;0.22	child	1PL	kopes	kopes.	jovencita.	false_pos	kopes = "jovencita"; same as above (duplicate)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	1PL	kopes	kopes.	jovencita.	false_pos	kopes = "jovencita"; same as above (triplicate)
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinxanhab	malaj hinxanhab'.	no tengo zapato.	poss	hinxanhab' = hin- + xanhab' (zapato); "no tengo zapato" = "no tengo mi zapato" = possessive
+CY120711.txt	Yeseña	2;0.22	child	1PL	konh	konh wayok.	vammos ha dormir.	abs_error	konh = "vamos a dormir"; hortative 1PL intransitive; Set A on intransitive
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'at	sb'at.	se va.	abs_error	sb'at = s- + b'at; "se va" = intransitive; Set A on intransitive
+CY120711.txt	Yeseña	2;0.22	child	3SG	swayi	swayi.	se duerme.	abs_error	swayi = s- + wayi (dormirse); "se duerme" = intransitive; Set A on intransitive
+CY120711.txt	Yeseña	2;0.22	child	3SG	stz'ok'i	stz'ok'i.	llora.	abs_error	stz'ok'i = s- + tz'ok'i (llorar); "llora" = intransitive; Set A on intransitive
+CY120711.txt	Yeseña	2;0.22	child	3SG	yuk'ej	yuk'ej waj Lukax.	Lucas lo va ha tomar.	erg	yuk'ej = y- + uk'ej (tomar/beber); "Lucas lo va a tomar" = transitive 3SG agent (Lucas) takes/drinks; erg
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinyam	hinyam anh.	lo agarro.	erg	hinyam = hin- + yam (agarrar); "lo agarro" = transitive 1SG agent grabs object; erg
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'i	sb'i ix.	el nombre de ella.	poss	sb'i = s- + b'i (nombre); "el nombre de ella" = possessive; "de ella" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'i	ichachi' sb'i ix.	eso es el nombre de ella.	poss	sb'i = s- + b'i (nombre); "nombre de ella" = possessive (duplicate)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Yolonhte'.	false_pos	Yolonhte' = proper place name; false positive
+CY120711.txt	Yeseña	2;0.22	child	2SG	hakot	hakot.	traélo.	erg	hakot = ha- + kot (traer/llevar); "tráelo" = transitive imperative 2SG agent brings object; erg
+CY120711.txt	Yeseña	2;0.22	child	2SG	hapat	yol hapat.	dentro de tu casa.	poss	hapat = ha- + pat (casa); "tu casa" = possessive; "tu" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira ol'ach k'e ika.	Yadira te subiras en el temascal.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanhb'al	ni' hanhb'al.	ten tu medicina.	poss	hanhb'al = ha- + nhb'al (medicina); "tu medicina" = possessive; "tu" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	stzuntzej	nunin stzuntzej.	mamá molesta.	abs_error	stzuntzej = s- + tzuntzej (molestar); "mamá molesta" = intransitive stative? or transitive; "molesta" without object = intransitive here; classify as abs_error given lack of explicit object
+CY120711.txt	Yeseña	2;0.22	child	3SG	sk'o'ol	ya' sk'o'ol ix.	le duele el estomago.	poss	sk'o'ol = s- + k'o'ol (estómago); "le duele el estómago" = "su estómago" = possessive body part
+CY120711.txt	Yeseña	2;0.22	child	1PL	konhach	konhach.	vamonos.	abs_error	konhach = "vamonos"; hortative 1PL intransitive; Set A on intransitive
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Yolonhte'.	false_pos	Yolonhte' = proper place name; false positive
+CY120711.txt	Yeseña	2;0.22	child	1PL	kob'itz'och	kob'itz'och ko'och.	torteamos nuestra tortilla.	erg	kob'itz'och = ko- + b'itz'och (tortear); "torteamos nuestra tortilla" = transitive 1PL agent makes tortillas (object = ko'och); erg
+CY120711.txt	Yeseña	2;0.22	child	3SG	yo'ol	yo'ol k'o'ol.	alimento o comida.	false_pos	yo'ol = "adentro/alimento"; locative or food term; y- is part of lexical root, not Set A prefix; "alimento" doesn't imply 3SG possession
+CY120711.txt	Yeseña	2;0.22	child	3SG	yelxo	yelxo k'olal.	mucho.	false_pos	yelxo = "mucho"; quantifier/adverb; y- is part of lexical root, not Set A prefix
+CY120711.txt	Yeseña	2;0.22	child	1PL	koyamlaj	weno manh ol koyamlaj.	bueno no lo vamos ha tocar.	erg	koyamlaj = ko- + yamlaj (tocar/llegar a); "no lo vamos a tocar" = transitive 1PL agent; erg
+CY120711.txt	Yeseña	2;0.22	child	1PL	konhach	konhach.	vamos.	abs_error	konhach = "vamos"; hortative 1PL intransitive; Set A on intransitive
+CY120711.txt	Yeseña	2;0.22	child	2SG	hakot	hakot hinmanasan.	damelo mi manzana.	erg	hakot = ha- + kot (traer/dar); "dámelo" = transitive imperative 2SG agent gives to 1SG; erg
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinmanasan	hakot hinmanasan.	damelo mi manzana.	poss	hinmanasan = hin- + manasan (manzana); "mi manzana" = possessive on Spanish loanword
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	te' yune' mexa.	mesita.	poss	yune' = y- + une' (pequeño/hijo); te' yune' mexa = "mesita" (little table); yune' = "pequeña" as diminutive/possessive modifier; poss (possessed diminutive noun)
+CY120711.txt	Yeseña	2;0.22	child	1PL	kochay	nok' kochay.	nuestro pescado.	poss	kochay = ko- + chay (pescado); "nuestro pescado" = possessive; "nuestro" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	toca o tocar.	erg	yama' = y- + ama' (tocar/agarrar); "tocar" = transitive verb; erg (3SG agent)
+CY120711.txt	Yeseña	2;0.22	child	1PL	kok'enchen	kok'enchen ni'.	nuestra olla metal ve.	poss	kok'enchen = ko- + k'enchen (olla de metal); "nuestra olla" = possessive; "nuestra" confirms
+CY120711.txt	Yeseña	2;0.22	child	1PL	kotek	kotek.	nuestra comida.	poss	kotek = ko- + tek (comida); "nuestra comida" = possessive; "nuestra" confirms
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanhb'al	tzuk' hanhb'al.	tomas tu medicina.	poss	hanhb'al = ha- + nhb'al (medicina); "tu medicina" = possessive; "tu" confirms
+CY120711.txt	Yeseña	2;0.22	child	1PL	konun	nulej ix konun chi' jun.	hermana nuestra madre pues.	poss	konun = ko- + nun (madre); "nuestra madre" = possessive kin term; "nuestra" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	yune' xila.	pequeña silla.	poss	yune' = y- + une'; "pequeña silla" — te' yune' xila = possessed diminutive; possessive/diminutive use
+CY120711.txt	Yeseña	2;0.22	child	1SG	hintek	hintek', hintek'.	mi comida, mi comida.	poss	hintek' = hin- + tek' (comida); "mi comida" = possessive
+CY120711.txt	Yeseña	2;0.22	child	1SG	hintek	hintek', hintek'.	mi comida, mi comida.	poss	hintek' = hin- + tek'; "mi comida" = possessive (duplicate)
+CY120711.txt	Yeseña	2;0.22	child	1SG	hintek	hintek' Ewin.	mi comida E.	poss	hintek' = hin- + tek'; "mi comida" = possessive
+CY120711.txt	Yeseña	2;0.22	child	1PL	konholob	konholob'.	nuestro huevo.	poss	konholob' = ko- + nholob' (huevo); "nuestro huevo" = possessive; "nuestro" confirms
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok'.	es el (se refiere al huevo).	false_pos	hanok' = "es él/ella/eso" demonstrative/copular; not ha- possessive/ergative prefix
+CY120711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	agarrá.	erg	yama' = y- + ama' (agarrar); "agarra" = transitive imperative; 3SG erg
+CY120711.txt	Yeseña	2;0.22	child	3SG	yo'och	yo'och.	su tortilla.	poss	yo'och = y- + o'och (tortilla); "su tortilla" = possessive; "su" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	snholob	nok' snholob' ix Yadira.	el huevo de Yadira.	poss	snholob' = s- + nholob' (huevo); "el huevo de Yadira" = possessive; "de Yadira" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	nok' snholob' ix Yadira.	el huevo de Yadira.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	hihi ni' ix Yadira.	¡eh! mira ha Yadira.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	agarrá.	erg	yama' = y- + ama' (agarrar); "agarra" = transitive imperative; 3SG erg (duplicate)
+CY120711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	agarra.	erg	yama' = y- + ama'; "agarra" = transitive; 3SG erg
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinnholob	b'ajay nok´hinnholob', ak'jak hinnholob'.	donde esta mi huevo, dame un poco de huevo.	poss	hinnholob' = hin- + nholob' (huevo); "mi huevo" = possessive
+CY120711.txt	Yeseña	2;0.22	child	2SG	hatek	ni' hatek	ten tu comida.	poss	hatek = ha- + tek (comida); "tu comida" = possessive; "tu" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira hatek.	Yadira tu comida.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	2SG	hatek	Yadira hatek.	Yadira tu comida.	poss	hatek = ha- + tek; "tu comida" = possessive; "tu" confirms
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	false_pos	Yadira = proper name; false positive
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	en la Aldea Yolonhte'.	ta' Yolonhte'.	false_pos	Yolonhte' = proper place name; false positive
+CY260711.txt	Yeseña	2;0.22	child	3SG	yulch'en	yulch'en.	Aldea Yulch'en.	false_pos	Yulch'en = proper place name; false positive
+CY260711.txt	Yeseña	2;0.22	child	2SG	hawinh	hawinh.	es él.	false_pos	hawinh = "es él" demonstrative/copular; not ha- possessive/ergative; same as Isabel's hawinh
+CY260711.txt	Yeseña	2;0.22	child	2SG	hayek	hayek' ix t'a Yulch'en.	ella se encuentra en Yulch'en.	abs_error	hayek' = ha- + yek' (encontrarse/estar); "ella se encuentra" = intransitive stative; Set A on intransitive
+CY260711.txt	Yeseña	2;0.22	child	3SG	yulch'en	hayek' ix t'a Yulch'en.	ella se encuentra en Yulch'en.	false_pos	Yulch'en = proper place name; false positive
+CY260711.txt	Yeseña	2;0.22	child	2SG	hakape	ni te' hakape.	ten o tenga tú café.	poss	hakape = ha- + kape (café); "tu café" = possessive; imperative give-possessive context
+CY260711.txt	Yeseña	2;0.22	child	3SG	yadira	ni Yadira.	ten Yadira.	false_pos	Yadira = proper name; false positive
+CY260711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' pech.	es un pato.	false_pos	hanok' = "es un/una" demonstrative/copular; not ha- possessive/ergative
+CY260711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' jirafa.	es una jirafa.	false_pos	hanok' = "es una" demonstrative/copular; not ha- possessive/ergative (duplicate)
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokatzitz	ni te' kokatzitz tik.	aquí estan nuestras leñas.	poss	kokatzitz = ko- + katzitz (leña); "nuestras leñas" = possessive; "nuestras" confirms
+CY260711.txt	Yeseña	2;0.22	child	3SG	sjawi	mata ix Ewin sjawi.	no ha llegado E todavia.	abs_error	sjawi = s- + jawi (llegar); "no ha llegado" = intransitive arrival; Set A on intransitive
+CY260711.txt	Yeseña	2;0.22	child	1PL	kob'ikel	kob'ikel kuk'ab'.	vamos a lavar nuestros platos.	erg	kob'ikel = ko- + b'ikel (lavar); "vamos a lavar nuestros platos" = transitive 1PL agent; erg
+CY260711.txt	Yeseña	2;0.22	child	2SG	hatas	hatas jun hinb'ika'.	era eso que yo lavé.	false_pos	hatas = "era eso/fue eso" demonstrative/copular; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	1SG	hinb'ika	hatas jun hinb'ika'.	era eso que yo lavé.	erg	hinb'ika' = hin- + b'ika' (lavar); "yo lavé" = transitive 1SG agent washes; erg
+CY260711.txt	Yeseña	2;0.22	child	2SG	hab'i	hab'i tzinach Lusin.	oí, silencio Lucía.	erg	hab'i = ha- + b'i (oír/escuchar); "oí" = transitive 2SG agent heard; or imperative "escucha"; erg
+CY260711.txt	Yeseña	2;0.22	child	3SG	syak	tas syak' ix Katal t'ayach.	que es lo que Catarina te dá.	erg	syak' = s- + yak' (dar); "Catarina te da" = transitive 3SG agent gives to 2SG; erg
+CY260711.txt	Yeseña	2;0.22	child	3SG	yune	ix yune' ix Malin Tatey.	la hija de María.	poss	yune' = y- + une' (hija); "la hija de María" = possessive kin term; "de María" confirms
+CY260711.txt	Yeseña	2;0.22	child	2SG	hawajanh	hawajanh.	llama pues.	erg	hawajanh = ha- + wajanh (llamar); "llama pues" = transitive imperative 2SG agent calls object; erg
+CY260711.txt	Yeseña	2;0.22	child	3SG	yadira	ha ix Yadira tzawtej.	a Yadira la estas llamando.	false_pos	Yadira = proper name; false positive
+CY260711.txt	Yeseña	2;0.22	child	3SG	yadira	/ni Yadira, /ni ho'och.	ten Yadira, ten tú comida.	false_pos	Yadira = proper name; false positive
+CY260711.txt	Yeseña	2;0.22	child	3SG	yujwal	yujwal yos.	gracias.	false_pos	yujwal = "gracias"; fixed expression/loanword concept; y- not Set A prefix; discourse formula
+CY260711.txt	Yeseña	2;0.22	child	3SG	yuk'em	s/yuk' yuk'em nok'.	toma su atol el animal.	erg	yuk'em = y- + uk'em (tomar/beber); "toma su atol el animal" = transitive 3SG agent (animal) drinks; erg
+CY260711.txt	Yeseña	2;0.22	child	2SG	hato	hato kik'an.	hasta mañana.	false_pos	hato = "hasta mañana/allá"; temporal/spatial particle; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	2SG	hate	ni te' hate'.	ten tú palo.	poss	hate' = ha- + te' (palo/árbol); "tu palo" = possessive; "tú" confirms
+CY260711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' chay.	es el pescado.	false_pos	hanok' = "es el/la" demonstrative/copular; not ha- possessive/ergative
+CY260711.txt	Yeseña	2;0.22	child	2SG	hat'a	hat'a xela.	en Xela.	false_pos	hat'a = "en Xela/allá en"; spatial particle/locative; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	2SG	hato	hato xela.	hasta allí en Xela.	false_pos	hato = "hasta allí"; spatial/temporal particle; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	2SG	haxo	haxo kokape.	ahora nuestra café.	false_pos	haxo = "ahora"; temporal demonstrative; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokape	haxo kokape.	ahora nuestra café.	poss	kokape = ko- + kape (café); "nuestra café" = possessive; "nuestra" confirms
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokape	kokape.	nuestra café.	poss	kokape = ko- + kape; "nuestra café" = possessive (duplicate)
+CY260711.txt	Yeseña	2;0.22	child	1SG	hinmam	winh hinmam.	mi papá.	poss	hinmam = hin- + mam; "mi papá" = possessive kin term
+CY260711.txt	Yeseña	2;0.22	child	2SG	hata	hata tik t'a xela.	fue allí en Xela.	false_pos	hata = "allí en Xela/fue allá"; spatial demonstrative or verb+locative; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	3SG	skan	skan ix.	se queda ella.	abs_error	skan = s- + kan (quedarse); "se queda ella" = intransitive; Set A on intransitive
+CY260711.txt	Yeseña	2;0.22	child	3SG	yadira	elanh yadira.	quitate Yadira.	false_pos	yadira = proper name; false positive
+CY260711.txt	Yeseña	2;0.22	child	1PL	kopapis	ixta ko/wa' kopapis.	ya esta vamos a comer.	poss	kopapis = ko- + papis (tortillas); "vamos a comer nuestras tortillas" = possessive object; "comer" takes possessed object
+CY260711.txt	Yeseña	2;0.22	child	3SG	skutej	skutej.	lo hagamos.	erg	skutej = s- + kutej (hacer); "lo hagamos" — though "hagamos" is 1PL, skutej has s- 3SG; transitive; classify as erg (transitive verb with Set A)
+CY260711.txt	Yeseña	2;0.22	child	2SG	hatek	niwan k'olal /ni hatek /ni.	perdón tenga tu comida ve.	poss	hatek = ha- + tek; "tu comida" = possessive; "tu" confirms
+CY260711.txt	Yeseña	2;0.22	child	3SG	skal	skal aseyte.	entre aceite.	poss	skal = s- + kal (aceite/agua); "su aceite" — "entre aceite" — skal = "su aceite/líquido"; possessive; though "entre aceite" is unusual; classify as poss
+CY260711.txt	Yeseña	2;0.22	child	3SG	yo'op	yo'op.	nalgas o trasero.	poss	yo'op = y- + o'op (nalgas/trasero); "sus nalgas" = possessive body part; poss
+CY260711.txt	Yeseña	2;0.22	child	3SG	yonh	¡yonh!	¡oh!	false_pos	yonh = exclamation; not y- morphological prefix; false positive
+CY260711.txt	Yeseña	2;0.22	child	3SG	yulch'en	t'a yulch'en.	en Yulch'en.	false_pos	Yulch'en = proper place name; false positive
+CY260711.txt	Yeseña	2;0.22	child	3SG	yulch'en	yulch'en.	yulch'en.	false_pos	Yulch'en = proper place name; false positive
+CY260711.txt	Yeseña	2;0.22	child	2SG	haxo	haxo.	ahora.	false_pos	haxo = "ahora"; temporal particle; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	1PL	komam	winh komam.	nuestro papá.	poss	komam = ko- + mam (papá); "nuestro papá" = possessive kin term; "nuestro" confirms
+CY260711.txt	Yeseña	2;0.22	child	3SG	yego	yego (Yakin)	D.	false_pos	yego = unclear, possibly a name or game term; "D." is not informative; too unclear to classify as Set A; false_pos
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokuchara	k'en kokuchara.	nuestra cucharra.	poss	kokuchara = ko- + kuchara (cuchara); "nuestra cuchara" = possessive on Spanish loanword; "nuestra" confirms
+CY260711.txt	Yeseña	2;0.22	child	3SG	yolchanh	hi' yolchanh.	(empty)	false_pos	yolchanh = "en el cielo" or locative; yol- = locative "inside/along"; not y- Set A prefix; locative compound
+CY260711.txt	Yeseña	2;0.22	child	3SG	schumama	schumama'.	(empty)	erg	schumama' = s- + chumama (dejar); "déjalo" = transitive 3SG; erg (same verb as Mateo's schumama)
+CY260711.txt	Yeseña	2;0.22	child	1SG	hintete	¡hi!, ni hintete'.	¡ih!, ten mi juguete.	poss	hintete' = hin- + tete' (juguete); "mi juguete" = possessive; "mi" confirms
+CY260711.txt	Yeseña	2;0.22	child	2SG	hakape	ni hakape chi'.	tenga tú café.	poss	hakape = ha- + kape; "tu café" = possessive; "tú" confirms
+CY260711.txt	Yeseña	2;0.22	child	3SG	stzuntzej	stzuntzej nene' mis.	molesta el pequeño gatito.	abs_error	stzuntzej = s- + tzuntzej (molestar); "molesta" without explicit transitive object = intransitive reading; Set A on intransitive
+CY260711.txt	Yeseña	2;0.22	child	3SG	ya'k'ol	ya'k'ol mis.	dolor de estomago gato.	poss	ya'k'ol = y- + a'k'ol (estómago/barriga); "dolor de estómago gato" = "su estómago" = possessive body part; poss
+CY260711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	agarra.	erg	yama' = y- + ama' (agarrar); "agarra" = transitive; 3SG erg
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokatzitz	w/ikot t'e kokatzitz.	voy a traer nuestras leñas.	poss	kokatzitz = ko- + katzitz (leña); "nuestras leñas" = possessive; "nuestras" confirms
+CY260711.txt	Yeseña	2;0.22	child	3SG	sk'e	sk'e te' kopat.	se construye nuestra casa.	abs_error	sk'e = s- + k'e (subir/construirse); "se construye" = intransitive middle; Set A on intransitive
+CY260711.txt	Yeseña	2;0.22	child	1PL	kopat	sk'e te' kopat.	se construye nuestra casa.	poss	kopat = ko- + pat (casa); "nuestra casa" = possessive; "nuestra" confirms
+CY260711.txt	Yeseña	2;0.22	child	3SG	sko/b'o	to sko/b'o te' kopat.	es que vamos a hacer nuestra casa.	erg	sko/b'o = s- + ko/b'o (hacer/construir); "vamos a hacer nuestra casa" = transitive; erg (3SG Set A on transitive)
+CY260711.txt	Yeseña	2;0.22	child	1PL	kopat	to sko/b'o te' kopat.	es que vamos a hacer nuestra casa.	poss	kopat = ko- + pat; "nuestra casa" = possessive
+CY260711.txt	Yeseña	2;0.22	child	1PL	kopat	ni naj kopat.	esto seria nuestra casa.	poss	kopat = ko- + pat; "nuestra casa" = possessive (triplicate)
+CY260711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' ol /kochixi.	es lo que vamos a comer de nuevo.	false_pos	hanok' = "es lo que" demonstrative/copular; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	2SG	hat'a	hat'a tik.	es aquí.	false_pos	hat'a = "es aquí"; locative demonstrative; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	2SG	hat'a	hat'a tik ni.	es aqui ve.	false_pos	hat'a = "es aquí ve"; locative demonstrative; not ha- ergative/possessive (duplicate)
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokape	ayok'ab' kokape.	que aíga nuestra café.	poss	kokape = ko- + kape; "nuestra café" = possessive
+CY260711.txt	Yeseña	2;0.22	child	1SG	hinkape	jakxo hinkape.	dame otro poco de café.	poss	hinkape = hin- + kape; "mi café" = possessive
+CY260711.txt	Yeseña	2;0.22	child	2SG	hat'a	hat'a barilla.	en Barillas.	false_pos	hat'a = "en Barillas"; spatial locative particle; not ha- ergative/possessive
+CY260711.txt	Yeseña	2;0.22	child	2SG	hatzun	hatzun.	es un.	false_pos	hatzun = "es un" demonstrative/numeral; not ha- ergative/possessive prefix

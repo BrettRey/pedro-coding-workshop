@@ -1,0 +1,324 @@
+B(rendo=sujeto de investigacion)
+T(Bartolo)
+E(ulalia)
+M(agdalena)
+A(ngelina)
+
++ ruido.
+B ni i´.
+T ni´.
++ sin audio.
+B au tzun.
+T hi.
++ sin audio.
+B tambola.
+ = crambola.
+ %spa crambola.
+E aga´ acho.
+ = ak´a junelxo.
+ %spa dale otra vez.
+T ho.
+ = oy.
+ %spa si.
+B ha´i.
+ = ha´in.
+ %spa yo.
++ un poco de ruido por los juguetes del niño.
+T xal jun tik tas b´i.
+ = xal jun tik tas sb´i.
+ %spa y esto como se llama.
++ sonido del n.
+B nnnn.
+ = ( ).
+ %spa ( ).
+T xal jun tik tas b´i.
+ = xal jun tas sb´i.
+ %spa y esto como se llama.
++ ruido de un gallo.
+B may.
+ = mach.
+ %spa cuál.
+T tas b´i jun tik.
+ = tas sb´i jun tik.
+ %spa cuál es el nombre de esto.
++ ruido desconocido.
+T b´ajay winh nene.
+ = b´ajay winh yune´.
+ %spa dónde esta él nene.
++ ruido.
+T quienes suve.
+ = mach ske´i´.
+ %spa quienes suve.
+B oa.
+ = mona.
+ %spa mona.
++ ruido.
+E icha ton chi´.
+ %spa eso es así.
+T ma´ay teletubis xa chi´an.
+ = ma´ay teletuwis xa chi´an.
+ %spa no dile teletubis.
+E tek´anxo stajni winh.
+ %spa ya juega bien.
++ canto de un gallo.
+T teletubis xa xhi´.
+ = teletuwis xa xhi´.
+ %spa dile teletubis.
+M telekuvis xa chi´.
+equiMagdalena     teletuwis xa chi´.
+tradMagdalena     dile teletubis.
++ sin audio.
+T ni.
+ = ni´i´.
+ %spa toma.
++ ruido.
+M xikot´ ixko mee.
+ = ( ).
+ %spa ( ).
+T b´ajay nok´ hamono jun.
+ %spa dónde esta tu mono pues.
+T b´ajay nok´ hamono.
+E b´ajay nok´ hamono ma b´ajay nok´ hamono.
+ %spa donde esta tu mono nene, donde esta tu mono.
+T ( ).
+ %spa ( ).
+T yel hajay nok´ hamono.
+ %spa cierto donde esta tu mono.
+M tas tzal ke.
+ %spa que decis vos.
+E b´ajay nok´ hamono.
+ %spa donde esta tu mono.
++ sin audio.
+E chox nok´ nek wila´.
+ %spa mostramelo para verlo.
++ canto del gallo.
+T b´aj.
+ %spa donde.
+E b´ajay nok´.
+ %spa donde esta el.
+T b´ajay nok´ t´a tik.
+ %spa donde esta el aquí.
+T il nab´i b´ajay nok´.
+ %spa mira donde esta el.
++ se escucha al gallo.
+T b´ajay nok´.
+ %spa donde esta el.
++ se escucha ruido y al gallo.
+T ni.
+ %spa toma.
++ un poco de ruido.
+B ( ).
+T b´ajay nok´ hamono t´a tik.
+ %spa donde esta tu mono aquí.
++ sin audio.
+B nnn.
+T mach nok´.
+ %spa quien es el.
+E chox nok´ nek chox nok´ nek.
+ %spa haber demuestralo, mostralo a el.
+E mono xa chi han.
+ %spa decile mono.
++ sin audio.
+T i´.
+ %spa si.
++ sin audio.
+E mono xa chi.
+ %spa decile mono.
++ sin audio.
+T ajay nok´ hamono.
+ = b´ajay nok´ hamono.
+ %spa donde esta tu mono.
+T ha nok´ tik may.
+ %spa es esta o no.
+B ni´i.
+ = ni´i´.
+T ha nok´ ti.
+ = ha nok´ tik.
+ %spa es esto.
++ sin audio.
+T ho.
+ %spa ( ).
+M chox nok´ han, chox nok´.
+ %spa mostralo pues, mostralo.
+E chox nok´ papa.
+ = chox nok´ mamin.
+ %spa mostralo papá.
++ sin audio.
+B avel chi.
+ = ha nok´ tik.
+ %spa es esto.
++ sin audio.
+T ma´aya hanok´ tik ni, hini´ nok´ hamono tik.
+ = ma´ay hanok´ tik ni, hini´ nok´ hamono tik.
+ %spa no es eso, aquí esta tu mono.
++ sin audio.
+T ni´ nok´ hamono tik.
+ %spa este es tu mono.
+T haxo nok´ tik hanok´.
+ %spa y es te es el.
+T kelem tas  nok´.
+ = kelem tas nok´al jun nok´ tik.
+ %spa mucha que es.
++ sonido del n.
+B nnnn.
+ %spa ( ).
+T b´al tas tas nok´al jun nok´ tik jun.
+ = palta tas nok´al jun nok´tik jun.
+ %spa entonces que es este animal pues.
++ sonido del gallo.
+Angelina          iiiii k´axlanh tik.
+equiAngelina      iiiii kaxlanh tik.
+tradAngelina      iiiii este galllo.
+B hi.
+ = i´.
+ %spa si.
+B mano.
+ = mono.
+ %spa mono.
++ ruido.
+T mono.
+ %spa mono.
++ ruido del juguete.
+T ma´ay ini nok´ hamono tik.
+ %spa no, aquí esta tu mono.
++ ruido del juguete y algunos sin audio.
+T mono nok´.
+ %spa el es mono.
++ sin audio.
+B i.
+ = i´.
+ %spa si.
+T xal jun tik tas b´i.
+ = xal juntik tas sb´i.
+ %spa y esto como se llama.
++ ruido.
+A jjjjj.
+ %spa jjjjjj.
+B mala nok´.
+ = malaj nok´.
+ %spa no esta.
+T ma´ay.
+ %spa no.
+B maay.
+ = ma´ay.
+ %spa no.
+T eh hak´en tik hak´en carro.
+ = e hak´en tik hak´en kuchwajum.
+ %spa he este es un carro.
++ ruido.
+B ha talo.
+ = hak´en kuchwajum.
+ %spa es carro.
+T i´.
+ %spa si.
+T palanhgana sb´i k´en.
+ %spa se llama volteo.
++ sin audio, se escucha al gallo.
+E ajay nok´ chej jun, ajay nok´ hachej.
+ = b´ajay nok´ chej jun, b´ajay nok´ hachej.
+ %spa donde esta elcaballo, donde esta tu caballo.
++ ruido.
+E b´ajay nok´ hachej.
+ %spa donde esta tu caballo.
++ ruido.
+B chem ti ti.
+ = ni nok´ hinchej tik.
+ %spa aquí esta mi caballo.
+E junxo nok´, junxo nok´.
+ %spa es el otro, es el otro.
+B i.
+ = i´.
+ %spa si.
+T junxo nok´ yune´ tzin.
+ %spa el otro más pequeño.
+B imm.
+ %spa imm.
+T b´ajay nok´.
+ %spa donde esta el.
+E ajay nok´ hachej, ajay nok´ hachej.
+ %spa donde esta tu caballo, donde esta tu caballo.
++ ruido y el gallo.
+B a nok´.
+ = ha nok´ tik.
+ %spa es este.
+E hoy.
+ %spa ¡ho!.
+B i´m.
+ = ni´.i´.
+E ¡ha!.
+ %spa ¡ha!.
+E telan, telan.
+ %spa si, si. si.
+E ha en avión jun ha en avión.
+ = b´ajay k´en hak´en much jun, b´ajay k´en hak´en much.
+ %spa donde esta tu avión, donde esta tu avión.
++ sin audio.
+B ihm.
+ = ( ).
+ %spa ihm.
+E b'ajay helecopter.
+ = b'ajay k'en helecopter.
+ %spa donde esta tu helicóptero.
++ sin audio.
+B maha ken.
+ = malaj k'en.
+ %spa no hay.
+T xal k'en tik jun ni'.
+ %spa es este pues ve.
+E xal k'en chi jun.
+ %spa es este pues.
+B ( ).
+ %spa ( ).
+T ni k'en helecopter chi'.
+ %spa ahí esta tu helicóptero.
+E chox k'en han, chox k'en.
+ %spa mostralo pues, mostralo.
++ ruido de animales.
+E chox k'en helecopter
+ %spa mostra tu helicóptero.
++ ruido de animales.
+T nen.
+ = yune'.
+ %spa nene.
++ ruido.
+E ma.
+ %spa nene o mijo.
+T chox k'en helecopter.
+ %spa mostra tu helicóptero.
+E vilnek k'en, vilnek k'en.
+ = wilnek k'en, wilnek k'en.
+ %spa haber voy a verlo, voy a verlo.
+E b'ajay k'en.
+ %spa donde esta el.
++ canto del gallo.
++ seksjaj.
++ sin audio y un poco de ruido.
+E tas b'i k'e'en.
+ = tas sb'i k'e'en.
+ %spa como se llama.
++ ruido.
+E tas b'i k'e'en.
+ %spa como se llama.
++ ruido de juguetes.
++ ruido de jueguetes.
+T mijo b'ajay ixa nanab'.
+ = ma' ajay ix hanab'.
+ %spa mijo donde esta tu hermana.
++ sin audio.
+E b'aj ixa nanab'.
+ = b'ajay ix hanab'.
+ %spa donde esta tu hermana.
+E b'aj ixa nanab'.
+ = b'ajay ix hanab'.
+ %spa donde esta tu hermana.
+E b'aj ix hanulej
+ = b'ajay ix hanab'.
+ %spa donde esta tu hermana.
++ canto del gallo.
+B ( ).
+ %spa ( ).
+E chox ix hanulej  han.
+ = chox ix hanab'  an.
+ %spa mostra tu hermana pues.
++ se escucha un poco al gallo.
++ sej sjaj.

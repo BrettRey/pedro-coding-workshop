@@ -1,0 +1,305 @@
+file	child	age	role	person	token	chuj_full	spanish	function	notes
+CB120711.txt	Brendo	?	child	2SG	hak´en	hak´en kuchwajum.	es carro.	ambiguous	no possessive or verbal signal detected
+CB120711.txt	Brendo	?	child	1SG	hinchej	ni nok´ hinchej tik.	aquí esta mi caballo.	poss	Spanish contains possessive: "mi"
+CF110711_1.txt	Francisco	1;7.6	child	1PL	konh	konh, konhach.	vamos, vamos.	erg	Spanish contains verbal cue: "vamos"
+CF110711_1.txt	Francisco	1;7.6	child	1PL	konhach	konh, konhach.	vamos, vamos.	erg	Spanish contains verbal cue: "vamos"
+CF110711_1.txt	Francisco	1;7.6	child	3SG	yamin	yamin.	agarrame.	ambiguous	no possessive or verbal signal detected
+CF110711_1.txt	Francisco	1;7.6	child	3SG	stzun	tzin stzun tzej ix.	ella me molesta mucho	erg	Spanish contains verbal cue: "ella me"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinkuch	hinkuch ix han.	la cargo pues.	erg	Spanish contains verbal cue: "cargo"
+CI120711.txt	Isabel	2;0.22	child	3SG	yich	ak'kot wib'an o ak'kot t'a yich hinpatik.	damelo en la espalda.	erg	Spanish contains verbal cue: "la espalda"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpatik	ak'kot wib'an o ak'kot t'a yich hinpatik.	damelo en la espalda.	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	2SG	hannnnnnn	hann hannnnnnn.	hann hannnnnnn. (sonido de los carros).	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	3SG	sb'al	wak'och sb'al ix.	le pongo su pañal.	poss	Spanish contains possessive: "su"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinmam	winh hinmam.	mi papá.	poss	Spanish contains possessive: "mi"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinkuxkux	hinkuxkux.	mi galleta.	poss	Spanish contains possessive: "mi"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpekal	tzik'ot hinpekal.	me traes glotones.	erg	Spanish contains verbal cue: "me traes"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinlolo	hinlolo' o hinpek'al.	mi glotón.	poss	Spanish contains possessive: "mi"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpek'al	hinlolo' o hinpek'al.	mi glotón.	poss	Spanish contains possessive: "mi"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpan	hinpan.	mi pan.	poss	Spanish contains possessive: "mi"
+CI120711.txt	Isabel	2;0.22	child	2SG	hawa	hawa'.	agua.	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	1SG	hinye	weno o hinye'.	bueno.	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	3SG	yo'ok	yo'ok.	sus pies.	poss	Spanish contains possessive: "sus"
+CI120711.txt	Isabel	2;0.22	child	3SG	yo'ok	yo'ok.	sus pies.	poss	Spanish contains possessive: "sus"
+CI120711.txt	Isabel	2;0.22	child	3SG	yonh	yonh.	¡oh!.	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	3SG	yolpat	yolpat.	dentro de la casa.	erg	Spanish contains verbal cue: "la casa"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinene	hinene'.	mi nene.	poss	Spanish contains possessive: "mi"
+CI120711.txt	Isabel	2;0.22	child	2SG	hanh	hanh.	tu planta.	poss	Spanish contains possessive: "tu"
+CI120711.txt	Isabel	2;0.22	child	3SG	yo'o	yo'o.	¡oh!.	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	2SG	hawixta	hawixta' tzin kuchu'.	voy a cargar mis juguetes.	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	2SG	hajun	hajun tik.	es esto.	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	2SG	hajun	hajun chi'.	fue eso o es eso.	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	2SG	hab'i	hab'i.	escucha.	ambiguous	no possessive or verbal signal detected
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpek'al	tzik'ot hinpek'al.	me traes glotones.	erg	Spanish contains verbal cue: "me traes"
+CI120711.txt	Isabel	2;0.22	child	1SG	hinpek'al	tzikot hinpek'al.	me traes glotones.	erg	Spanish contains verbal cue: "me traes"
+CI120711.txt	Isabel	2;0.22	child	1PL	konh	konh.	vamos.	erg	Spanish contains verbal cue: "vamos"
+CI260711.txt	Isabel	2;0.22	child	3SG	yonh	¡yonh!	¡oh!	ambiguous	no possessive or verbal signal detected
+CI260711.txt	Isabel	2;0.22	child	3SG	yonh	¡yonh!	¡oh!	ambiguous	no possessive or verbal signal detected
+CI260711.txt	Isabel	2;0.22	child	2SG	hawinh	hawinh.	es él.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	hach	nhikan hach.	hay que estar lista.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	hach	nhikan hach an.	listo pues.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	haxo	haxo k'en tuktuk.	ahora el tuctuc.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yemxol	yemxol winh.	viene bajando Ã©l.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yemxol	yemxol winh chi.	viene bajando Ã©l.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yonh	yonh.	ahora (se fue)	erg	Spanish contains verbal cue: "se fue"
+CM080711.txt	Mateo	2;1.26	child	3SG	skot	skot' ix.	viene ella.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	hanh	hanh hanh'.	( ).	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	hanh	hanh hanh'.	( ).	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	1PL	kokaro	nijunxo kokaro tik.	aqui tenemos otro carro.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	haaaaa	haaaaa.	haaaaa.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yamnok	b'at'in yamnok'.	voy ir a agarrar la pelota.	erg	Spanish contains verbal cue: "la pelota"
+CM080711.txt	Mateo	2;1.26	child	2SG	hachin	hachin tek'ta.	no te voy a patear.	erg	Spanish contains verbal cue: "te voy"
+CM080711.txt	Mateo	2;1.26	child	3SG	yonh	yonh.	ahora (se fue).	erg	Spanish contains verbal cue: "se fue"
+CM080711.txt	Mateo	2;1.26	child	3SG	yak'ani	yak'ani.	asÃ­ lo hizo.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	1PL	konh	konh em kuman.	nos ponemos derrodillas.	erg	Spanish contains verbal cue: "ponemos"
+CM080711.txt	Mateo	2;1.26	child	3SG	sb'at	ni sb'at k'en karro chi'.	alli va el carro.	erg	Spanish contains verbal cue: "va"
+CM080711.txt	Mateo	2;1.26	child	2SG	haaaannn	titiiiit  haaaannn.	( ).	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	skot	t'ay tik skot ix.	traela  ella aqui.	erg	Spanish contains verbal cue: "ella aqui"
+CM080711.txt	Mateo	2;1.26	child	3SG	yonh	yonh.	ho.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	schum	schum ix nene'.	dejemoslo a ella	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	haan	haan.	( ).	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	sk'eta	wan sk'eta ix.	ella estÃ¡ subiendo.	erg	Spanish contains verbal cue: "ella estã"
+CM080711.txt	Mateo	2;1.26	child	2SG	hach	hach weka'.	te empujo.	erg	Spanish contains verbal cue: "te empujo"
+CM080711.txt	Mateo	2;1.26	child	3SG	sb'olxaxil	Â¿yo tom malaj sb'olxaxil k'apak?	Â¿a poco  no tiene bolsa?	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	sk'eta	sk'eta ix.	subir a ella.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	1PL	konhach	konhach.	vamos.	erg	Spanish contains verbal cue: "vamos"
+CM080711.txt	Mateo	2;1.26	child	3SG	yolb'e	ik'il ix yolb'e.	quitala ella en el camino.	erg	Spanish contains verbal cue: "ella en"
+CM080711.txt	Mateo	2;1.26	child	3SG	yolb'e	elanhek yolb'e.	quitense en el camino.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	hahan	hahan.	no_spa	no Spanish translation available
+CM080711.txt	Mateo	2;1.26	child	1SG	hinye	hinye.	bueno.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yamin	yamin.	agarrame.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yamin	yamin.	agarrame.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yonh	yonh.	ho.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	hato	hato t'ay chi ol och juntik t'a hin kamix tik.	hasta allÃ­ me van ha poner esto en mi camisa..	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	stonh	hin stonh ix.	aquÃ­ esta su medalla.	poss	Spanish contains possessive: "su"
+CM080711.txt	Mateo	2;1.26	child	3SG	yak'an	yak'an ix ana.	hacÃ­a ana.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yak'a	ay ichachi yak'a n ix ana.	hay hacÃ­a ana.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yak'ani	( ). yak'ani.	( ) decÃ­a.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	1SG	hinsat	hin ch'ox hinsat	voy a persignar.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	2SG	hach	Â¿b'ajay hach?	Â¿dÃ³nde estÃ¡s?	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	yowal	yowal winh ket'ok.	estÃ¡ enojado Ã©l con nosotros.	ambiguous	no possessive or verbal signal detected
+CM080711.txt	Mateo	2;1.26	child	3SG	sk'e	ta sk'e ix jachkut ix t'ay tik t'ay tik ni.	si sube ella, arrastrala ella aquÃ­ aquÃ­ mira .	erg	Spanish contains verbal cue: "ella aquã"
+CM090811.txt	Mateo	2;1.26	child	3SG	yak'in	ix yak'in yaya'.	me  dolió.	ambiguous	no possessive or verbal signal detected
+CM090811.txt	Mateo	2;1.26	child	3SG	yaya	ix yak'in yaya'.	me  dolió.	ambiguous	no possessive or verbal signal detected
+CM090811.txt	Mateo	2;1.26	child	1PL	konhach	konhach.	vamos.	erg	Spanish contains verbal cue: "vamos"
+CM090811.txt	Mateo	2;1.26	child	1PL	komida	b't /b'o hin komida.	ve a hacer mi comida.	ambiguous	no possessive or verbal signal detected
+CM090811.txt	Mateo	2;1.26	child	1SG	hina	manh hina tek'a' junxonhej rato weno hayaj ko b'at chi b'i'an.	no me pateas solo un rato buno y nos vamos.	erg	Spanish contains verbal cue: "me pateas"
+CM090811.txt	Mateo	2;1.26	child	2SG	hayaj	manh hina tek'a' junxonhej rato weno hayaj ko b'at chi b'i'an.	no me pateas solo un rato buno y nos vamos.	ambiguous	no possessive or verbal signal detected
+CM090811.txt	Mateo	2;1.26	child	2SG	haxo	haxo junchi'.	el otro.	ambiguous	no possessive or verbal signal detected
+CM090811.txt	Mateo	2;1.26	child	1PL	konhach	konhach an.	vamos pues.	erg	Spanish contains verbal cue: "vamos"
+CM090811.txt	Mateo	2;1.26	child	2SG	hatik	hatik.	esto.	ambiguous	no possessive or verbal signal detected
+CM090811.txt	Mateo	2;1.26	child	3SG	swala	hin wol swala'.	digo mi pelota.	ambiguous	no possessive or verbal signal detected
+CM090811.txt	Mateo	2;1.26	child	3SG	yakis	kak' yakis.	juhuemos diaquis.	ambiguous	no possessive or verbal signal detected
+CM090811.txt	Mateo	2;1.26	child	3SG	yakis	/kak' yakis.	juguemos diaquis.	ambiguous	no possessive or verbal signal detected
+CM090811.txt	Mateo	2;1.26	child	1PL	konhach	konhach.	vamos.	erg	Spanish contains verbal cue: "vamos"
+CM090811.txt	Mateo	2;1.26	child	3SG	yo'ol	/ak'im yo'ol.	ponga adentro.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	skarro	ha jun skarro ix.	un carro de ella.	poss	Spanish contains possessive: "de ella"
+CM230811.txt	Mateo	2;1.26	child	3SG	schumama	schumama.	dejalo.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	sxanhab	sxanhab' winh.	zapato de el.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	sxanhab	in sxanhab' winh.	mira los zapatos de el.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	sb'at	sb'at nok'.	se va.	erg	Spanish contains verbal cue: "va"
+CM230811.txt	Mateo	2;1.26	child	3SG	yiko	ha ix ay yiko'.	es de ella.	poss	Spanish contains possessive: "de ella"
+CM230811.txt	Mateo	2;1.26	child	3SG	smankut	smankut ix mama t'ayon.	nos compra la mamá a nosotros.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	kampana yak'ani.	campana dice.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	sman	sman winhin papa.	mi padre me compra.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	yowal	yowal ix./	esta enojada ella.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	yak'ani.	lo hace.	erg	Spanish contains verbal cue: "hace"
+CM230811.txt	Mateo	2;1.26	child	3SG	stok'ik	stok'ik' winh.	me lo quita.	erg	Spanish contains verbal cue: "lo quita"
+CM230811.txt	Mateo	2;1.26	child	3SG	yib'anh	t'ay yib'anh ix el ix.	ella salió arriba.	erg	Spanish contains verbal cue: "ella salió"
+CM230811.txt	Mateo	2;1.26	child	3SG	sb'at	sb'at ix nena.	se va la nena	erg	Spanish contains verbal cue: "va"
+CM230811.txt	Mateo	2;1.26	child	3SG	sb'at	sb'at ix nena.	e va la nena.	erg	Spanish contains verbal cue: "va"
+CM230811.txt	Mateo	2;1.26	child	3SG	stak'laj	max stak'laj ix.	no quiere ella.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	yeli	yeli.	salio.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	t'inh yak'ani.	se explotó.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	sjuk'an	wan sjuk'an ix.	esta lavando ella.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	ponh yak'ani.	dice ponh.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	ponh yak'ani.	dice ponh.	ambiguous	no possessive or verbal signal detected
+CM230811.txt	Mateo	2;1.26	child	3SG	yak'ani	ponh yak'ani.	dice pom.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	skak	tas jun skak' chi?	que es lo que hacemos?	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	sch'ayxi	sch'ayxi k'e'en.	se moja el carro.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	sb'at	sb'at nok wol.	se fue mi pelota.	erg	Spanish contains verbal cue: "se fue"
+CM260711.txt	Mateo	2;1.26	child	3SG	syil	¿tasum syil ix?	¿no se que es lo que ella nos vea?	erg	Spanish contains verbal cue: "ella nos"
+CM260711.txt	Mateo	2;1.26	child	3SG	skak'a	ha tik skak'a'.	/hagamos esto.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	sb'at	yo sb'at t'ay chi'.	oh se va allá.	erg	Spanish contains verbal cue: "va"
+CM260711.txt	Mateo	2;1.26	child	2SG	haxo	haxo nok' tik.	ahora el otro.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	schumama	schumama.	dejalo.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	schumama	schumama.	dejalo.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	schumama	schumama.	dejalo.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	2SG	hatik	hatik.	a qui.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	2SG	hatik	hatik.	aqui.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	1PL	konh	nunin konh /tajnok.	mamá juguemos.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	2SG	hachi	hachi'.	ese.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	2SG	hatik	hatik.	aqui.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	2SG	haxo	haxo k'entik.	ahora este.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	schiwaj	ha nok' otela schiwaj nok'.	la Otela /ladra	erg	Spanish contains verbal cue: "la otela"
+CM260711.txt	Mateo	2;1.26	child	2SG	haxo	haxo junxo nok' chi'.	y el otro.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	sb'at	yo sb'at k'en karambola.	oh se va la canica.	erg	Spanish contains verbal cue: "va"
+CM260711.txt	Mateo	2;1.26	child	3SG	yallaj	max yallaj.	no se pude.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	schumama	schumama konh.	dejalo vamos.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	1PL	konh	schumama konh.	dejalo vamos.	erg	Spanish contains verbal cue: "vamos"
+CM260711.txt	Mateo	2;1.26	child	2SG	haxo	haxo junnxo k'e'en.	ahora el otro.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	yonh	yonh /sb'at k'en karambola.	oh se va la canica.	erg	Spanish contains verbal cue: "va"
+CM260711.txt	Mateo	2;1.26	child	3SG	yib'anh	yo ha yib'anh jun karro.	oh arriba de un carro.	ambiguous	no possessive or verbal signal detected
+CM260711.txt	Mateo	2;1.26	child	3SG	yib'anh	yib'anh k'en.	encima de.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	kopapis	kak'och kopapis.	torteamos.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	skalnaji	ak'b'at skalnaji'.	mete dentro de.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanh	hanh paj'ich.	el tomate.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hatek	nulej ni hatek.	hermana aquí tienes tu comida.	poss	Spanish contains possessive: "tu"
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'ati	sb'ati.	se va.	erg	Spanish contains verbal cue: "va"
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'ati	sb'ati.	se va.	erg	Spanish contains verbal cue: "va"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	yune'.	nena.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	yune'.	nena.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	i' yune'.	si nena.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yooo	yooo!.	¡ooooh!.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hachin	hachin chamk'o'ol.	mi amor.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	snhach	snhach.	mordeo.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	swuk'a	swuk'a'.	quiero tomar agua.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hab'lej	ni hab'lej.	tenga proba.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinmam	winh hinmam.	mi papá.	poss	Spanish contains possessive: "mi"
+CY120711.txt	Yeseña	2;0.22	child	3SG	swak'ek	swak'ek' xapon t'ay.	le paso el jabón.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'	Aldea Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yulch'en	i' t'a Yulch'en.	si en la Aldea de Yulch'en.	erg	Spanish contains verbal cue: "la aldea"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	syuk	syuk' anhb'al.	va a tomar medicina.	erg	Spanish contains verbal cue: "va"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yajek	yajek' chi'.	ahí esta.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinkape	i' hinkape.	si mi café.	poss	Spanish contains possessive: "mi"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Aldea Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	komam	xit' winh komam.	fue nuestro papá.	poss	Spanish contains possessive: "nuestro"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yulch'en	Yulch'en.	Aldea Yulch'en.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinmam	ix b'ay winh hinmam t'a Yulch'en.	se fue mi papá en la Aldea Yulch'en.	poss	Spanish contains possessive: "mi"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yulch'en	ix b'ay winh hinmam t'a Yulch'en.	se fue mi papá en la Aldea Yulch'en.	erg	Spanish contains verbal cue: "se fue"
+CY120711.txt	Yeseña	2;0.22	child	2SG	hakal	b'at kik' hakal.	vamos a traer nuestra agua.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	swaso	swaso han.	vaso pues.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	nun Yadira.	mamá Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' kalnel.	es la oveja.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanh	ni' hanh hinxumak'.	aquí está mi flor.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinxumak	ni' hanh hinxumak'.	aquí está mi flor.	poss	Spanish contains possessive: "mi"
+CY120711.txt	Yeseña	2;0.22	child	3SG	sway	sway nok'.	duerme el.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yichil	yichil.	su chile o picante.	poss	Spanish contains possessive: "su"
+CY120711.txt	Yeseña	2;0.22	child	1PL	kopes	kopes.	jovencita.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	kopes	kopes.	jovencita.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	kopes	kopes.	jovencita.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinxanhab	malaj hinxanhab'.	no tengo zapato.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	konh	konh wayok.	vammos ha dormir.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'at	sb'at.	se va.	erg	Spanish contains verbal cue: "va"
+CY120711.txt	Yeseña	2;0.22	child	3SG	swayi	swayi.	se duerme.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	stz'ok'i	stz'ok'i.	llora.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yuk'ej	yuk'ej waj Lukax.	Lucas lo va ha tomar.	erg	Spanish contains verbal cue: "lo va"
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinyam	hinyam anh.	lo agarro.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'i	sb'i ix.	el nombre de ella.	poss	Spanish contains possessive: "de ella"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	sb'i	ichachi' sb'i ix.	eso es el nombre de ella.	poss	Spanish contains possessive: "de ella"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hakot	hakot.	traélo.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hapat	yol hapat.	dentro de tu casa.	poss	Spanish contains possessive: "tu"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira ol'ach k'e ika.	Yadira te subiras en el temascal.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanhb'al	ni' hanhb'al.	ten tu medicina.	poss	Spanish contains possessive: "tu"
+CY120711.txt	Yeseña	2;0.22	child	3SG	stzuntzej	nunin stzuntzej.	mamá molesta.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	sk'o'ol	ya' sk'o'ol ix.	le duele el estomago.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	konhach	konhach.	vamonos.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	Yolonhte'.	Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	kob'itz'och	kob'itz'och ko'och.	torteamos nuestra tortilla.	poss	Spanish contains possessive: "nuestra"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yo'ol	yo'ol k'o'ol.	alimento o comida.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yelxo	yelxo k'olal.	mucho.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	koyamlaj	weno manh ol koyamlaj.	bueno no lo vamos ha tocar.	erg	Spanish contains verbal cue: "vamos"
+CY120711.txt	Yeseña	2;0.22	child	1PL	konhach	konhach.	vamos.	erg	Spanish contains verbal cue: "vamos"
+CY120711.txt	Yeseña	2;0.22	child	2SG	hakot	hakot hinmanasan.	damelo mi manzana.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinmanasan	hakot hinmanasan.	damelo mi manzana.	poss	Spanish contains possessive: "mi"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	te' yune' mexa.	mesita.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	kochay	nok' kochay.	nuestro pescado.	poss	Spanish contains possessive: "nuestro"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	toca o tocar.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1PL	kok'enchen	kok'enchen ni'.	nuestra olla metal ve.	poss	Spanish contains possessive: "nuestra"
+CY120711.txt	Yeseña	2;0.22	child	1PL	kotek	kotek.	nuestra comida.	poss	Spanish contains possessive: "nuestra"
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanhb'al	tzuk' hanhb'al.	tomas tu medicina.	poss	Spanish contains possessive: "tu"
+CY120711.txt	Yeseña	2;0.22	child	1PL	konun	nulej ix konun chi' jun.	hermana nuestra madre pues.	poss	Spanish contains possessive: "nuestra"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yune	yune' xila.	pequeña silla.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1SG	hintek	hintek', hintek'.	mi comida, mi comida.	poss	Spanish contains possessive: "mi"
+CY120711.txt	Yeseña	2;0.22	child	1SG	hintek	hintek', hintek'.	mi comida, mi comida.	poss	Spanish contains possessive: "mi"
+CY120711.txt	Yeseña	2;0.22	child	1SG	hintek	hintek' Ewin.	mi comida E.	poss	Spanish contains possessive: "mi"
+CY120711.txt	Yeseña	2;0.22	child	1PL	konholob	konholob'.	nuestro huevo.	poss	Spanish contains possessive: "nuestro"
+CY120711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok'.	es el (se refiere al hhuevo).	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	agarrá.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yo'och	yo'och.	su tortilla.	poss	Spanish contains possessive: "su"
+CY120711.txt	Yeseña	2;0.22	child	3SG	snholob	nok' snholob' ix Yadira.	el huevo de Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	nok' snholob' ix Yadira.	el huevo de Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	hihi ni' ix Yadira.	¡eh! mira ha Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	agarrá.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	agarra.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	1SG	hinnholob	b'ajay nok´hinnholob', ak'jak hinnholob'.	donde esta mi huevo, dame un poco de huevo.	poss	Spanish contains possessive: "mi"
+CY120711.txt	Yeseña	2;0.22	child	2SG	hatek	ni' hatek	ten tu comida.	poss	Spanish contains possessive: "tu"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira hatek.	Yadira tu comida.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	2SG	hatek	Yadira hatek.	Yadira tu comida.	poss	Spanish contains possessive: "tu"
+CY120711.txt	Yeseña	2;0.22	child	3SG	yadira	Yadira.	Yadira.	ambiguous	no possessive or verbal signal detected
+CY120711.txt	Yeseña	2;0.22	child	3SG	yolonhte	en la Aldea Yolonhte'.	ta' Yolonhte'.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yulch'en	yulch'en.	Aldea Yulch'en.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hawinh	hawinh.	es él.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hayek	hayek' ix t'a Yulch'en.	ella se encuentra en Yulch'en.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yulch'en	hayek' ix t'a Yulch'en.	ella se encuentra en Yulch'en.	erg	Spanish contains verbal cue: "ella se"
+CY260711.txt	Yeseña	2;0.22	child	2SG	hakape	ni te' hakape.	ten o tenga tú café.	erg	Spanish contains verbal cue: "tú café"
+CY260711.txt	Yeseña	2;0.22	child	3SG	yadira	ni Yadira.	ten Yadira.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' pech.	es un pato.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' jirafa.	es una jirafa.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokatzitz	ni te' kokatzitz tik.	aquí estan nuestras leñas.	poss	Spanish contains possessive: "nuestras"
+CY260711.txt	Yeseña	2;0.22	child	3SG	sjawi	mata ix Ewin sjawi.	no ha llegado E todavia.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	kob'ikel	kob'ikel kuk'ab'.	vamos a lavar nuestros platos.	ambiguous	poss signal (True) + verb signal
+CY260711.txt	Yeseña	2;0.22	child	2SG	hatas	hatas jun hinb'ika'.	era eso que yo lavé.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1SG	hinb'ika	hatas jun hinb'ika'.	era eso que yo lavé.	erg	Spanish contains verbal cue: "yo lavé"
+CY260711.txt	Yeseña	2;0.22	child	2SG	hab'i	hab'i tzinach Lusin.	oí, silencio Lucía.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	syak	tas syak' ix Katal t'ayach.	que es lo que Catarina te dá.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yune	ix yune' ix Malin Tatey.	la hija de María.	erg	Spanish contains verbal cue: "la hija"
+CY260711.txt	Yeseña	2;0.22	child	2SG	hawajanh	hawajanh.	llama pues.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yadira	ha ix Yadira tzawtej.	a Yadira la estas llamando.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yadira	/ni Yadira, /ni ho'och.	ten Yadira, ten tú comida.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yujwal	yujwal yos.	gracias.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yuk'em	s/yuk' yuk'em nok'.	toma su atol el animal.	poss	Spanish contains possessive: "su"
+CY260711.txt	Yeseña	2;0.22	child	2SG	hato	hato kik'an.	hasta mañana.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hate	ni te' hate'.	ten tú palo.	erg	Spanish contains verbal cue: "tú palo"
+CY260711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' chay.	es el pescado.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hat'a	hat'a xela.	en Xela.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hato	hato xela.	hasta allí en Xela.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	haxo	haxo kokape.	ahora nuestra café.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokape	haxo kokape.	ahora nuestra café.	poss	Spanish contains possessive: "nuestra"
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokape	kokape.	nuestra café.	poss	Spanish contains possessive: "nuestra"
+CY260711.txt	Yeseña	2;0.22	child	1SG	hinmam	winh hinmam.	mi papá.	poss	Spanish contains possessive: "mi"
+CY260711.txt	Yeseña	2;0.22	child	2SG	hata	hata tik t'a xela.	fue allí en Xela.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	skan	skan ix.	se queda ella.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yadira	elanh yadira.	quitate Yadira.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	kopapis	ixta ko/wa' kopapis.	ya esta vamos a comer.	erg	Spanish contains verbal cue: "vamos"
+CY260711.txt	Yeseña	2;0.22	child	3SG	skutej	skutej.	lo hagamos.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hatek	niwan k'olal /ni hatek /ni.	perdón tenga tu comida ve.	poss	Spanish contains possessive: "tu"
+CY260711.txt	Yeseña	2;0.22	child	3SG	skal	skal aseyte.	entre aceite.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yo'op	yo'op.	nalgas o trasero.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yonh	¡yonh!	¡oh!	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yulch'en	t'a yulch'en.	en Yulch'en.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yulch'en	yulch'en.	yulch'en.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	haxo	haxo.	ahora.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	komam	winh komam.	nuestro papá.	poss	Spanish contains possessive: "nuestro"
+CY260711.txt	Yeseña	2;0.22	child	3SG	yego	yego (Yakin)	D.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokuchara	k'en kokuchara.	nuestra cucharra.	poss	Spanish contains possessive: "nuestra"
+CY260711.txt	Yeseña	2;0.22	child	3SG	yolchanh	hi' yolchanh.	no_spa	no Spanish translation available
+CY260711.txt	Yeseña	2;0.22	child	3SG	schumama	schumama'.	no_spa	no Spanish translation available
+CY260711.txt	Yeseña	2;0.22	child	1SG	hintete	¡hi!, ni hintete'.	¡ih!, ten mi juguete.	poss	Spanish contains possessive: "mi"
+CY260711.txt	Yeseña	2;0.22	child	2SG	hakape	ni hakape chi'.	tenga tú café.	erg	Spanish contains verbal cue: "tú café"
+CY260711.txt	Yeseña	2;0.22	child	3SG	stzuntzej	stzuntzej nene' mis.	molesta el pequeño gatito.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	ya'k'ol	ya'k'ol mis.	dolor de estomago gato.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	3SG	yama	yama'.	agarra.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokatzitz	w/ikot t'e kokatzitz.	voy a traer nuestras leñas.	poss	Spanish contains possessive: "nuestras"
+CY260711.txt	Yeseña	2;0.22	child	3SG	sk'e	sk'e te' kopat.	se construye nuestra casa.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	kopat	sk'e te' kopat.	se construye nuestra casa.	poss	Spanish contains possessive: "nuestra"
+CY260711.txt	Yeseña	2;0.22	child	3SG	sko/b'o	to sko/b'o te' kopat.	es que vamos a hacer nuestra casa.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	kopat	to sko/b'o te' kopat.	es que vamos a hacer nuestra casa.	ambiguous	poss signal (True) + verb signal
+CY260711.txt	Yeseña	2;0.22	child	1PL	kopat	ni naj kopat.	esto seria nuestra casa.	poss	Spanish contains possessive: "nuestra"
+CY260711.txt	Yeseña	2;0.22	child	2SG	hanok	hanok' ol /kochixi.	es lo que vamos a comer de nuevo.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hat'a	hat'a tik.	es aquí.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hat'a	hat'a tik ni.	es aqui ve.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	1PL	kokape	ayok'ab' kokape.	que aíga nuestra café.	poss	Spanish contains possessive: "nuestra"
+CY260711.txt	Yeseña	2;0.22	child	1SG	hinkape	jakxo hinkape.	dame otro poco de café.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hat'a	hat'a barilla.	en Barillas.	ambiguous	no possessive or verbal signal detected
+CY260711.txt	Yeseña	2;0.22	child	2SG	hatzun	hatzun.	es un.	ambiguous	no possessive or verbal signal detected

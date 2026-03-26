@@ -1,0 +1,7358 @@
+M(Mat-sujeto principal: fecha de nacimiento: 12-mayo-2009. edad: 2;1.26 a�os;meses.d�as. sexo: masculino)
+J(uana)
+A(madre de M)
+U(visitante)
+X(abuela de M)
+V(prima de M, edad: 5;0.0)
++ c�digo: CM080711
++ duraci�n de grabaci�n: 1:00.02 (hora:minutos.segundos)
++ transcrito por: Nicol�s Alonzo G�mez
++ grabaciones hechas por: Nicol�s Alonzo G�mez y Gaspar P�rez Jorge
++ idioma: Chuj de San Mateo Ixtat�n, Huehuetenango, Guatemala
+
++ ( ).
++ ruido.M 
+J ixkot ixanh.
+ = ik' xi kot t'ay ix an.
+ %spa devuelo a ella pues.
++ ruido.
+M ben.
+ = weno.
+ %spa bueno.
++ ruido.
+J m.
+ = ni'i.
+ %spa tené.
++ ruido del juguete.
+J ekb'at t'a binh an ekb'at binh ekb'at.
+ = ekb'at t'ay winh an ekb'ati.
+ %spa empujele a él pues empuja.
++ ruido.
+J tzi sik'b'a t'a binh
+ = tzin sik'b'at t'ay winh.
+ %spa lo guardo aél.
++ ruido.
+J tol yi'ilta ha foto heb' ek'b'at t'a hinh.
+ = to ol yik'ilta hechel heb' ekb'at t'ay winh.
+ %spa empujá a él porque ellos van ha tomar tu foto.
++ ruido del carro carro (juguete)
++ ruido.
++ ruido del carro (juguete)
+A tzex loloni, to tzex loloni ekot t'ayin xa chi binh ol 
+                bekanb'at t'ayach xa chi t'a binh.
+ = to tzex loloni, ekut t'ayin ol wekanb'at t'ayach xa chi t'ay 
+                winh.
+ %spa hablen, empujame y te voy a empujar de nuevo decile a él.
+J mm.
+ = hi'.
+ %spa sí.
++ ruido.
+A nena.
+ = nene'.
+ %spa nena.
++ ruido.
+J yumkut an mateyo xa chi.
+ = yumkut an matin xa chi.
+ %spa tiralo pues M  decile.
++ ruido del juguete.
+J um jutan.
+ = yum kut an.
+ %spa tiralo pues.
+A kanhch chta.
+ = kanhchaj ta.
+ %spa no va a quebrar.
++ ruido.
+A kanh chi ta no he yu.
+ = kanhchaj ta nok' he yu'uj.
+ %spa no se va ha qubrar por ustedes.
+J max lolon  heb'.
+ = max lolon laj heb'.
+ %spa ellos no hablan.
++ ruido.
++ ruido del juguete de carro.
+J itzok tz' juninhej.
+ = ichok nok' tz'i juni nhej.
+ %spa parecen como perros.
++ ruido del juguete.
++ ruido.
+A mj.
+ = hijun.
+ %spa si pues.
++ ruido.
+A tzach lolon nene.
+ = ¿tzach lolon nene'.
+ %spa ¿hablas nene?
++ ruido.
+J ajtotil.
+ = ¿b'ajto ti'il?
+ %spa ¿hasta dónde?
+M nh.
+ = hi'.
+ %spa sí.
+A ma tzach loloni.
+ = ¿ma tach loloni?
+ %spa ¿hablas nene?
++ ruido.
+M hi.
+ = hi'.
+ %spa sí.
+A ala'.
+ = ala'.
+ %spa decile.
+A ax yala.
+ = max tiallaj.
+ %spa no se puede.
+J tonhej.
+ = tonhej.
+ %spa nomas.
+M tonhej.
+ = tonhej.
+ %spa nomas.
+A e ekut t'ayin xa chi t'a ixx nena.
+ = ekut t'ayin xa chi t'ay ix nene'.
+ %spa empújale a mí decile a la nena.
+J may xa chi.
+ = ma'ay xa chi.
+ %spa no decile.
+J ( ) ay nok xumpil bi.
+ = ilnab'i ay nok sxumpil winh.
+ %spa él tiene sombrero mira.
+A ekot t'ayin xa chi t'a ix nena tik.
+ = ekut t'ayin xa chi t'ay nene' tik.
+ %spa empújale a mí pues decile a la nena.
++ ruido.
+M ito ajk'i'i.
+ = ichatik tzin ajk'i'i.
+ %spa así voy a pararme.
++ ruido.
+A hi' ekut t'ayin xa chi ix.
+ = hi' eku t'ayin xa chi t'ay ix.
+ %spa sí empújale a mí decile a ella.
+U ( ).
+ = ( ).
+ %spa ( ).
+A batzach aj an bach' tzach aji ekut ekut karro chi t'ayin bita 
+                xa ch.
+ = wach' tzach aj an ekut karro chi t'ayin X xachi.
+ %spa hay que estar bien pues empújame el carro juanita decile.
+U ( ).
+ = ( ).
+ %spa ( ).
+U ( ).
+ = ( ).
+ %spa ( ).
+J pero to ol aj tumin ixoch.
+ = palta hato ix aj k'en tumin ix ochi.
+ %spa pero hasta que tuvimos el dinero y se ingresó.
+M toti tabok no.
+ = to ol jawok nok.
+ %spa esque va ha venir un animal.
++ ruido.
+J hi'.
+ = hi'.
+ %spa sí.
++ ruido.
+J hi' tzi tzewi.
+ = hi' stzewaji.
+ %spa sí se rie.
+A hi' k'a tajnel lemach xa chi.
+ = hi' kak' tajnel lemach xa chi.
+ %spa sí, vení vamos ha jugar decile.
++ ruido.
+A kak' tajnel bita xa chi.
+ = kak' tajnel X xa chi.
+ %spa juanita jugamos decile.
++ ruido.
+A yujchi ol bak' juna tumin tik ni.
+ = yuj chi ol wak' juna tumin tik ni'i.
+ %spa por eso te voy a dar este diner mira.
++ ruido.
+J2 owak' junok hik ha'ch tik ixtik ni tajnanh yet' binh lolonanh 
+                yet' binh.
+ = ol wak' junok hik ha'achtik, ichatik ni'i tajnanh yet' winh 
+                lolon yet' winh..
+ %spa te voy ha dar uno para tí también, así mirá juega y habla con 
+                él.
++ ruido.
+J kak'tajnel bira xa chi yet' ix.
+ = kak' tajnel xuwita xa chi t'ay ix.
+ %spa J jugamos decile ha ella.
++ ruido.
+J nh.
+ = ni'i.
+ %spa tené.
++ ruido.
+J xt ni.
+ = ni'i.
+ %spa tené.
++ ruido.
+A pro lolonanh yet' binh an.
+ = palta lolonanh yet' winh an.
+ %spa pero hablá con él pues.
+J lolon an ( ) tajnanh  yet' binh.
+ = ni'i lolonanh yet' winh tajnanh yet' winh lolonanh yet' winh.
+ %spa tené habla y juega con él.
++ ruido.
+J to tz'em kan ketnajanik' icho kek.
+ = to tz'emkan jetan janik' icho ke'ek.
+ %spa se queda sentado cómo mudo.
+U loloni'.
+ = ¿slolon winh?
+ %spa ¿él habla?
++ ruido.
+J lolonanh.
+ = lolonanh.
+ %spa habla.
++ ruido.
+J kotanh konh tajnok xachi t`a baj M  chi.
+ = kotanh konh tajnok xachi t'ay winhaj matin chi.
+ %spa veni vamos a jugar decile a M .
+A hi kak tajnel xachi.
+ = hi' kak' tajnel xachi.
+ %spa sí juguemos decile.
+A lem an M  a`in olbak tajnel et`ok kotanh..
+ = lemach matin ha'in ol wak' tajnel het`ok lemach.
+ %spa entonces matéo yo voy a jugar contigo vení.
++ ruido.
+A kak' tajne.
+ = kak' tajnel.
+ %spa juguemos.
+M nhi.
+ = hi'.
+ %spa sí.
++ ruido.
+A tzato hex lolon an.
+ = palta tzex lolon an.
+ %spa pero hablen pues.
++ ruido.
+A olekut t'ayin an.
+ = ol hekut t'ayin an.
+ %spa vas ha empujar a mí pues.
++ ruido.
+M nh.
+ = ¿hoy?
+ %spa ¿qué?
+A tzekut t'ayin t'a chi ni kotanh t'a chini.
+ = tzeku t'ayin t'ay chi ni'i kotanh t'ay chi.
+ %spa pásate allá y empujale  hacia a mí.
+M nh.
+ = weno.
+ %spa bueno.
++ ruido.
+A kotanh t'a chi tzekan kot ha karro chi t'ayin t'a chi.
+ = kotanh t'ay chi tzekan kot ha karro chi t'ayin.
+ %spa pasate allá y empuja tu carro hacia a mí.
++ ruido.
+A ¿nene?
+ = ¿nene'?
+ %spa ¿nene?
++ ( ).
+M nh.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
++ ruido de carro de juguete.
++ ruido.
+J ikut k'en tumin chi ixik manba.
+ = ikut k'en tumin chi ixik manwal.
+ %spa traeme el dinero hay que ir ha comprar.
+M ixo chaki.
+ = ix och chak'najok.
+ %spa se accidentó.
+J kira.
+ = ( ).
+ %spa ( ).
+A nh lista hach an lista.
+ = ni'i tzil an nhikan hach.
+ %spa tené hay que ver listo.
++ ruido.
+J kira.
+ = ( ).
+ %spa ( ).
++ ( ).
+X hanh.
+ = anh.
+ %spa planta.
+J ikut k'en tuminchi ko mana nitzuch...
+ = ikut k'en tumin chi' b'at ko mana nitzuch ha b'a.
+ %spa traeme el dinero vamos ir ha comprar y pegate más.
+A lista, lista.
+ = nhikan. nhikan.
+ %spa listo, listo.
++ ruido.
++ ( ).
++ ruido.
+M og.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+A ben ekut t'ayin a.
+ = weno ekut t'ayin an.
+ %spa bueno empújale a mi pues.
+J ekb'at ix.
+ = ekb'at ix.
+ %spa empujala ella.
++ ruido del juguete
+A lista xa chi an.
+ = nhikan hach xa chi an.
+ %spa alerta decile pues.
++ ruido.
+M lix.
+ = nhikan.
+ %spa alerta.
++ ruido. ( ).
+M ijin tij kin ka.
+ = ix hin tek' k'en karro.
+ %spa pateo el carro.
+J tajnanh yet bi.
+ = tajnanh yet winh.
+ %spa Juega con él.
++ ruido del juguete.
+A tob ixtik tzex aji ni.
+ = ixtik tzex aji ni'i.
+ %spa así se deben de quedar.
+A hip tzekuti.
+ = hip tzekuti.
+ %spa con fuerza hay que empujar.
++ ruido del juguete.
++ hay ruidos.
++ ruido.
+A ni a.
+ = ni an.
+ %spa tené pues.
++ ruido.
+A nihan.
+ = ni an.
+ %spa tené pues.
+J xab'i.
+ = ¿ix hab'i?
+ %spa ¿escucahste?
+A nené, nene, nene.
+ = nene' ni'i.
+ %spa nene tené.
++ ruido.
+M m.
+ = ma'ay.
+ %spa no.
+A ni'i.
+ = ni'i.
+ %spa tené.
+A ekut an ekuti.
+ = ekut an ekuti.
+ %spa empujalo pues empuja.
+X emm.
+ = ma'ay.
+ %spa no.
++ ruido del juguete.
+J tok'a chonh.
+ = tok'i ha chanh.
+ %spa subí tu corte.
++ ruido del juguete.
+A niji.
+ = ni'i.
+ %spa tené.
++ ruido.
+A k'ena kate.
+ = k'ena katena.
+ %spa tu cadena.
++ ruido.
+J hikut jun k'en katena ix b'ati.
+ = ¿manh hikok jun k'en katena ix b'ati?
+ %spa ¿hay una cadena que se fue no es tuyo?
++ ruido.
+A nihux ekuti, ekuti.
+ = ni junxo tik ekuti.
+ %spa aquí está otro empújalo.
++ ruido.
+J tuzug lulu ti katal.
+ = ¿tzuk' uk'em tik katal?
+ %spa ¿catarina quieres bebida?
+A lista xa chi a.
+ = nhikan xa chi an.
+ %spa alerta decile pues.
+A lista xa chi t'ayin a.
+ = nhikan hach xa chi t'ayin an.
+ %spa alerta decile ha mi pues.
++ ruido.
+M xum.
+ = ( ).
+ %spa ( ).
++ ruido.
+M xum.
+ = ( ).
+ %spa ( ).
++ ruido.
+M xuhuhu.
+ = xum.
+ %spa ( ).
++ ruido.
+M hannn.
+ = ( ).
+ %spa ( ).
++ ruido del juguete.
+U b'isa.
+ = b'sa'.
+ %spa hay que contar.
++ ruido del juguete.
+U arros.
+ = aros.
+ %spa arroz.
+M taxin jayek'i.
+ = tzaxo hi jarik'i.
+ %spa ya puedo atracar.
++ ruido.
+A mm.
+ = hijun.
+ %spa sí pues.
+U b'ut'an...
+ = b'ut'an.
+ %spa lleno.
+M k'ayan ix.
+ = ch'ayan ix.
+ %spa ella está mojado.
+A hi'.
+ = hi'.
+ %spa sí.
++ ruido.
+M ann ni'.
+ = han.
+ %spa ( ).
+U chaw.
+ = chab'.
+ %spa dos.
+A uga ni.
+ = ak'a ni.
+ %spa hacelo mira.
++ ruido.
+A kot tahi.
+ = tzach kot t'ayin.
+ %spa venís conmigo.
++ ( ).
+M uxin tet'i..
+ = junxo k'entik.
+ %spa otro mi carro.
+A ni injunxo k'entik, kotanh t`a chi an ol ha'.
+ = ni junxo k'entik ni'i, kotanh t'ay chi an yo ol ha...
+ %spa mira aquí esta otro pasate allí pués.
++ ruido.
+J2 yunhla junok hik ha'ch tik kotanh chi tajnanh ye hinh k'e'anh 
+                banh.
+ = lolonanh pax ha'achtik kotanh t'ay tik tajnanh yet' winh 
+                k'e'anh wa'anh..
+ %spa tú también hay que hablar pasate aquí hay que jugar con él 
+                levantate.
+A ch'ek jichan an.
+ = manh hach ek' jichan an.
+ %spa no hay que acostarse pues.
+J emanh kuman t'a chi,emanh kuman oll yekan b'at binh t'ay.
+ = emanh kuman t'ay chi ol yekanb'at winh t'ayach.
+ %spa arrodillate allá y él va ha empujar a tí.
++ ruido.
+A tzekb'at t'a ix bidalia tik.
+ = tzekb'at t'ay ix widalia tik.
+ %spa hay que empujar aquí ha V.
+J emanh kuman.
+ = emanh kuman.
+ %spa arrodillate.
++ ruido.
+M ana nan ne.
+ = hann.
+ %spa ( ).
++ ruido del juguete.
+A lista bidalia xa chi.
+ = nhikan hach widalia xa chi.
+ %spa hay que estar alerta V decile.
++ ruido.
+M lixta bilara.
+ = tzil an wilaria.
+ %spa hay que estar alerta pues vilaria.
+A lista hach xa chi.
+ = nhikan hach xa chi.
+ %spa hay que estar lista decile.
+M yixta hach.
+ = nhikan hach.
+ %spa hay que estar lista.
+J corre tato ich.
+ = jachechi tato ichachi'.
+ %spa corre si es así.
+M tole.
+ = jechechi.
+ %spa corre.
+J mmj.
+ = ( ).
+ %spa ( ).
+M ijiy.
+ = ( ).
+ %spa ( ).
+J achi.
+ = t'ay chi'.
+ %spa allí.
+M chi.
+ = t'a chi'.
+ %spa allí.
+A ¿mach junchi?
+ = ¿mach junchi?
+ %spa ¿quién fue ese?
+J ¿nhach junchi'?
+ = ¿mach junchi?
+ %spa ¿quién fue ese?
+M oy.
+ = ¿hoy?
+ %spa ¿qué?
+A ¿mach jun chi'?
+ = ¿mach junchi'?
+ %spa ¿quién fue ese?
+J ch junchi.
+ = ¿mach junchi'?
+ %spa ¿quién fue ese?
++ ( ).
++ ruido.
+J ¿mach junchi?
+ = ¿mach junchi'?
+ %spa quién fue ese?
++ ( ).
+M Tono.
+ = Antun.
+ %spa Antonio.
++ ( ).
+J tono.
+ = antun.
+ %spa antonio.
++ ruido del juguete.
+A m.
+ = ni'i.
+ %spa tené.
+A m.
+ = ni'i.
+ %spa tené.
++ ruido.
+A ekut an ekuti.
+ = ekut an ekuti.
+ %spa empujale pues empuja.
+M ¿ho?
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+A ekuti.
+ = ekuti.
+ %spa empujalo.
++ ruido.
+A lista xa chi.
+ = nhikan xa chi.
+ %spa lista decile.
++ ruido.
+M tita.
+ = nhikan.
+ %spa lista.
++ ruido del juguete.
+M ho.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+M je.
+ = ( ).
+ %spa ( ).
+J lista hach yune.
+ = lista hach yune.
+ %spa listo pequeño.
+M ji.
+ = ( ).
+ %spa ( ).
++ ( ).
+M yonh.
+ = yo.
+ %spa ho.
++ ruido del juguete.
+M unxo tek ke.
+ = junxo k'en chi.
+ %spa es el otro.
+J mama may may.
+ = ma'ay, ma'ay.
+ %spa no. no.
++ ruido.
+J kore ikut k'en.
+ = jechechi ikut k'e'en.
+ %spa corre traelo.
+A ikut k'en.
+ = ikut k'e'en.
+ %spa traelo.
+M ke.
+ = k'e'e.
+ %spa carro.
++ ruido.
+J iku ke.
+ = ikut k'e'en.
+ %spa traelo.
++ hay ruidos del juguete.
+J kio na uxo.
+ = ( ).
+ %spa ( ).
+M nixo ken chi.
+ = ni junxo k'en chi.
+ %spa allí está el otro.
++ ruido del juguete.
+A ini junxo k'enchi ekut k'en ni.
+ = ini junxo k'en chi ekut k'e'en.
+ %spa allí está el otro empujalo.
+J mm.
+ = ni'i.
+ %spa tené.
++ ruido.
+A ni unxo k'enchi, ekot k'enh ekot k'enh.
+ = ni junxo k'enchi ekut k'en.
+ %spa allí está el otro empujalo.
+M yo.
+ = yo.
+ %spa ho.
+A sik'b'at k'entik ta'.
+ = sik'b'at k'entik ta'.
+ %spa guardalo este allá.
++ ruido.
+J m.
+ = ( ).
+ %spa ( ).
++ ruido.
+A koxa koti.
+ = ochanh koti.
+ %spa pase adelante.
+M atz.
+ = ha'ach.
+ %spa esres tú.
++ ruido.
+J uchi an, snasti tzach korre.
+ = junchi an, ni an nhiukanach jechechi.
+ %spa el otro pues, listo pues tené corre.
++ ruido del juguete.
+M iya.
+ = telan.
+ %spa si pues.
+J ix ikut k'e'en oyin chekb'at jun ixchi lem korr.
+ = b'at ikut k'e'en ol hin chekb'at jun ixchi' lemach jechechi.
+ %spa ve ha traerlo voy a mandar ha ella vení corre.
+J k'ehanh banh bira.
+ = k'e'anh wanh wira.
+ %spa vira lavántate.
++ ruido.
+J ¿tas tza k'ulem netan k'ehanh banh?
+ = ¿tas tza k'ulej em netan k'e'anh wanh?
+ %spa ¿qué haces sentada levantate?
++ ruido.
+J ohach hin manh tzab'i xlon xlolon janik'.
+ = olach hin mak'a manhjak tzab'i, max lolon laj janik'.
+ %spa no entiendes nada,te voy a pegar porque no hablas.
++ ruido.
+J konh tajnok mari a chi t'a binh.
+ = konh tajnok matin xa chi t'ay winh.
+ %spa matéo juguemos decile ha él.
++ ( )   ruido.
+A ekuti, ekuti lista hach ch ch.
+ = ekuti nhikan hach xa chi.
+ %spa empújalo lista decile.
+M chix ba.
+ = ixta'.
+ %spa ya está.
+A beno.
+ = weno.
+ %spa bueno.
++ ruido del juguete.
+A ( ).
+ = ni'i.
+ %spa mira.
+J yo.
+ = yo.
+ %spa ho.
+A lista xa chi ani lista xa chi.
+ = nhikan hach an nhikan  xa chi an nhi.
+ %spa lista pues lista decile.
++ ruido.
+A bekb'at t'ach.
+ = wek b'at t'ayach.
+ %spa lo empujo hacia ti.
++ ruido del juguete.
+J ini junxo tik ni.
+ = ini junxo tik ni'i.
+ %spa aquí está el otro mira.
+M ka'a.
+ = kak'an.
+ %spa jugamos pues.
++ ruido del juguete.
+J ikut junx.
+ = ikut junchi'.
+ %spa traelo eso.
+M yolxo ixin chon te tik.
+ = yo ha'inxo ixin chonh te tik.
+ %spa y yo vendí este palo.
+J ini xbal ix patik te ek ch'inh.
+ = ini wal ix elta t'ay spati te' ch'inh.
+ %spa mira cuanto salió tras de ello mira.
+M hi.
+ = ( ).
+ %spa ( ).
++ ruido.
+A i.
+ = ( ).
+ %spa ( ).
+J ikut k'en yeho.
+ = ikut k'en yakin
+ %spa diego traelo.
++ ruido.
+J ikut k'en chi.
+ = ikut k'en chi'.
+ %spa traelo eso.
++ ruido.
+A ekut an, ekuti ekuti.
+ = ekut an ekuti.
+ %spa empújalo pues empuja.
++ ruido.
+A lista hin t'a tik.
+ = nhikanh hin t'ay tik.
+ %spa estoy lista aquí.
++ ruido.
+J eso mer. ( ).
+ = ichaton chi'..
+ %spa así es.
++ J rie.
+J beno bes, beno bes lista, lista.
+ = weno nhikan tzila', tzila'
+A ( ) lista hach an lista.
+ = cha'an nhikan  hach nhikan.
+ %spa recibe pues listo, listo.
+M lista chan.
+ = nhikan hach an.
+ %spa listo pues.
+A listacha'atik.
+ = nhikan hach ha'ach tik.
+ %spa tú también hay que estar listo.
++ ruido.
+J kistalin.
+ = kistalin.
+ %spa soy tonto.
++ ruidos.
+A nh.
+ = ( ).
+ %spa ( ).
+M ten.
+ = chen.
+ %spa saltar.
+J mahak' chanhal bakax.
+ = ¿maj hak' chanhal wakax?
+ %spa ¿no quieres hacer baile de torito?
+U uhan.
+ = X.
+ %spa J.
+A ak' chanhal bakax.
+ = ak' cahnhal wakax.
+ %spa haga el baile de torito.
+J ak' chanhal bakax.
+ = ak' cahnhal wakax.
+ %spa haga el baile de torito.
++ ruido.
+J ol ja ha tumin.
+ = ol jawok ha tumin.
+ %spa va ha venir tu dinero.
+M ichuk' x.
+ = hi'
+ %spa si.
+M xunh.
+ = xum.
+ %spa ( ).
+J xub, xum, xum
+ = xumm.
+ %spa ( ).
++ ( ).
+J no.
+ = ma'ay.
+ %spa no.
++ ruido.
+M ni'i.
+ = ni'i.
+ %spa mira.
+J xum xum xa yi.
+ = xum xa chi.
+ %spa xum decile.
+M xum.
+ = ( ).
+ %spa ( ).
++ ruido.
+M mm.
+ = ( ).
+ %spa ( ).
+M yo.
+ = yo.
+ %spa ho.
++ ruido.
+J linhan hi k'ehanh linhan  lista hach t'a chi, a chi tzach koti.
+ = k'e'anh linhan nhikan hach t'ay chi hata tzach koti.
+ %spa parate y pasate allí y listo.
+M eno'.
+ = weno.
+ %spa bueno.
++ ruido.
+J pero lista hach ola, ola cha no no.
+ = palta nhikanach ola cha nok' nok'.
+ %spa pero hay que estar listo vas ha recibir al animal.
++ ruido.
+M ho'a.
+ = ¿hoy?
+ %spa ¿qué?
+J ni'i ixik t'a chi ixik ta' chi.
+ = ni'i ixik t'ay chi'.
+ %spa mira hay que ir allá.
++ ruido.
+M mm.
+ = ni'i.
+ %spa mira.
++ ruido.
+M yip.
+ = hip.
+ %spa fuerza.
++ ruido del juguete.
+M yonh i.
+ = yo.
+ %spa ho.
++ ruido.
+M ixta o.
+ = ixta'.
+ %spa ya está.
+M uxu tut t'i.
+ = haxo k'en tuktuk.
+ %spa ahora el tuctuc.
++ ruido.
++ ruido del juguete.
+A unxo chi ni.
+ = junxo chi ni'i.
+ %spa allí está el otro.
++ ruido.
+A guista.
+ = nhikan.
+ %spa listo.
++ ruido.
+J k'ehanh ba'an.
+ = k'e'anh wa'anh.
+ %spa levantate.
++ ruido.
+A ekut an ekuti.
+ = ekut an ekuti.
+ %spa empújalo pues empuja.
++ ruido del juguete.
+A lista hach bidalia xa chi t'a ix.
+ = nhikanach wiralia xa chi t'ay ix.
+ %spa hay que estar listaV decile.
++ ruido.
+M tijchat bak ya.
+ = ix tijchajb'at...
+ %spa se desató...
++ ruido del juguete.
+A lista hach bida xa chi.
+ = nhikan hach wira xa chi.
+ %spa vira lista decile.
++ ruido.
++ hay ruidos.
+A ekot' an ekuti..
+ = ekut an ekuti.
+ %spa empújalo pues empujá.
+M icha.
+ = ichatik.
+ %spa así es.
+J ikoli.
+ = ikuti.
+ %spa traelo.
+A ni junxo tik xa chi. ( ).
+ = ni junxo tik xa chi.
+ %spa aquí está el otro decile.
+A ni junxo tik ni.
+ = ni junxo tik ni'i.
+ %spa aquí está otro mira.
+A ni uncho tik xa chi.
+ = ni jjunxo tik xa chi.
+ %spa aquí está otro decile.
++ ruido.
+A korre ni.
+ = jechechi ni'i.
+ %spa corre mira.
++ ruido.
+A yam t'a chi an ni lista.
+ = yam t'ay chi an ni'i nhikan.
+ %spa agarra allí pues listo.
++ ruido.
+A listachan.
+ = nhikan hach an.
+ %spa listo pues.
++ ruido del juguete.
+A nichini.
+ = ni chi' ni'i.
+ %spa allí está mira.
+J corre cor.
+ = jeche chi .
+ %spa corre.
++ ruido.
+A ekot'an ekuti..
+ = ekut an akuti.
+ %spa empuja pues empújalo..
+A lista xa chi an.
+ = nhikan xa chi an.
+ %spa lista decile pues.
++ ruido.
+J xum.
+ = xum.
+ %spa rum.
+J tzekk'ol ihix.
+ = tz'ek'ul ix.
+ %spa viene pasando ella.
+M a.
+ = ay.
+ %spa ( ).
++ ruido.
+M annn.
+ = hann.
+ %spa ( ).
++ ruido.
+M tetet.
+ = titiiiiit.
+ %spa ( ).
++ ruido.
+M an an.
+ = han hannn.
+ %spa ( ).
++ ruido.
+M xuhun.
+ = xuhuuuum.
+ %spa ( ).
++ ruido.
+M nu.
+ = nunin.
+ %spa mamá.
++ ruido.
+M ni.
+ = ni'i.
+ %spa tené.
++ ruido.
+J yoo olonh stek'e'en ho.
+ = yo olonh stek' k'e'en .
+ %spa ho nos va ha matar el carro.
+M ma'ay.
+ = ma'ay.
+ %spa no.
+M inti tunti.
+ = ( )
+ %spa ( )
++ hay ruidos.
+J ( ) b'aj ix k'och binh anima chi.
+ = b'at ila' b'ajtil ix k'och jun winh anima chi'.
+ %spa vaya ha ver donde se fue ese hombre.
+J lilinhach an nene'.
+ = k'e'anh linhan an nene'.
+ %spa ponete de pie pues nene.
++ ruido.
+J ila b'a ayik' binh binak chi uy.
+ = b'at ila' b'ajtil ayik' winh winak chi'.
+ %spa vaya ha ver donde está ese hombre.
+M o.
+ = ¿hoy?
+ %spa ¿qué?
+A yonh.
+ = yo.
+ %spa ho.
++ ruido.
+M nh.
+ = ( ).
+ %spa ( ).
+J nek ajtil ay binh, lemach xachi.
+ = ilne'ik b'ajtil ayik' winh, lemach xachi.
+ %spa vaya a ver dónde esta él, vení decile.
++ hay ruidos.
++ ruido.
+J b'at ik'uch binh.
+ = b'at ik'uchta winh.
+ %spa vaya ha traerlo él.
++ ruido.
+M pajxunlu.
+ = b'ajxumlaj.
+ %spa saber dónde.
++ ( ).
+J2 lolonanh yet' binh t'achi, to tzachin chek lolon ye binh  
+                tajnanh obak' tzalajuntik ja basaber ja..
+ = lolonanh yet' winh t'ay chi', to tzachin chek lolon yet' 
+                winh,ak' tajnel yet' winh ol wak' tzalaj juntik olnab' hila ja.
+ %spa plática con él, so quiero que hables y hay que jugar con él, te 
+                voy a pegar vas a ver.
++ ruido.
+A ¿b'aja jun binhchi?
+ = b'ajay jun winhchi?
+ %spa ¿dónde está aquel?
+A ¿b'aja binh tas ha b'i xa chi t'a binh?
+ = ¿b'aja winh tas ha b'i xa chi t'ay winh?
+ %spa ¿dónde está él cómo te llamas decile?
++ ruido.
++ ( ).
+U malaj ha'.
+ = malaj ha'.
+ %spa no hay agua.
+A tas ha b'i xachi t'a bi.
+ = tas ha b'i xachi t'ay winh.
+ %spa cómo te llamas decile a él.
+A nene in chi.
+ = nene' xin chi.
+ %spa nene digo.
+X neni naninani.
+ = ( ).
+ %spa ( ).
+A nene'.
+ = nene'.
+ %spa nene.
+A ¿tas hab'i? xachi lemach.
+ = ¿tas hab'i? xachi lemach..
+ %spa ¿como te llamas? decile apurate..
+U nin ix nenina.
+ = ni ix nene'.
+ %spa allí está la nena.
+J xk'ebinh ha mamxajan.
+ = ix k'e winh ha mamxajan.
+ %spa subió tu padrino.
+X yeye'.
+ = ( )
+ %spa ( )
++ ruido.
+U mach binh chi'.
+ = ¿mach winh chi'?
+ %spa ¿quié es él?
+M o.
+ = ¿hoy?
+ %spa ¿qué?
+J k'e ba mam xajan t'a chi.
+ = ix k'e winh ha mam xajan t'ay chi'.
+ %spa subió tu padrino allá.
++ ruido.
+M o.
+ = ¿hoy?
+ %spa ¿qué?
+X tetin.
+ = ( ).
+ %spa ( ).
+J mam xajan xa chi.
+ = mam xajan xachi.
+ %spa padrino decile.
+X tet'i.
+ = ( ).
+ %spa ( ).
++ ruido.
+X tati.
+ = t'ay chi'.
+ %spa allí.
+X tati.
+ = t'ay chi'.
+ %spa allí.
++ ( ).
+U ( ).
+ = ( ).
+ %spa ( ).
+X ni.
+ = ni'i.
+ %spa tené.
+X tatihi.
+ = t'ay chi.
+ %spa allí.
+U jayaknok' ha petetik'.
+ = ( )
+ %spa ( )
+J mate'
+ = Matín.
+ %spa M .
+M o'.
+ = hoy.
+ %spa que dice.
+U xayaknakan.
+ = ( )
+ %spa ( )
+J awtej na otelo, otelo xachi.
+ = awtej nok'aj otelo, otelo xachi.
+ %spa llama a otelo, otelo decile.
++ hay ruidos.
+M otelo.
+ = otelo.
+ %spa otelo.(nombre del perro).
+U ye'an'.
+ = ichokab'chi'.
+ %spa esta bien.
+J tela xachi.
+ = otela xachi.
+ %spa otela decile.
+M otela.
+ = otela.
+ %spa otela.(nombre del perro).
+M otela.
+ = otela.
+ %spa otela.(nombre del perro)
+M otela.
+ = otela.
+ %spa otela. (nombre del perro)
+J hey, M .
+ = Matín.
+ %spa M .
+M o'.
+ = hoy.
+ %spa que dice.
+A lemach ni'.
+ = lemach.
+ %spa veni.
+J ni' nitola xachi.
+ = chik'ay tola xachi.
+ %spa toma tola decile.
+M xani.
+ = tasb'ani.
+ %spa que dice.
+M o'.
+ = hoy.
+ %spa que dice.
+J otela otelo xach.
+ = otelo, xachi.
+ %spa otelo decile.
+A atikni atik.
+ = t'atikni.
+ %spa aquí.
+M ho'.
+ = hoy.
+ %spa que dice.
+A ajanaj otelo.
+ = aja nok'aj otelo.
+ %spa dónde esta el otelo.
+M ho'.
+ = hoy.
+ %spa que dice.
+A naj otel.
+ = aja nok'aj otelo.
+ %spa dónde esta el otelo.
+M ho'.
+ = hoy.
+ %spa que dice.
+A nlmach.
+ = lemach.
+ %spa vení.
+J ( )
+ = ( )
+ %spa ( )
+M otela.
+ = otela.
+ %spa otela (nombre del perro).
+M otela.
+ = otela.
+ %spa otela (nombre del perro)
+J akchane'.
+ = ak'cahanhal ne'ik'.
+ %spa baila ahora.
++ hay ruidos.
+M oteluuu.
+ = otelo.
+ %spa otela (nombre del perro).
+J lemach xachi.
+ = lemach xachi.
+ %spa venga decile.
+M bebach.
+ = lemach.
+ %spa venga.
+J va a papa xachi.
+ = wa' ha wa'il xachi.
+ %spa come tu tortilla decile.
+A men xachi.
+ = lem xachi.
+ %spa venga decile.
+M totele.
+ = otela.
+ %spa otela.
+J va a papa xachi t'a nok'.
+ = wa' ha wa'il xachi t'anok'.
+ %spa come tu tortilla decile.
++ hay ruidos.
+J otela va ha papa.
+ = otela wa' ha wa'il.
+ %spa otela come tu tortilla.
+M otela.
+ = otela.
+ %spa otela.
+J va ha papa xachi t'anok'.
+ = wa' ha wa'il xachi t'anok'.
+ %spa come tu tortilla decile.
+M gua popo.
+ = wa' ha wa'il.
+ %spa come tu tortilla.
+J ik'el hak'ab' t'ahati' tzalani.
+ = ik'el hakab' t'ahati' tzalani.
+ %spa quita tu mano en la boca y hablas.
+J va ha papa xachi ano'.
+ = wa' ha wa'il xachi t'anok'.
+ %spa come tu tortilla decile.
+M ho'.
+ = hoy.
+ %spa que dice.
+J va ha papa xachi.
+ = wa' ha wa'il xachi.
+ %spa come tu tortilla decile.
+A magach ha k'ab' t'ahatichi'an.
+ = manhak'och ha k'ab' t'aha ti'.
+ %spa no pones tu mano en tu boca.
+J va ha papa xachi.
+ = wa' ha wa'il xachi.
+ %spa come tu tortilla decile.
+M pa' papou.
+ = wa' ha wa'il.
+ %spa come tu tortilla.
+J majab'ochak'ab' t'ati'.
+ = manh a'och ha k'ab' t'a hati'.
+ %spa no pones la mano en la boca.
+M yamche bi.
+ = yemxol winh.
+ %spa viene bajando él.
+J hoy.
+ = hoy.
+ %spa que dice.
+M hayemxol binchi.
+ = yemxol winh chi.
+ %spa viene bajando él.
+J yemxol binh chi.
+ = yemxol winh chi.
+ %spa viene bajando él.
+A akek, kak' tajnel an V xachi an.
+ = kak' tajnel V xachi.
+ %spa V jugamos decile.
+M katanel katanel.
+ = kak' tajnel.
+ %spa jugamos.
+M ui'.
+ = hi'.
+ %spa sí.
+J eso ixtonta'.
+ = ichatonchi'.
+ %spa asi es.
+J kalo chi'an xachi.
+ = kak' karo chi'an xachi.
+ %spa jugemos carro decile.
++ hey ruidos de juguete de carro.
++ hey ruidos de juguete de carro.
+M xti'.
+ = pum.
+ %spa pom.
+A hat'a skoltzitzag.
+ = hat'a sk'o'ol chitzak'a.
+M hiy bute.
+ = ( )
+ %spa ( )
+A hann.
+ = hann.
+ %spa nnnn.
+M hann.
+ = hannn.
++ hay ruidos de juguete de carro.
+M yixta'an.
+ = jelanach an.
+ %spa listo pues.
+J takbanh t'a binh lista'ach yo'olta.
+ = tak'wanh, t'a winh jelanach xachi yo ollach elta' t'a tik'.
+ %spa contesta a él listo decile y te salgas aqui.
+M lemach, leba.
+ = lemach.
+ %spa vení.
+V ben'.
+ = weno.
+ %spa bueno.
+M uma, n.
+ = ( )
+ %spa ( )
+J tajnanh yet' binh an.
+ = tajnanh yet' winh.
+ %spa juga con él.
+M uma et'an achi'an.
+ = emam kuman t'achi'an.
+ %spa incate allí.
+M achmuma, achmumal.
+ = emam kuman.
+ %spa incate.
+J hoy.
+ = hoy.
+ %spa que dice.
+M ukumachi.
+ = emam kuman t'achi.
+ %spa incate allí.
+J tzin emkuman, pero ollach emkuman.
+ = tzin emkuman, pero ollach emkuman.
+ %spa me inco, pero te vas a incar.
+M nn'.
+ = hi'.
+ %spa sí.
+J ben, emam kumam an, tzin emkumam.
+ = weno, emam kuman an, tzin emkuman.
+ %spa bueno, incate, me voy a incar.
+M nn'.
+ = hi'.
+ %spa si.
+M i'.
+ = hi'.
+ %spa sí.
++ hay ruidos.
+A ( )
+ = ( )
+ %spa ( )
++ hay ruidos.
+J la junxo k'en, intok'enchi.
+ = ha junxo k'en intok'enchi.
+ %spa el otro, hasta allí esta.
+M ho.
+ = hoy.
+ %spa que dice.
+J ijunxo k'enchi.
+ = ikot junxo k'enchi.
+ %spa trae el otro.
+M tixa t'enchi.
+ = chik'ay k'enchi.
+ %spa allí esta el otro.
+J iyekchi.
+ = inachi (inichi).
+ %spa allí esta.
+J ni'unxo k'enchi ni.
+ = chik'ay junxo k'enchi.
+ %spa allí esta el otro.
+M ho.
+ = hoy.
+ %spa que manda.
+J nik'en t'aspatik bin binhaj kuxin.
+ = nik'en t'a spatik winhaj kuxin.
+ %spa allí esta a tras de Marcos.
+M ho'.
+ = hoy
+ %spa que manda.
+J nik'en t'a spatik baj kuxin ni.
+ = chik'ay k'en t'a spatik waj kuxin.
+A kuxin xachi t'abinh.
+ = kuxin xachi t'awinh.
+ %spa Marcos Decile a él.
+J kuxin xachi.
+ = kuxin xachi.
+ %spa Marcos decile.
+A akot k'e tabinh.n
+ = akot k'en t'awinh.
+ %spa pasa el carro con él.
+J ikot' k'en'an.
+ = ikot' k'en an.
+ %spa traelo el carro pues.
+M nixochaji.
+ = ixolchaji.
+ %spa se hizo ollo.
++ ( )
+M telo bau.
+ = ( )
+ %spa ( )
+A ( )
+ = ( )
+ %spa ( )
+M otela.
+ = otela.
+ %spa otela (nombre del perro)
+M otela, otela ot ot.
+ = otela.
+ %spa otela (nombre dl perro)
+U ( )
+ = ( )
+ %spa ( )
+J mastak spatkan ix k'ixin lum xachi.
+ = max yalspakan ix k'ixin lum xachi.
+ %spa ella puede ir ya que esta caliente(la tierra)
++ hay ruidos
+M in.
+ = ni'i.
+ %spa allí esta.
+M otela.
+ = otela.
+ %spa otela.
+A lemach achi.
+ = lemach cachi.
+ %spa veni decile.
+A lemach xachi.
+ = lemach xachi.
+ %spa vení decile.
+M nnela.
+ = otela.
+ %spa otela (nombre del perro)
+A pi'xxbit, xachi t'anok'.
+ = pi'xxbit, xachi t'anok'.
+ %spa pi'xbit, decile al perro.
+M n'.
+ = ni'.
+ %spa mira.
+A lem'an, lem kotan jinnajok okot nok' het'o.
+ = lem'an, kot'an jinhnajok olkot nok' hetok'.
+ %spa vení corriendo, el perro se va venir contigo.
+A b'ixb'ixt', b'ixb'ixt',.
+ = b'ixb'ixt', b'ixb'ixt',.
+ %spa b'ixb'ixt', b'ixb'ixt',.(llamando al perro.
++ hay ruidos.
++ hay ruidos.
+M otela.
+ = otela.
+ %spa otela (nombre del perro).
++ hay ruidos.
+A oak'tajnel yet'binh koyamnok xachi.
+ = ak'tajnel yet'winh, koyamnok xachi.
+ %spa jugua con él, agarramos al perro decile.
+M otela, otela, otela.
+ = otela.
+ %spa otela (nombre del perro).
+M otela, otela.
+ = otela, otela.
+ %spa otela (nombre del perro)
++ hay ruidos.
++ se escucha a cantar el gallo.
++ hay ruidos.
++ hay ruidos.
++ hay ruidos.
++ canta el gallo.
++ hay ruidos.
++ hay ruidos.
++ canta el gallo.
++ hay ruidos.
+M lemano'.
+ = ( )
+ %spa ( )
+A lemach t'ayin xachi t'anok'.
+ = lemach t'ayin xachi t'anok'.
+ %spa vení conmigo decile al perro.
+M memax taye.
+ = lemach t'ayin.
+ %spa vení a mí.
+A otela lem t'ayin xachi.
+ = otela lem t'ayin xachi.
+ %spa otela vení a mí decile.
+M yonh.
+ = yonh.
+ %spa ahora (se fue)
+M b'ayta no'.
+ = ixb'at nok'.
+ %spa se fue el perro.
+A ¿ti xk'ot no' ju?
+ = ¿ajtil ixk'och nok'?
+ %spa ¿donde se fue el perro?
+M ijti.
+ = t'achi.
+ %spa allí.
+A awtej kot' nok', xivit xachi t'anok'.
+ = awtej kot' nok', b'ixb'ixt' xachi t'anok'.
+ %spa llama al perro, b'ixb'ixt' decile.
+M vixt, xt, vivixt.
+ = vixt, xt, vivixt.
+ %spa vixt, xt, vivixt. (llamando al perro)
+A tela otela xachi.
+ = tela otela xachi.
+ %spa tela otela, decí.
+M e, atinlojkate.
+ = ( )
+ %spa ( )
+M otela, otela.
+ = otela, otela.
+ %spa otela, (llamando al perro)
++ hay ruidos.
+A elanh V xachi.
+ = elanh V xachi.
+ %spa salí V decile.
+M ela vilala.
+ = elanh V.
+ %spa V salí.
+A hach hinyumta' eli xachi.
+ = hach hinyumta' eli xachi.
+ %spa si no te voy tirar decile.
+M kojch'an.
+ = xkot ch'anh.
+ %spa viene el lazo.
+A leman lem, awtejkot' nok' t'atik.
+ = lem'an lem, awtejkot' nok' t'atik.
+ %spa vení, llama el perro aqui.
+A hat'atik tzachkot' yet' nok' ni' nene'.
+ = hat'atik tzachkot' yet' nok' ni'i nene'.
+ %spa nene, vení aqui con el perro mira.
+M o'.
+ = hoy.
+ %spa que dice.
+A lemt'ati yet' no'.
+ = lemt'atik yet' nok'.
+ %spa vení aqui con el perro.
+A otela lemach xachi.
+ = otela lemach xachi.
+ %spa otela vení decile.
+M otela.
+ = otela.
+ %spa otela (nombre del perro.
+A lem xachi.
+ = lemach xachi.
+ %spa vení decile.
+M memano'.
+ = ( )
+ %spa ( )
++ hay ruidos.
++ ruidos de pisoton.
++ canta el gallo.
++ hay audios.
++ hay ruidos.
+A n'ach.
+ = ha'ach.
+ %spa usted.
+A xikot no'.
+ = ixik'ot no'.
+ %spa trajiste el perro.
+A ¿tas hab'i xachi t'ajunbinh tik'?
+ = ¿tas hab'i xachi t'ajunwinh tik?
+ %spa ¿como te llamas decile con aquel?
+M nn'.
+ = hi'.
+ %spa sí.
+A tas hab'i xachi t'a binh?
+ = tas hab'i xachi t'awinh?
+ %spa ¿como te llamas decile a él.
+J ¿tas hab'i kee xachi?
+ = ¿tas hab'i ke xachi?
+ %spa ¿como te llamas vos decile?
+A ¿tas hab'i ke xachi t'a binh?
+ = ¿tas hab'i ke xachi t'awinh?
+ %spa ¿como te llamas vos decile?
+J huateo' tak'wanh.
+ = M  tak'wanh.
+ %spa M  responde (contesta)
+A benas día xachi t'a binh, ak'kot ha mano t'a binh nene.
+ = wach' k'inhib'al xachi t'awinh akot' hakab' t'awinh, nene'
+ %spa nene dale la mano con él, buenos días decile.
+J manha tzuntzok nok'
+ = manha tzuntzok nok'.
+ %spa no molestas al perro.
++ hay ruidos.
+J lemach xachi t'ano' awtej kot nok'.
+ = lemach xachi t'anok' awtej kot nok'.
+ %spa llama al prreo, vení decile.
+M yemach.
+ = lemach.
+ %spa vení.
+M lemati.
+ = lemach t'atik.
+ %spa vení aqui.
+J lemach xachi t'ano'.
+ = lemach xachi t'anok'.
+ %spa vení decile al perro.
+M emach, memach ni'anhok'.
+ = lemach, ni' och.
+ %spa vení tene tu tortilla.
+M lemach, otela.
+ = lemach, otela.
+ %spa vení, otela.
+J tol olaba papa xachi, tol olaba papa xachi.
+ = to'olawa' hawa'el xachi.
+ %spa vas a comer tu comia decile.
+J lak spapa nok'.
+ = olak' swa'el nok'.
+ %spa lo das comida al perro.
+M lemach, yemach.
+ = lemach.
+ %spa vení.
++ hay ruidos.
+A to'olaba ha papa' utila xachi.
+ = to'olawa ha wa'il otela xachi.
+ %spa otela vas a comer tu tortilla decile.
+M va'a papa'.
+ = wa' ha wa'il.
+ %spa come tu tortilla.
+J kuxin xachi.
+ = kuxin xachi.
+ %spa Marcos decile.
++ hay ruidos.
+M botejin t'.
+ = wawtej winh ta'.
+ %spa llamo él allí.
+J awtej binh, tzelta juna foto.
+ = awtej winh, tzelta junok echel.
+ %spa llama él, te saca un foto.
+M hn'.
+ = hi'.
+ %spa sí.
+J tzelta ko foto vida xachi t'a ix.
+ = tzelta kechel V xachi t'a ix.
+ %spa sale nuestra foto decile a V.
+M yo.
+ = yo.
+ %spa así, (entonces)
++ canta el gallo.
+J stak yem junchi.
+ = stak' yem junchi.
+ %spa puede bajar esso.
+A ak chanhal yet' ix vida tik an.
+ = ak' chanhal yet' ix V tik an.
+ %spa baila con la V ahora.
+A kak chanhal vida xachi t'a ix.
+ = kak' chanhal V xachi t'a ix.
+ %spa bailas V decile.
+J ak' chanhal yet'ix viralia nene'.
+ = ak' chanhal yet' ix V nene'.
+ %spa nene, baila con V.
++ hay ruidos.
++ hay ruidos y cantan los pajaros.
++ hay ruidos.
+A kak' chanhal V xachi, yonh.
+ = kak' chanhal V xachi, yonh.
+ %spa bailemos V decile, ahora.
+J ixtajnah yet' binh, vida kotan yet' binh.
+ = ixik tajnanh yet' winh V, lemach.
+ %spa vaya a jugar con él V, venga.
+J kotan yet' binh lem.
+ = lemach yet' winh.
+M nh'.
+ = nh'
+ %spa ahora.
+J achuman tamay tamanhxo olkaklaj k'en a tumin chi.
+ = ha chum'an manhxo olkaklaj k'en ha tumin.
+ %spa olvidate, ya no vamos a dar tu dienro.
+J tajnanh yet' binh.
+ = tajnanh yet' winh.
+ %spa juga con él.
+A kak chanhal xachi t'abinh, nu.
+ = kak chanhl xachi t'awinh, nu.
+ %spa bailamos decile a él, ¡mamita!
+J ikot chi okak junatunim.
+ = yujchi olkak junatumin.
+ %spa por eso te vamos a dar un dinero.
+A Vidali....
+ = V...
+ %spa V...
++ J V i'.
+ = J V ix.
+ %spa J V ella.
+M n'.
+ = ni.
+ %spa mira.
+J xkot jun.
+ = aj ixkot jun.
+ %spa donde vino.
+M oba'bat chuyu.
+ = olwak' b'at (chuyu)
+ %spa voy a entregar a ( )
+A aja naj oteb.
+ = aja naj otela.
+ %spa donde esta otela.
+M ho'.
+ = hoy.
+ %spa que dice.
+M niti.
+ = ini nok'chi.
+ %spa allí esta  el perro.
+A nelnan.
+ = telan. (Helan)
+ %spa sí pues.
++ hay ruidos de pisoton.
++ hay ruidos.
+M otela.
+ = otela.
+ %spa otela (nombre del perro.)
++ hay ruidos de audio.
+M otela, otela otela.
+ = otela, otela otela.
+ %spa otela (nombre del perro)
++ hay ruidos.
++ hay ruidos.
+A skot nok', lemach.
+ = skot nok', lemach.
+ %spa viene el perro, venga.
+A skot nok' xachi.
+ = skot nok' xachi.
+ %spa viene el perro, decile.
+M otela.
+ = otela.
+ %spa otela.
++ canta el gallo.
+M ixta'a.
+ = ixta'an.
+ %spa ya esta.
+A ixta'an.
+ = ixta'an.
+ %spa ya esta.
+A lem xachi t'ajun binh ti.
+ = lemach xachi t'ajun winh tik.
+ %spa vení decile con aquel
+M lem.
+ = lemach.
+ %spa vení.
+A lemach t'atik xachi.
+ = lemach t'atik xachi.
+ %spa vení aqui decile.
+M lemach.
+ %spa vení.
+A lemach kuxin xachi.
+ = lemach kuxin xachi.
+ %spa Marcos, vení decile.
+M lema kuxi.
+ = lemach kuxin.
+ %spa vení, Marcos.
+A kuxin xa.
+ = kuxin xachi.
+ %spa Marcos decile.
+M hatz'i.
+ = nok' tzi'.
+ %spa el perro.
+J baj, kuxin abtej kot baj kuxin lemach xachi t'abin.
+ = alt'a waj kuxin, lemach xachi t'a winh.
+ %spa llama a Marcos, vení decile.
+M ( )
+ = ( )
+ %spa ( )
+J Matelo.
+ = Matín.
+ %spa M .
+M oy.
+ = hoy.
+ %spa que dice.
+A lemach kuxi xachi t' binh.
+ = lemach kuxi xachi t'a winh.
+ %spa Marcos, vení decile.
+J awtej kot binh.
+ = awtej kot winh.
+ %spa llama a él.
+A chumam nok' kanokab' nok'.
+ = xchumam nok' aktej kani'.
+ %spa déjalo el perro, ahi lo vera .
+A nene' lemach xachi t'a baj kuxin.
+ = nene' lemach xachi t'a waj kuxin.
+ %spa nene, vení decile a Marcos.
+A ni' nene.
+ = ni'i'. nene'.
+ %spa nene tenga.
+M lemana.
+ = lemach'an.
+ %spa vení pues.
+J lolonanh totzach lolon yet' binh.
+ = lolonanh yet' winh.
+ %spa platica con él.
+M lebana.
+ = lemach'an.
+ %spa vení pues.
+J ( )
+ = ( )
+ %spa ( )
+J halal binh lemach xachi tab'.
+ = alel t'a winh lemach xachi.
+ %spa vení decile a él.
+M lemach, otelo otela.
+ = lemach, otelo, otela.
+ %spa vení, otela.
+J lem xachi t'abinh, abajanh b'at t'abinh.
+ = lem xachi t'awinh, awajanh b'at t'awinh.
+ %spa vení decí con él, grita con él.
+M lemach, meno (chla')
+ = lemach weno (chla')
+ %spa Vení, bueno (chla')
+M em' mema'.
+ = lem, lemach.
+ %spa ven, vení.
+J konh yolpat xachi t'abinh.
+ = konh yolpat xachi t'awinh.
+ %spa entremos en la casa decí con él.
+X k'onh yolpat.
+ = konh yolrat.
+ %spa entremos a la casa.
+A ketz' kot' skab' binh, ketz' kot' ka.
+ = ketz' kot' skab' winh.
+J konh xachi t'akbanh t'abinh unin xachi.
+ = konh xachi tak'wanh t'awinh unin xachi.
+ %spa vamos te llaman un niño decile.
++ hay ruidos.
+J ikot' binh, takbanh t'ajun binh unin xachi.
+ = ikot' winh tak'wanh t'ajun winh unin xachi.
+ %spa traé aquel, te llama un niño decile.
++ canta el gallo.
+J ( ) tobach xo ix.
+ = ( ) towach xo ix.
+ %spa ( ) ella ya es grande.
+X mach, lem.
+ = lemach, lem.
+ %spa venga, vení.
+X lemch.
+ = lemach.
+ %spa venga.
++ hay ruidos.
+J ajachanh, kito chanh, kito chanh, kito chanh.
+ = ajachanh, kito chanh, kito chanh, kito chanh.
+ %spa donde esta el lazo, damelo.
++ hay ruidos.
+M hoch.
+ = ( )
+ %spa ( )
+J ( )
+ = (  )
+ %spa ( )
+J x'emi'najo, xachi
+ = x'emi'najo, xachi.
+ %spa ( ), decile.
+M ho'.
+ = hoy.
+ %spa que dice.
+J akoti.
+ = akoti.
+ %spa damelo.
+J awtej binh.
+ = awtej winh.
+ %spa llama él.
+M ho.
+ = hoy.
+ %spa que dice.
+J sek tzach awaji ajabinh.
+ = sek tzach awaji ajabinh.
+ %spa grita, donde esta él.
+A abajanh ta'.
+ = abajanh ta'.
+ %spa grita allí.
+J abajanh '.
+ = awajanh ta'.
+ %spa grita allí.
+M tonu, tonoooo.
+ = antun, antunnn.
+ %spa Antono, antonio.
+J abajanh, awtej binh tono xachi.
+ = awajanh, awtej winh Antun xachi.
+ %spa llama a él, Tono deci.
+J ixik' ba'anh xachi.
+ = ixik' wa'anh xachi.
+ %spa vaya a comer decile.
+M tonooooo.
+ = Tono (Antun).
+ %spa Antonio.
+J2 manh hach jun hak'ab' chi t'a ti', manh hach jun hak'ab' chi 
+                t'a ti'.
+ = manh hach jun hak'ab' chi t'a ti'.
+ %spa no pongas lamano en la boca.
+J ( )
+ = ( )
+ %spa ( )
+M tono.
+ = Tono (antun)
+ %spa Antonio.
+M boo.
+ = wa'anh.
+ %spa come.
+J lemach xachi.
+ = lemach xachi.
+ %spa vení decí.
+M lewach.
+ = lemach.
+ %spa vení.
+J tab xnum.
+ = tak'wanh t'a ix hanun.
+M tawan mama.
+ = tak'wanh nun.
+ %spa responde mamá.
+J awtej xixchel la.
+ = awtej ix ixchel an.
+ %spa llama a la Ixchel.
+M tab' Ixchel.
+ = tak'wanh Ixchel.
+ %spa Ixchel contesta.
+J lama' ixchel xachi.
+ = lemach Ixchel xachi.
+ %spa Ixchel Vení.
+J awtej baj ale'.
+ = awtej waj alex.
+ %spa llama a alex.
+M Alekx.
+ = Alex.
+ %spa Alex.
+J lemach xach.
+ = lemach xachi.
+ %spa vení decí.
+M demach.
+ = lemach.
+ %spa vení.
+J jun nhej ch'anh.
+ = jun nhej ch'anh.
+ %spa solo hay un (lazo, papel).
+M to tze ba'i.
+ = to tzech wa'i.
+ %spa van ha comer.
+A kak' tajnel xachi.
+ = kak' tajnel xachi.
+ %spa jugamos deci.
+M katanel.
+ = kak' tajnel.
+ %spa jugamos.
+A kak' karo xachi.
+ = kak' karo xachi.
+ %spa jugamos carro deci.
+M kak' kalo.
+ = kak' karo.
+ %spa jugamos carro.
+A titit, xachi.
+ = titit, xachi.
+ %spa titit, deci.
++ hay ruidos.
+M tevo.
+ = ( )
+ %spa ( )
+A awtej baj tali.
+ = awtej waj tano.
+ %spa llama a Tono.
+M ( ) txonoo.
+ = Tono.
+ %spa Tono.
+M cha' cholo.
+ = cha' ( ).
+ %spa reciba tu ( ).
+J ( )
+ = ( )
+ %spa ( )
+M beno.
+ = weno.
+ %spa bueno.
+J abtej baj toni.
+ = awtej waj Tono.
+ %spa llama a Tono.
+M beno.
+ = weno.
+ %spa bueno.
+A koran xachi.
+ = lemach xachi.
+ %spa vení deci.
+M kot' ix.
+ = skot' ix.
+ %spa viene ella.
++ hay ruidos.
+M oooo.
+ = oooo.
+ %spa oooo.
+J kuxin xachi'an, kuxin xani.
+ = kuxin xachi'an, kuxin xachi.
+ %spa Marcos decile, Marcos decí.
++ hay ruidos.
+J xabaji.
+ = ixach awaji.
+ %spa gritaste.
+M hi'.
+ = hi'.
+ %spa sí.
+J haja kuxichi moli'.
+ = ( ).
+ %spa ( ).
+J kuxin xachi.
+ = kuxin xachi.
+ %spa Marcos decí.
+M ho'ay.
+ = ma'ay.
+ %spa no.
+J ( ).
+ = ( ).
+ %spa ( ).
+J ini yajek jun binhchi', lasik'anchanh.
+ = ini yajek' jun winhchi', lanhan ha sik'anchanh.
+ %spa allí esta aquel, y estas recogiendo.
++ hay ruidos.
++ hay ruidos.
+M bebach'an.
+ = lemach'an.
+ %spa vení pues.
+J ixik' yet' binh, totzach ajkanlinhan atik, ixik yet' binh.
+ = ixik' yet' winh, totzach ajkanlinhan t'atik, ixik yet' winh.
+ %spa usted vaya con él no te quedas parada aqui.
+M lebach'.
+ = lemach.
+ %spa vení.
+J a'mlach belok ix malin chi.
+ = ( ) ix malin chi.
+ %spa ( ) la María.
+M temach.
+ = lemach.
+ %spa vení.
+M el niño imitan unos sonidos.
+ = el niño imitan unos sonidos.
+ %spa el niño imitan unos sonidos.
+A a'ekta.
+ = a'ektajnel.
+ %spa juegan.
+M kak tanel, yatanel.
+ = kak' tajenl, kak' tajnel.
+ %spa jugamos.
+M achi'.
+ = t'achi'.
+ %spa allí.
+X hik.
+ = hi'.
+ %spa sí.
+M ijunasicha.
+ = ( ).
+ %spa ( ).
+M kakalo ixt'.
+ = kak' karo yet' ix.
+ %spa jugamos carro con ella.
++ hay ruidos.
+X le'emach.
+ = lemach.
+ %spa vení.
++ hay ruidos.
++ hay ruidos.
+X xuban mat.
+ = Xh mat.
+ %spa J M .
+X chuban na.
+ = X mat.
+ %spa J M .
+J vita hak' tajnel yet' binh.
+ = vita hak' tajnel yet' winh.
+ %spa V juga con él.
+M hanh hanh'.
+ = hanh hanh'.
+ %spa ( ).
+M nh' nh'.
+ = nh' nh'.
+ %spa ( ).
+M mmatello.
+ = Matín.
+ %spa M .
+M ho'o.
+ = hoy.
+ %spa que dice.
+V tax pani'.
+ = tas tzala.
+ %spa que dice.
+V ha.
+ = hoy.
+ %spa que dice.
+J moto xachi'an, karo xachi.
+ = moto xachi'an, karo xachi.
+ %spa moto deci, carro deci.
++ hay ruidos.
+M nix.
+ = ni'i.
+ %spa tenga.
+A ( )
+ = ( )
+ %spa ( )
++ hay ruidos.
+M hi'.
+ = hi'.
+ %spa sí.
+M utmayi.
+ = ( )
+ %spa ( )
+M imita el sonido del carro.
+ = imita el sonido del carro.
+ %spa imita el sonido del carro.
++ hay ruidos.
+J in' junxo ha karo tikni ek yamabinh sayam binhchini.
+ = inijunxo ha karo tikni, ak'syam winh chini'.
+ %spa tene el otro carro, dale a él mira.
+J n,ni.
+ = ni'.
+ %spa tenga.
+M nixotik nik olo.
+ = nijunxo tik' yik' ( ).
+ %spa aqui esta otro es de ( ).
+M ni'ixo ko kalo ti.
+ = nijunxo kokaro tik.
+ %spa aqui tenemos otro carro.
+M ni kal chi.
+ = nijunxo karo tik'.
+ %spa aqui esta otro carro.
+M hi'.
+ = hi'.
+ %spa sí.
++ hay ruidos.
+M tyu'a.
+ = ( )
+ %spa ( ).
+M jun kali.
+ = jun karo.
+ %spa otro carro.
+M imitando el sonido del carro.
+ = imitando el sonido del carro.
+ %spa imitando el sonido del carro.
++ hay ruidos.
++ hay ruidos.
+J ¿koch ha karo?.
+ = ¿ajxkoch ha karo?.
+ %spa ¿donde se fue tu carro?.
+J ikot ha karo chi.
+ = ikot ha karo chi.
+ %spa trae tu carro.
+M ho'.
+ = hoy.
+ %spa que dice.
+M ni'.
+ = ni'i.
+ %spa aqui esta.
+J mpach.
+ = ( ).
+ %spa ( ).
+M hoch'.
+ = ( ).
+ %spa ( ).
+M ni tik'.
+ = ni tik'.
+ %spa aqui esta.
+J ni'unxo tik xachi t'a bi.
+ = nijunxo tik xachi tawinh.
+ %spa aqui esta otro decile aél.
+J nijunxo tik xachi t'abinh ch'oxt'abinh.
+ = nijunxo tik xachi t'awinh ch'oxt'awinh.
+ %spa aqui esta el otro decile a él mostralo.
+J nijunxo inkaro tik xachi t'a bi.
+ = inijunxo inkaro tik xachi t'a winh.
+ %spa aqui tengo otro carro deci aél.
+M nixit inkalo chi.
+ = nijunxi inkaro tik.
+ %spa aqui tengo otro carro.
+EquiPedro       	mmm.
+tradPedro       	mmm.
+perPedro        	mmm.
++ hay ruidos.
+EquiPedro       	kuxin.
+tradPedro       	Marcos.
+perPedro        	kuxinh.
+M je'ay.
+ = hoy.
+ %spa que dice.
+A nene.
+ = nene'
+ %spa nene.
+M o.
+ = hoy.
+ %spa que dice.
+A lista.
+ = jelan.
+ %spa lista.
+M ni yxok.
+ = ni'i yoo.
+ %spa y ahora.
+J weno pues.
+ = weno pues.
+ %spa bueno pues.
+M chu'en maxenbex.
+ = ( ).
+ %spa ( ).
+J yonh watemala.
+ = yonh watemala.
+ %spa ahora en Guatemala.
+U J.
+ = X.
+ %spa J.
+J bayanh tsxlikul.
+ = wayanh yet' ix yelak'ol.
+ %spa dormi con ella rapido.
+J kotanh vida ak' gol yet binh.
+ = kotanh V ak' (gol) yet' winh.
+ %spa vení V juga pelota con él.
+A lista lista, xachi.
+ = lista, xachi.
+ %spa lista decí.
++ hay ruidos de al pelota.
++ hay ruidos.
+J yonh xachi'an.
+ = yonh xachi'an.
+ %spa yoho. decile.
+J lista ach vida xachi t'abi.
+ = jelanach V xachi t'ay.
+ %spa V lista decile a ella.
+M lista vilah.
+ = jelanach V.
+ %spa V lista.
+J ghol xachi.
+ = gol xachi.
+ %spa gol decí
+M oktono.
+ = ixochkan nok'.
+ %spa se entro lapelota abajo.
+J lista hach ida xachi.
+ = jelanach  Vida xachi.
+ %spa lista V decí.
+M b'at'ix ch'e'ebela.
+ = ixb'at ix ( ).
+ %spa ella se fue, ( ).
+J tek'b'at t'a ix vida, tek'b'at t'a ix.
+ = tek'b'at t'a ix V, tek'b'at t'a ix
+ %spa pateala a la V, pateala.
+M xbichab'.
+ = ( ).
+ %spa ( ).
+J lista hach vida lista hach.
+ = lista hach vida, lista hach.
+ %spa lista V.
+J weno, tek'ot t'awinh.
+ = weno, tek'ot t'awinh.
+ %spa bueno, patealo a él.
+J k'e'anh wanh.
+ = k'e'anh wanh.
+ %spa levantate.
+M be'ama.
+ = tek'an.
+ %spa patealo pues.
+M vela.
+ = tanhwej b'ela'.
+ %spa esperala.
+M imitando cansancio el niño.
+ = imitando cansancio el niño.
+ %spa imitando cansancio el niño.
+M yo'.
+ = yo.
+ %spa ahora (se fue).
++ ruidos de la pelota
+M riendo el niño.
+ = riendo el niño.
+ %spa riendo el niño.
+J tek'kot t'atik xachi t'abi.
+ = tek'kot t'atik xachi t'awinh.
+ %spa patealo aqui decile a él.
+V tekot atik'.
+ = tek'kot t'atik'.
+ %spa patealo aqui.
+M o.
+ = hoy.
+ %spa que dice.
+V tekotatik'.
+ = tek'kot t'atik'.
+ %spa patealo aqui.
+J manhach junchi t'ati'.
+ = manh ha'och junchi t'a'ati'.
+ %spa no pones eso en la boca.
+J tek'kot t'atik xachi, lista hach an.
+ = tek'kot t'atik xachi, lista hach an.
+ %spa patealo aqui decí, lista pues.
+V tekot tatik'.
+ = tek'kot' t'atik'.
+ %spa patealo aqui.
+J ya'ani.
+ = yak'ani.
+ %spa preparar (lo hace).
++ hay ruidos de pisoton.
++ hay ruidos.
+A ¡hay yos ke, yos ke!.
+ = ¡hay yos ke, yos ke!.
+ %spa ¡oh dios!
+J xap yemita.
+ = xach telwita.
+ %spa no te vas a caer.
+J ¡O! accidente.
+ = ¡yo! ixtelwi.
+ %spa ¡oh! accidente.
+J gol xachi'an.
+ = gol xachi'an.
+ %spa gol decile.
+M gol.
+ = gol.
+ %spa gol.
+J lista hach vida tek'b'at' t'awinh.
+ = lista hach vida tek'b'at' t'awinh.
+ %spa lista V pateala a él.
++ hay ruidos de pisoton.
+J yumb'at t'awinh tato maxyuji hatek'ani, yumb'at' tawinh.
+ = yumb'at t'awinh tato maxyuji hatek'ani, yumb'at' tawinh.
+ %spa trala a él si no puedes patear.
++ hay ruidos de la pelota.
+J tek'an, tek'an.
+ = tek'an, tek'an.
+ %spa patealo, Patealo.
++ hay ruidos de la pelota.
++ hay ruidos.
+J tek'koti xachi t'a ix.
+ = tek'koti xachi t'a ix.
+ %spa patealo decí a ella.
+M t'et'o.
+ = tek'a.
+ %spa patealo.
+J tek'kot t'atik xachi.
+ = tek'kot t'atik xachi.
+ %spa patealo aqui decí.
+M tekot hatik.
+ = tek'kot t'atik.
+ %spa patealo aqui.
+J listo xachi t'a ix.
+ = jelanach  xachi t'a ix.
+ %spa lista decile a ella.
+M lixach.
+ = jelanach.
+ %spa lista.
++ hay ruidos de la pelota.
+M ni ¡yoo!.
+ = ni'i ¡yo!.
+ %spa tenga ¡Ahora! (se fue).
+J tek'kot'an.
+ = tek'kot'an.
+ %spa pateamelo pues.
+M b'akano.
+ = ixb'atkan nok'.
+ %spa se fue la pelota.
+J ajxkotnok'.
+ = aj ixkoch no'.
+ %spa donde se fue la pelota.
+M ¡o!.
+ = ¡o!.
+ %spa ¡oh!.
+J imitando el golpe de la pelota.
+ = imitando el golpe de la pelota.
+ %spa imitando el golpe de la pelota.
+J kore, kore.
+ = kore, kore.
+ %spa corre, corre.
++ hay ruidos de la pelota.
++ hay ruidos.
++ hay ruidos de la pelota.
++ hay ruidos.
+M haaaaa.
+ = haaaaa.
+ %spa haaaaa.
++ hay ruidos.
+J lista xachi.
+ = jelan (lista) xachi.
+ %spa lista decí.
+M tch'in.
+ = ( ).
+ %spa ( ).
+J pum.
+ = pum.
+ %spa pum.
+M jiii.
+ = jii.
+ %spa jii.
++ hay ruidos.
+M lista, visto vila.
+ = jelan, jelanach V.
+ %spa lista, lista V.
+J lista yiba.
+ = jelanach V.
+ %spa lista V.
++ ruidos de la pelota.
++ hay ruidos de la pelota.
++ hay ruidos.
++ hay ruidos.
+J lista hach.
+ = jelan hach.
+ %spa lista pues.
++ risa de lo participante.
+M hooo.
+ = hooo.
+ %spa oh..
+M otela.
+ = ( ).
+ %spa ( ).
+J oh.
+ = yo.
+ %spa Ahora.
+M max chuma.
+ = xchumam an.
+ %spa ahí lo verá.
+M memach, memach, memax.
+ = lemach, lemach, lemach.
+ %spa vení, vení, vení.
+M lew.
+ = lem.
+ %spa ven.
+A ak' t'ayin an.
+ = ak' t'ayin an.
+ %spa dame a mí pues.
+A gool xachi an.
+ = gool xachi an.
+ %spa gol decile pues.
+A gol xachi'an.
+ = gol xachi'an.
+ %spa gol decile pues.
+M goo.
+ = gol.
+ %spa gol.
+A lista hach'an.
+ = jalan (lista) hach'an.
+ %spa listo pues.
+M ixti'.
+ = ixtik.
+ %spa así es.
+A tek'kot'an, tek'koti.
+ = tek'kot'an, tek'koti.
+ %spa patealo pues, patealo.
++ hay ruidos.
+M lelaxchi.
+ = ( ).
+ %spa ( ).
+A lem, olkot'no.
+ = lem, olkot'nok'.
+ %spa ven, va a venir la pelota.
+A koyambima.
+ = koyam winh.
+ %spa agarramos a él.
+M ho.
+ = hoy.
+ %spa que dice.
++ hay ruidos.
++ hay ruidos.
+A tek'an tek'an, hip.
+ = tek'an tek'an,h ip.
+ %spa patealo, patealo, duro.
+M hip, hipi.
+ = hip, hip.
+ %spa duro, duro.
++ hay ruidos.
+A uy xitelbita.
+ = uy ixach telwita.
+ %spa uy no te vas a caer.
++ hay ruidos.
++ hay ruidos.
+M ka'xikanel, ka'xikanel.
+ = kak'xi tajnel, kak'xi tajnel.
+ %spa jugamos otra vez, jugamos otra vez.
+A hi'.
+ = hi'.
+ %spa sí.
+A hi', kak'xi tajnel.
+ = hi', kak'xi tajnel.
+ %spa sí, jugamos otra vez.
+M jun.
+ = yo.
+ %spa Ahora. (se fue).
+A yonh b'atnok' chini.
+ = yonh sbatnok' chini'i.
+ %spa ahora se fue la pelota mira.
+M putx hinb'at molno'.
+ = b'at'in yamnok'.
+ %spa voy ir a agarrar la pelota.
++ hay ruidos.
++ hay ruidos.
++ hay ruidos de la pelota.
+M hun galo.
+ = in karo.
+ %spa mi carro.
+J malaj k'en.
+ = malaj k'en.
+ %spa no hay carro.
+M el niño esta toseando.
+ = el niño esta toseando.
+ %spa el niño esta toseando.
+A ajxk'och nok'a gol.
+ = aj ixk'och nok'a gol.
+ %spa donde se fue tu pelota.
+M ta itanoti papach.
+ = ix elkan nok' tipat'.
+ %spa salio la pelota a patio de la casa.
+M chnoo.
+ = ( ).
+ %spa ( ).
+J ajnich' tajni yolpat' yet' binh.
+ = tajnanh yolpat' yet' winh.
+ %spa juga con él, dentro de la casa.
+V ay.
+ = ma'ay.
+ %spa no.
++ hay ruidos.
+J tajnanh yet' winh.
+ = tajnanh yet' winh.
+ %spa juga con él.
+A tajnnenach tajno taj tajkakkani.
+ = ( ).
+ %spa ( ).
+A hintitit xachi'an tzekankot'
+ = titit xachi'an tzekankot'ayin.
+ %spa titit, deci y empujame.
+M mix ch'akuk'e.
+ = ( ).
+ %spa ( ).
+A elanh yolinb'e vida xachi.
+ = elanh yolinb'e vida xachi.
+ %spa salí en micamino V decí.
++ hay ruidos de pisoton.
++ hay ruidos.
+U ¿ajxin kumarechi?.
+ = ¿ajay ixin kumarechi?.
+ %spa ¿donde esta mi comadre?.
++ hay ruidos.
+M hatil.
+ = ajtil.
+ %spa donde.
++ hay ruidos.
+V ¿tax habi?.
+ = ¿tas hab'i?.
+ %spa ¿como te llamas?
+J tomaj yak' chanhal wakax winh.
+ = tom maj yak' chanhal wakax winh.
+ %spa no bailo, el baile de torro él.
++ hay ruidos.
+A ak'chanhal wakax.
+ = ak'chanhal wakax.
+ %spa bailá, el baile de toro.
+M ixtan.
+ = ixta'an.
+ %spa allí esta pues.
+M ak'chanhal'an, akchanhal.
+ = ak'chanhal'an, akchanhal.
+ %spa baila pues, baila.
+J ak'chanhal wakax ak'e ch'anh kartón chi t'a ha jolom.
+ = ak'chanhal wakax ak'e ch'anh kartón chi t'a ha jolom.
+ %spa baila, el baile de toro, ponga el carton en la caabeza.
+M nh'.
+ = hoy.
+ %spa que dice.
+J ( ).
+ = ( ).
+ %spa ( ).
+A ak'chanhal wakax ni'i.
+ = ak'chanhal wakax ni'i.
+ %spa baila, el baile de toro, mira.
+A akchanhal wakax.
+ = akchanhal wakax.
+ %spa baila, el baile de toro.
+A tek' hak'an t'atikni.
+ = tek' hak'an t'atikni.
+ %spa patea aqui mira.
+M may.
+ = ma'ay.
+ %spa no.
+A akchanhal wakax an.
+ = akchanhal wakax an.
+ %spa baila el baile de toro pues.
+A tek'nn tek' xachi.
+ = tek' xachi.
+ %spa patear decí.
++ hay ruidos.
++ hay ruidos.
++ hay ruidos de juguetes.
+J uy xi.
+ = uy xi.
+ %spa uy dice.
+J ( ).
+ = ( ).
+ %spa ( ).
+J gol xachi.
+ = gol xachi.
+ %spa gol decí.
+M go.
+ = gol.
+ %spa gol.
+J lista hach vida xachi.
+ = jelanach V xachi.
+ %spa lista V decí.
+M ich'.
+ = ( ).
+ %spa ( ).
+J elanh vida xachi.
+ = elanh V xachi.
+ %spa salite V decí.
+M e'lanh vi.
+ = elanh V.
+ %spa salite V.
+J elannh vida xachin tek'ta xachi t'a'ix
+ = elanh V xachin tek'ta xachi t'a'ix.
+ %spa salite V si no te voy a patear.
+M nteta.
+ = hachin tek'ta.
+ %spa no te voy a patear.
+A elanh.
+ = elanh.
+ %spa salite.
+A manha tek' nhikchaj ch'anh.
+ = manha tek' nhikchaj ch'anh.
+ %spa no pisas el carton se va a romper.
++ hay ruidos .
+M elanh.
+ = elanh.
+ %spa salite.
++ hay ruidos.
+J elanh xachi t'a ix.
+ = elanh xachi t'a ix.
+ %spa salí decí a ella.
+M el ha'ela.
+ = elanh.
+ %spa salite.
+J elanhab' yolsb'ebinh, totzach ajlich'an hach tik'
+ = elanhab' yolsb'ewinh, totzach ajlich'an hach tik'
+ %spa salí en el camino de él, tu te quedas parado.
++ hay ruidos.
++ hayruidos del cartòn.
++ hay ruidos.
+M el niño esta toseando.
+ = el niño esta toseando.
+ %spa el niño esta toseando.
+M el niño esta toseando.
+ = el niño esta toseando.
+ %spa el niño esta toseando.
+M chayx kanel.
+ = kak'xi tajnel.
+ %spa jugamos otra vez.
+M kax kanechuna.
+ = kak' xikaro chi'an.
+ %spa jugamos carro otra vez.
+A bueno.
+ = weno.
+ %spa bueno.
+M kaxi kal.
+ = kak'xi karo.
+ %spa jugamos otra vez carro.
+M kaxi kalen, kaxi kalcha.
+ = kak'xi karo chi'an, kak'xi karo chi.
+ %spa jugamos carroa otra vez, jugamos carro.
+A ven.
+ = weno.
+ %spa bueno.
+M hukachi'a kaxi.
+ = ( ) kak'xi.
+ %spa ( ) hacemos otra vez.
+M tanel.
+ = tajnel.
+ %spa jugar.
+A kak'tajnel'an pero lista hach'an.
+ = kak'tajnel'an pero lista hach'an.
+ %spa jugamos pero listo pues.
+M uno.
+ = weno.
+ %spa bueno.
+A e lista xachi'an.
+ = jelan xachi'an
+ %spa lista deci pues.
+M yista.
+ = jelan.
+ %spa lista.
+A lista hachta' xachi.
+ = jelanachta' xachi.
+ %spa lista allí decí.
+M yista k'enk'enti.
+ = jelanach t'a junxo k'entik'.
+ %spa lista a este otro carro.
+A nul xte'olchi.
+ = ( ).
+ %spa ( ).
+M tek'.
+ = tek'.
+ %spa patear.
+M kixte'a ma.
+ = kixta an nun.
+ %spa nuestra juguete mamá.
+J hoy.
+ = hoy.
+ %spa que dice.
+M kixte mach.
+ = kixta lemach.
+ %spa nuestra juguete vení.
+M yem.
+ = lem.
+ %spa ven.
+J tasuj jun.
+ = tasyuj jun.
+ %spa porque pues.
+M kixta'an ma.
+ = kixta'an nun.
+ %spa nuestro juguete mamá.
+J tasyuj tzin och huj jun.
+ = tas tzin och uj jun.
+ %spa para que me sirve pues.
+J ( ).
+ = ( ).
+ %spa ( ).
+EquiPedro       	( ).
+tradPedro       	( ).
+perPedro        	( ).
+M boch'a.
+ = ( ).
+ %spa ( ).
+J tanhwej b'atin tak' wok'.
+ = tanhwej b'atin tak' wok'.
+ %spa espera voy a contestar.
+J tak'banh tajnanh yet' ixa moob'el b'atin tak'wok.
+ = tajnanh yet' ixa nun b'el b'atin tak'wok.
+ %spa juga con tu mamá, voy ir a contestar.
+A ven lista hach b'elan yo ixtota olkot' ix.
+ = weno lista hach b'elan  ixtota olkot' ix.
+ %spa bueno listo, mientras que ella viene.
+M och'.
+ = ( ).
+ %spa ( ).
++ hay ruidos de juguete.
+M imitando el sonido del carro.
+ = imitando el sonido del carro.
+ %spa imitando el sonido del carro.
+M chuba ix.
+ = xchumam ix.
+ %spa hay lo verá ella.
+M ch'ati yoxo ti.
+ = ( ).
+ %spa ( ).
+A lista, lista nnn yonn.
+ = jelan, jelan, nnn yonn.
+ %spa lista nnn ahora (se fue).
+M huxi ch'e ti.
+ = junxo k'entik'.
+ %spa el otro carro.
+A helan junxo k'enchi.
+ = helan junxo k'enchi'.
+ %spa si pues allí esta el otro carro.
++ hay ruidos del carro de juguete.
+M yonh.
+ = yonh.
+ %spa ahora (se fue).
+M ju chet.
+ = junxo k'entik'.
+ %spa aqui esta el otro carro.
++ hay ruidos de juguete.
+A tomaxb'at hikot junxo k'enchi.
+ = tomaxb'at hikot junxo k'enchi.
+ %spa no te vas ir a traer le otro carro.
+M ho.
+ = hoy.
+ %spa que dice.
+A nibal k'enchi.
+ = iniwal k'enchi.
+ %spa allí hay bastante carro.
+M o'.
+ = hoy.
+ %spa que dice.
+M oxu.
+ = ( ).
+ %spa ( ).
+A ikot junxo k'enchi ni ikot k'en.
+ = ikot junxo k'enchi ni ikot k'en.
+ %spa trae el otro carro traelo.
+M chil'e chi.
+ = ( ).
+ %spa ( ).
++ hay ruidos.
+V la niña esta chillando.
+ = la niña esta chillando.
+ %spa la niña esta chillando.
+M hachi yawan k'enti.
+ = ( ).
+ %spa ( ).
+M yo.
+ = yo.
+ %spa Ahora.
+M el niño chilla.
+ = el niño chilla.
+ %spa el niño chilla.
+V mancho yalak'en.
+ = manhxo olin yamlaj k'en.
+ %spa ya no lo voy a tocar el carro.
+V achiyalan, kob'oxioch yala'.
+ = ( ), kob'oxioch yalanh.
+ %spa arreglamos de abajo.
+A ha'ach ixixtej xachi.
+ = ha'ach ixixtej xachi.
+ %spa usted lo destruyo deci.
+M hach hixte.
+ = ha'ach ixixtej.
+ %spa usted lo destruyo.
+V hach ixixtej xachi.
+ = ha'ach ixixtej xachi.
+ %spa usted lo destruyo decí.
+V tiktob'el xinchi.
+ = tiktob'el xinchi.
+ %spa esperalo deci.
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el esta niño chillando.
+M el niño esta chillando.
+ = el  niño esta chillando.
+ %spa el niño esta chillando
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+A akot t'a ix xi.
+ = akot t'a ix xi.
+ %spa dale a ella dice.
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+A ¿mach?.
+ = ¿mach?.
+ %spa ¿quién?
+M ni'.
+ = ni'i.
+ %spa mira.
+A ¿mach tzatzuntzani?.
+ = ¿mach tzach tzuntzani?.
+ %spa ¿quien te molesta?.
+M yu.
+ = yo.
+ %spa ahora.
+V obelu.
+ = ( ).
+ %spa ( ).
+A akoti xachi t'a ix.
+ = akoti xachi t'a ix.
+ %spa demelo deci a ella.
+M akuti.
+ = akoti.
+ %spa damelo.
+V tikto man inb'o'ani xinchi.
+ = tikto wan inb'o'ani xinchi.
+ %spa estoy areglando todavia dije.
+M o' yonix.
+ = ( ).
+ %spa ( ).
+A lemach'an ikot junxo k'enchi ni.
+ = lemach'an ikot junxo k'enchi ni.
+ %spa vení trae el otro mira.
+A ikot junxo k'enchi xchumam ix yet' k'en.
+ = ikot junxo k'enchi xchumam ix yet' k'en.
+ %spa trae el otro hay lo verá ellacon el carro.
+M ho'oy.
+ = hoy.
+ %spa que dice.
+M el niño chilla.
+ = el niño chilla.
+ %spa el niño chilla.
+M bo'o nun.
+ = olsb'o ix nunu'.
+ %spa lo va hacer la mamá.
+V b'iyo b'ela.
+ = tanhwej b'ela.
+ %spa esperalo.
+M aaaa.. bikopel lo.
+ = ( ).
+ %spa ( ).
+M el niño chilla.
+ = el niño chilla.
+ %spa el niño chilla.
+M los niños chillan
+ = los niños chillan
+ %spa los niños chillan
+M los niños chillan.
+ = los niños chillan.
+ %spa los niños chillan.
+M los niños chillan.
+ = los niños chillan.
+ %spa los niños chillan.
+J X.
+ = X.
+ %spa J.
+A ajtejel t'awinh ha'an.
+ = ajtejel t'awnih ha'an.
+ %spa soltalo a él.
++ hay ruidos.
+M ni'i.
+ = ni'i.
+ %spa mira.
+M toto ixkun k'ej chi.
+ = ( ).
+ %spa ( ).
+M ni'i.
+ = ni'i.
+ %spa mira.
+A akot t'a ix akot ix.
+ = akot t'a ix akot t'a ix.
+ %spa dale a ella.
+M toti atoti.
+ = akoti, akoti.
+ %spa damelo.
+A aakot t'awinh, to wan yak'an tajnel winh.
+ = akot t'awinh, to wan yak'an tajnel winh.
+ %spa dale a él, porque esta junago.
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+V ¿tax?.
+ = ¿tax?.
+ %spa ¿que?.
+A akot t'awinh an.
+ = akot t'awinh an.
+ %spa dale a él.
+V ( ).
+ = ( ).
+ %spa ( ).
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+A idel.
+ = V.
+ %spa V.
+M el niño se esta chullando.
+ = el niño se esta chullando.
+ %spa el niño se esta chullando.
+A ikoti xachi t'a ix.
+ = ikoti xachi t'a ix.
+ %spa traemelo decile a ella.
+M hatotii.
+ = akoti.
+ %spa damelo.
+A tama'ay olach intek'a xachi.
+ = tama'ay olach intek'a xachi.
+ %spa si no te voy a patear. decí.
+M olix te'a, atoti'a.
+ = olacah intek'a, akoti'a.
+ %spa te voy a patear, damelo.
+M ach'uyotii.
+ = ( ).
+ %spa ( ).
+M at'achi, at'achi.
+ = at'achi, at'achi.
+ %spa alli es.
+V tachalk'eta nhi'.
+ = tzachalk'eta konhi'.
+ %spa aruñaste mi nariz.
++ hay ruidos.
+A akot t'awinh'an towan yak'an tajnel winh.
+ = akot t'awinh'an towan yak'an tajnel winh.
+ %spa dale a él, porque esta jugando.
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+V kito k'en xinchi.
+ = kito k'en xinchi.
+ %spa damelo el carro dije.
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+V ( ).
+ = ( ).
+ %spa ( ).
++ hay ruidos de voz del niño/a.
+M nihi.
+ = ni'i.
+ %spa tene (mira).
++ hay ruidos de juguete.
+M bitit'ax.
+ = wik' tik.
+ %spa este es mío.
+J tajnanh yet'nok miston eb'.
+ = tajnanh yet'nok miston'an.
+ %spa juga con el gato.
+M nh'.
+ = ma'ay.
+ %spa no.
++ hay ruidos.
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+A akot t'awinh.
+ = akot t'awinh.
+ %spa dale a él.
+A vidal.
+ = vidal.
+ %spa vidal.
+A towan yek'an tajnel winh.
+ = towan yek'an tajnel winh.
+ %spa por que esta jugando él.
+M el noño esta chillando.
++ los niño/a esta chillando.
++ los niño/a esta chillando por el juguete.
++ el niño la niña esta chillando por el juguete.
++ el niño y la niña estan esta chillando.
+A akot' t'abinhe.
+ = akot' t'awinh.
+ %spa dale a él.
++ el niño y la niña estan chillando por el juguete.
+V la niña se empieza a llorar.
+ = la niña se empieza a llorar.
+ %spa la niña se empieza a llorar.
+V la niña se empieza a llorar.
+ = la niña se empieza a llorar.
+ %spa la niña se empieza a llorar.
+A nene ni.
+ = nene`ni'i.
+ %spa nene mira (tene).
+A lemach, lemach lista hach.
+ = lemach, lemach jelanach.
+ %spa vení ponete listo.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
++ la niña y él niño estan chillando por el juguete.
+V chumam ix, xchumam ix yet'ok.
+ = xchumam ix, xchumam ix yet'ok.
+ %spa hay lo vará ella con el juguete.
+M el niño esta chillando por el juguete.
+A akot t'awinh an nu nena.
+ = akot t'awinh'an nu nene'.
+ %spa dale a él nena.
+A akot skaro binhchi, nijunxo tikni ha olkak junhik t'ay t'ay 
+                chini.
+ = akot skaro Winhchi, nijunxo tikni olkak junhik t'ay chini.
+ %spa dame su carro, aqui esta el otro te vamos a dar allì.
+A akot skaro binhchi'an, tokero yak'an tajnel binh nena.
+ = akot skaro winhchi'an, tokero yak'an tajnel binh nena.
+ %spa dale su carro, porque esta jugando ¡nena.!
+M el niño esta chillando.
+ = el niño esta chillando.
+ %spa el niño esta chillando.
+M ni'i.
+ = ni'i.
+ %spa mira.
+M tono.
+ = tono.
+ %spa tono.
+A ikot t'abinh'an, ikot t'abinh towanto yak'antajnel winh.
+ = ikot t'awinh'an, ikot t'awinh towanto yak'antajnel winh.
+ %spa dale a él, porque esta jugando todavía.
+A toini ban ya'an tajnel winh,tonhe.
+ = to'ini wan yak'an tajnel winh.
+ %spa porque él esta jugando.
+M koko jutzati mam.
+ = ikot juntzantik nun.
+ %spa mamá traeme estos.
+A beno lista hach'a.
+ = weno lista hach'an.
+ %spa bueno listo pues.
++ hay ruidos.
+V la iña se empieza a llorar.
+ = la iña se empieza a llorar.
+ %spa la iña se empieza a llorar.
+V la iña se empieza a llorar.
+ = la iña se empieza a llorar.
+ %spa la iña se empieza a llorar.
+A tz'in V.
+ = tz'in V.
+ %spa Vsilencio.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+A tz'in.
+ = tz'in
+ %spa silencio.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+J ( ).
+ = ( ).
+ %spa ( ).
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+EquiPedro       	( ).
+tradPedro       	( ).
+perPedro        	( ).
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+A tz'in V xachi t'a'ix.
+ = tz'in V xachi t'a'ix.
+ %spa V silencio decile a ella.
+M t'in bila.
+ = tzin V.
+ %spa silencio V.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+A okak juna lolo xachi t'a ix.
+ = okak junok lolo xachi t'a ix.
+ %spa te vamos a dar un dulce decí a ella.
+M jt lolo'
+ = olkak ha lolo'.
+ %spa te damos un dulce.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+A kak tajnel xachi t'a ix.
+ = kak tajnel xachi t'a ix.
+ %spa jugamos decile a ella.
+A ( ).
+ = ( ).
+ %spa ( ).
+M el niño esta toseando.
+ = el niño esta toseando.
+ %spa el niño esta toseando.
+V la niña esta llorando.
+ = la niña esta llorando.
+ %spa la niña esta llorando.
+J kotan.
+ = kotanh.
+ %spa vení.
+V t'ibo mal t'a ixin nun.
+ = olwal t'a ix in nun.
+ %spa lo voy a decir a mi mamá.
+J ( ).
+ = ( ).
+ %spa ( ).
+A lemach xachi t'a ix.
+ = lemach xachi t'a ix.
+ %spa vení decile a ella.
+M telach.
+ = lemaach.
+ %spa vení.
+V toyx.
+ = ma'ay.
+ %spa no.
+A to'o kak yoch nok' tz'i xachi.
+ = to'ol kak yoch nok' tz'i xachi.
+ %spa vamos ha dar de comer al perro decí.
+J toxak' tayin.
+ = toxak' tayin.
+ %spa ya me diste.
+U ( ).
+ = ( ).
+ %spa ( ).
+A mach junxo.
+ = mach junxo.
+ %spa quièn otro.
+M u'ani.
+ = ( ).
+ %spa ( ).
+M yayi'.
+ = yak'ani.
+ %spa así lo hizo.
+A ¿tajtil yak'ani?.
+ = ¿tajtil yak'ani?.
+ %spa ¿como lo hizo?.
+A ¿tajtil yak'an ix V t'ayach?.
+ = ¿tajtil yak'an ix V t'ayach?.
+ %spa ¿como lo hizo V a usted?.
+M vidalo.
+ = V.
+ %spa V.
+A nehene.
+ = nene'.
+ %spa nene.
+M nnna.
+ = han.
+ %spa ( ).
++ ruido del juguete.
+M hen.
+ = han.
+ %spa ( ).
+V tik o bay t'a ix hin nun.
+ = tik ol wal t'ay ix hi nun.
+ %spa hay vo ha decir a mi mamá.
+U ( ).
+ = ( ).
+ %spa ( .
+J ¿tas yuj ix ok'e ix?
+ = ¿tas yuj ix ok'i ix?
+ %spa ¡por qué llor'o ella?
+A ha juno nono.
+ = ha jun nok' nok'.
+ %spa es un animal.
+A ha jun sakarro binhchi ste to'eje ix tom ixto yak' ix jun yo 
+                sajan chinan binh t'a i.
+ = ha jun skarro winhchi ste tok'ej ek' ix yo tom ixto yak' ix jun 
+                yo skan chinan winh t'ay ix.
+tradAna         ella lo quitó el carro de él y ya no la dió y por eso se que él 
+                colgado a ella.
+J ( ).
+ = ( ).
+ %spa ( 9.
+J ab'i ton chi un.
+ = ab'i ton chi jun.
+ %spa escuchaste pues.
+J ¿mach..?
+ = ¿mach..?
+ %spa ¿quién..?
++ ruido.
+J juhul..?
+ = jun?
+ %spa pues?
+A jun yunenhej jun.
+ = jun yune' nhej jun.
+ %spa ese pequeño pues.
+J yo x'okixk'e ix.
+ = yo ix ok'ixk'e ix.
+ %spa y se puso a llorar.
+A yo axo swik'anek' chi t'a ix tz'ok'e ix.
+ = yo haxo swik'anek' chi t'a ix tz'ok' xi k'e ix.
+ %spa y cuando lo quito a ella y se puso a llorar.
+J mach okok'.
+ = manhach okok'.
+ %spa no lloras.
+J okoman junok' hiko xchumam ix, chi ixkak' k'ena ketzal.
+ = ol koman junok' hiko schumam ix, chi ixkak' k'ena ketzal.
+ %spa compraremos un tuyo hay lo vará ella, ya te dimos un tu quetzal.
++ ruido.
+J ko man juno hiko.
+ = ol ko man junok hiko'.
+ %spa vamos a comprar un tuyo.
++ ruido.
+J elanhkoti.
+ = elanhkoti.
+ %spa salite.
++ ruido.
++ ( ).
+A ag' no nono t'a ix.
+ = ak'b'at nok' nono' t'ay ix.
+ %spa dale ese animal aella.
+A ag' no nono´t'a ix.
+ = ak'b'at nok' nono' táy ix.
+ %spa dale ese animal a ella.
+U lem.
+ = lemach.
+ %spa vení.
+A ag' nono t'a ix ol xiw ix.
+ = ak'b'at nok' nono' t'ay ix ol xiw ix.
+ %spa se va asustar ella dale ese animal.
++ ruido.
+A nono t'a ix.
+ = ak' nono' t'ay ix.
+ %spa asustala a ella.
++ ruido.
+A a nono.
+ = ak' nono'.
+ %spa asustala.
++ ruido.
+A ag' nono t'a jun ix Idali.
+ = ak'b'at nok' nono' t'ay jun ix Idaly.
+ %spa dale ese animal a Idaly.
++ solo hay ruido.
+A nene.
+ = nene'.
+ %spa nene.
++ ruido.
++ ( ).
+M kaaaammmmnnnnnnnnnn.
+ = ( ).
+ %spa ( ).
+M anannnnnnnnh.
+ = ( ).
+ %spa ( ).
++ ruido.
++ ruido.
++ ruido.
++ ( ).
+A ka' tajnel xa chi.
+ = kak' tajnel xa chi.
+ %spa jugamos decile.
++ ruido.
++ ( ).
+J olo' xa chi.
+ = lolo' xa chi.
+ %spa dame dulce, decile.
+J ka' tajnel xachi t'a ix xuban.
+ = kak' tajnel xachi t'ay ix X.
+ %spa J jugamos, decile.
++ ruido.
+M haay.
+ = ma'ay.
+ %spa no.
++ ruido.
+A nha'a.
+ = ma'ay?
+ %spa no?
++ ruido.
++ solo ruidos.
++ ruidos.
++ ruido.
+M nh
+ = hay.
+ %spa ( ).
++ ruido.
+M mach?
+ = mach?
+ %spa quién?
++ ruido.
+A mmm.
+ = ( ).
+ %spa ( ).
+M memacha.
+ = lemach an.
+ %spa veni pues.
++ ruido.
+M meem.
+ = lamach.
+ %spa venga.
++ ruido.
+M memach.
+ = lemach.
+ %spa venga.
+U querek t´a chi iniwal ni.
+ = wal hek' t'ay chi' iniwal ni'i.
+ %spa ya ves mientras que solo andas paseando.
+M mematz.
+ = lemach.
+ %spa venga.
+U nii ilnabte nii.
+ = ilnab'al te' ni'i.
+ %spa ves como son mirá.
+M mematz.
+ = lemach.
+ %spa venga.
+M takalet.
+ = kak' tajnel.
+ %spa juguemos.
+U ste k'anb'an juntzan heb'chi tasum tz'aji.
+ = ste k'anb'ej yaweb' chajtil tz'aji.
+ %spa ellos preguntan como se hace.
+A nhaan tas chaujun.
+ = kak'an tas tas tz'aj jun.
+ %spa estabien entonces como.
+M kuman.
+ = konh em kuman.
+ %spa nos ponemos derrodillas.
++ ( ).
+A tzach em kuman?
+ = tzach em kuman?
+ %spa te pones derrodillas?
++ ( ).
+M hii.
+ = hi'.
+ %spa si.
++ ruido.
+U ( ).
+ = ( ).
+ %spa ( ).
+A yo nhej tnhej.
+ = yoj nhej wal tonhej.
+ %spa solo por que.
+A ynh s'at k'ena karrch.
+ = yonh sb'at k'ena karro chi'.
+ %spa alli va tu carro mirá.
++ ruido.
+M jjoo.
+ = hoy.
+ %spa que.
++ ( ).
++ ruido.
+M mm.
+ = ( ).
+ %spa ( ).
+M ni pat kin kalo chi'.
+ = ni sb'at k'en karro chi'.
+ %spa alli va el carro.
++ ruido.
+A nhi'a xb'at k'en karr chi.
+ = telan in sb'at k'en karro chi'.
+ %spa sí alli va el carro.
++ ruido del juguete.
+M ni ixi tiki.
+ = ni'i ichatik ni.
+ %spa mira así se hace ve.
++ ruido.
+M nixatik g'.
+ = ichatik ni'i.
+ %spa así mirá.
++ ( ).
++ ruido.
+A helan junx k'entik.
+ = telan in junxo k'entik.
+ %spa si pues aquí está otro.
++ ruido.
++ ( ).
+M unxo.
+ = junxo.
+ %spa otro.
++ ruido.
+M uxa hantik.
+ = in junxo k´entik.
+ %spa aqui esta otro.
++ ruido del juguete.
+A titiiit xachan.
+ = titiiit xa chi an.
+ %spa pipiip decile.
++ ruido.
+M titii jaaaahaaab.
+ = titiiiit  haaaannn.
+ %spa ( ).
++ ruido del juguete.
+M mmm.
+ = hannn.
+ %spa ( ),
++ ruido del juguete.
+M chelbat keti.
+ = in chelb'at k'entik.
+ %spa lo llevo este.
++ ruido.
+M talay.
+ = ( ).
+ %spa ( ).
++ ruido.
+M yal chun chentii.
+ = xal tazun k'en tik.
+ %spa y este otro.
++ ruido.
+M chin pepel.
+ = tz'an xapel.
+ %spa izabela callate.
++ ruido.
+A tzikot ch'anh cartonhchui saka'im ix nene yol ch'nh.
+ = ikot ch'anh kartoh chi' to skak'im ix nene' t'ay yol ch'anh.
+ %spa vamos a poner la nena dentro del carton traelo.
++ ruido.
+M ho.
+ = ¿hoy?
+ %spa ¿que?
++ ruido.
+A tzikut ch'anh kartonh chi ska'im ix nena yol ch'anh.
+ = tzikot ch'anh kartonh chi to skak'im ix nene' t'ay yol ch'anh.
+ %spa vamos a poner la nena dentro del carton traelo.
++ ruido.
+M tax.
+ = ¿tasb'ani?
+ %spa ¿cómo dijiste?
++ ruido.
+M isx.
+ = ¿ha ix?
+ %spa ¿fue ella?
++ ruido.
+A ikut ch'anhan ka'im ix nena.
+ = ikot ch'anh an to skak'im ix nene'.
+ %spa traelo ya porque vamos a poner la nena.
++ ruido.
+M huy.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+M sxehil.
+ = ( ).
+ %spa ( .
++ ruido del cartón.
+M ixta.
+ = ixta'.
+ %spa ya.
++ ruido.
+M ta'a.
+ = ixta'
+ %spa ya.
++ ruido.
+A ikutan ikuti.
+ = ikot an ikoti.
+ %spa traelo pues.
++ ruido.
+M ikot ix.
+ = ikot ix
+ %spa traela ella.
++ ruido,
++ ruido.
+M tik nhatix.
+ = t'ay tik skot ix.
+ %spa traela  ella aqui.
++ ruido.
+A tz'em pipis ix.
+ = tz'em k'ojan ix.
+ %spa se sienta ella.
++ ruido.
+M hi'
+ = hi'
+ %spa si.
++ ruido.
+A pero olak' tajnel ye d'ix jun?
+ = palta olak' tajnel yet' ix jun?
+ %spa pero si vas a jugar con ella?
+U ikat chanh.
+ = ik' b'at ch'anh.
+ %spa llevalo.
+A ikut ch'anhan ikut ch'anh ka'im ixn.
+ = ikot ch'anh an ikot ch'anh to skak'im ix ni'i.
+ %spa mira, vamos a poner a ella  traelo entonces..
++ ruido.
+A ka'im pipis ix ikut ch'anh nitzkut ch'anh.
+ = kak'im k'ojan ix ikot ch'anh nitzkot ch'anh.
+ %spa hacercalo porque se va sentar ella.
++ ruido.
+A ejel.
+ = tanh wej b'el
+ %spa esperate.
++ ruido.
+A in dulsx akut yixta ichi.
+ = ins lolo' ix akot yixta' ixchi'.
+ %spa trae los juguetes aquí estan los dulces de ella.
+A ka' tajnel nena xachi.
+ = nene' kak' tajnel xachi.
+ %spa juguemos nena decile.
++ ruido.
+A ka tajt'el nene.
+ = kak' tajnel nene'
+ %spa jugamos nena.
++ ruido.
+M ka tajnel inle.
+ = kak' tajnel in k'e'en.
+ %spa aquí está tu juguete jugamos.
++ ruido.
+M takalo ni.
+ = kak' karro ni'i.
+ %spa tené tu carro jugamos.
++ ruido.
+M kalon.
+ = karro ni'i.
+ %spa tené tu carro.
++ ruido del cartón
+A kak' tajnel xa chi t'a ix.
+ = kak' tajnel xa chi t'ay ix.
+ %spa jugamos decile a ella.
+M ka tajnel nena
+ = kak' tajnel nene'
+ %spa nena jugamos.
++ ruido.
+M aad.
+ = ( ).
+ %spa ( ).
+M mmm.
+ = ( ).
+ %spa ( ).
++ ruido.
+M ne nenena ne.
+ = ni nene' ni'i.
+ %spa nena tené.
++ ruido.
+M nh.
+ = ( ).
+ %spa ( ).
++ ruido.
+M nenea.
+ = nene'
+ %spa nena.
+M ( ).
+ = ( ).
+ %spa ( ).
+M ni nena.
+ = nene' ni'i.
+ %spa nena tené.
++ solo ruido.
++ ( ).
+A kaxin wata i'?
+ = kaxin wat ha b'i?
+ %spa tu nombre es gaspar?
+M nix.
+ = ni hixta'.
+ %spa tené juguete.
++ ruido.
+M cala chi nee.
+ = ini' ha karro chi' ni'i.
+ %spa aquí está tu carro mira.
++ ruido.
+M ix calo ni.
+ = ixtej karro ni'i.
+ %spa aquí está tu carro hay que jugar.
++ ruido.
+M o hii.
+ = yo ni'i.
+ %spa ho mira.
++ ruido.
+M hixok kalo nena.
+ = ixtej karro nene´.
+ %spa juega con carro nena.
+U iya ni.
+ = ( ).
+ %spa ( ).
+M ix kalo.
+ = ixtej karro.
+ %spa juega con carro.
++ ( ).
++ ruido.
+M in kaloni.
+ = ni k'ena karro ni'i.
+ %spa mira aquí esta tu carro.
++ ruido.
+A neztb'at ix.
+ = nitzb'at ix.
+ %spa muebala.
+M ni.
+ = ni'i.
+ %spa tené.
++ ruido.
+M nix kalo.
+ = ni sakarro.
+ %spa aquí está su carro.
++ ruido.
+M nena.
+ = nene'
+ %spa nena.
++ ( ).
+M kalo nen.
+ = ni ha karro nene´.
+ %spa tu carro nena.
++ ruido.
+M kal ix.
+ = sakarro ix.
+ %spa carro de ella.
++ ruido.
+M kalo.
+ = karro.
+ %spa carro.
+J hatala chulanb'at yoj ich'.
+ = ( ).
+ %spa ( ).
++ ( ).
+A ka tajnel xa chi.
+ = kak' tajnel xa chi.
+ %spa jugamos decile.
+M ni.
+ = ni'i.
+ %spa tené.
++ ruido.
+A nhihi.
+ = ( )..
+ %spa ( ).
+M ka tajnel nena.
+ = kak' tajnel nene'.
+ %spa nena jugamos.
++ ruido.
+M ka tajne nena.
+ = kak' tajnel nene'.
+ %spa nena jugamos.
++ ( ).
+M ka tajnel ne.
+ = kak' tajnel nene'
+ %spa nena jugamos.
+EquiPedro       	ichok winhaj matin.
+tradPedro       	como M .
+perPedro        	ich winhnh M .
++ ruido.
+M ni k'entz.
+ = ni k'enchi'
+ %spa aqui está.
+J to tzi smak'wej hin.
+ = to chi' smak'waj winh.
+ %spa esque él lo golpea.
+EquiPedro       	ah.
+tradPedro       	a bueno.
+perPedro        	aahaaa.
+V tol chi tolch ma smak'lej sb'a heb'.
+ = to tonhej smak'lej sb'a heb'.
+ %spa solo se golpean ellos.
+M ken.
+ = ni k'en.
+ %spa tené
+EquiPedro       	( ).
+tradPedro       	( ).
+perPedro        	ahaa ix tellej sb'a k'en.
+A tz'nich.
+ = tz'inach.
+ %spa callate.
+M moch.
+ = mach?
+ %spa quíen?
+M in ki.
+ = in k'e'en.
+ %spa aqui está.
++ solo hay ruido.
+M han.
+ = hannn.
+ %spa ( ).
++ ruido del juguete.
+M man cha chihila.
+ = manto kik'illaj.
+ %spa no hemos quitado.
++ solo hay ruido.
++ ruido del carro(juguete).
++ ruido.
+M bikitiki'i.
+ = wik'i ta k'en.
+ %spa voy a sacarlo.
++ ruido.
+J tajnanh yet' binh an tajnanh ye inh ix lolonanh yet' binh.
+ = tajnanh yet' winh an tajnanh, ixik b'at lolonanh yet' winh.
+ %spa habla y juegue con él ahora.
+M e numan.
+ = ix ellub'an.
+ %spa se mojó mucho.
++ ruido.
+J ana k'ena tuminchi?
+ = b'ajay k'ena tumin chi'?
+ %spa dónde está tu dinero?
+M hei.
+ = ( ).
+ %spa ( ).
++ ruido.
+J intu jun xlolonh yet' binh an.
+ = intun chi' jun b'at lolonanh yet' winh an.
+ %spa alli esta pues anda hablar con el entonces.
+V ma'i.
+ = ma'ay.
+ %spa no.
+J chumam ix ek'en t'a ix.
+ = schumam ix ak'b'at k'en t'ay ix.
+ %spa dejala dasela a ella.
+M ox.
+ = tz'upem (oso)
+ %spa oso.
++ ruido.
+J ix lolonanh ye inh.
+ = b'at lolonanh yet' winh.
+ %spa hay que hablar con él.
++ ruido.
+J mahina ma' xa chis ke.
+ = mn hina mak'a xa chi ( ).
+ %spa no me pegas decile.   ( ).
+A mach a ykik ju k'en ti?
+ = mach ay yik jun k'en tik?
+ %spa de quién es el juguete?
++ ( ).
+M yo ch'elenh.
+ = yo tzél k'e'en.
+ %spa ho se está saliendo.
+J manhina maga xa chi t'a in.
+ = manh hin ha mak'a xa chi t'ay winh.
+ %spa no me pegas decile a él.
+U yech.
+ = ( ).
+ %spa ( ).
+M ted'en.
+ = ni k'en.
+ %spa tené.
+J ixil chaj huj
+ = ix ilchaj hu'uj?
+ %spa encontraste?
+J manhina mag'an mateyo xa chi.
+ = manhina mak'an matin xa chi.
+ %spa no me pegas M  decile.
++ la niña quiere llorar.
+M ka ixa nene.
+ = kak' ixa nene'
+ %spa le damos tu nena.
++ ruido.
+J k'ebin.
+ = sk'ewinh?
+ %spa sube él.
+M b'ajti.
+ = b'ajti'il?
+ %spa dónde?
+V ma mamak'an matia?
+ = manhina mak'an matin?
+ %spa pero no me pegas M ?
++ ruido.
++ ruido.
+J ad'a binh ald'a binh.
+ = al t'ay winh al t'ay winh.
+ %spa dile a él dile.
++ ruido.
+J ald'a binh
+ = al t'ay wimnh.
+ %spa dile a él.
++ unas mujeres estan riyendo.
+U kalxi.
+ = kalxi.
+ %spa adios.
++ ruido.
+U kalxi kumare.
+ = kalxi kumare.
+ %spa adios comadre.
+J kal'an!
+ = kalxi an!
++ ( ).
+J ald'a winh manhina mak' M  xa chid' i.
+ = al t'ay winh manhina mak' matin xachi.
+ %spa M  no me pegues decile.
+M nix ok'i ix.
+ = ni'i tz'ok'i ix.
+ %spa lla ves ella se llora.
++ ( ).
+M tut ix.
+ = manha tzuntzej ix.
+ %spa no molestas a ella.
++ ruido.
+U junchi.
+ = junchi'.
+ %spa aquello.
+M k'unchi b'ot.
+ = ( ).
+ %spa ( ).
++ ruido.
+M yonh.
+ = yonh.
+ %spa ho.
++ ruido.
++ M  quiere chillar.
++ ruido.
+V yonh.
+ = yonh.
+ %spa ho.
+M haaay.
+ = ma'ay.
+ %spa no.
+A manha musej sat ix manha musej satix.
+ = manha musej sat ix manha musej sat ix.
+V ma muxej xatix xi.
+ = manha musej sat ix xi.
+ %spa no hay que tapar la cara a ella dice.
+M haau.
+ = munil.
+ %spa dejala.
++ ruido.
+M la ix.
+ = manh ha yam laj ix.
+ %spa no toque a ella.
++ ruido.
++ M  está chillando.
++ ruido.
+V tinhcha ken yunhin ix.
+ = st'inhchaj k'en yuchukin ix.
+ %spa se reventó su arete.
+X anh.
+ = ( ).
+ %spa ( ).
++ ruido.
+A may mam ha tok' t'a ix.
+ = ma'ay manha tok' t'ay ix.
+ %spa no, no la jalas a ella.
+A ha tog' ta eg' t'a ix.
+ = xa tok' ta ek' t'a ix.
+ %spa no la vayas a quitar a ella.
+J a snan ta aych k'en.
+ = ha sna'an ix to ayoch k'e'en.
+ %spa ella pensó que lo tiene puesto..
++ ruido.
+A i'iihi ix tijwi.
+ = hi ix tijwi
+ %spa se reventó.
++ ruido.
+J hoy ix tijwi?
+ = hoy ix tijwi?
+ %spa se reventó?
++ ruido.
+J ak' chab'at t'a xchikin ix nene'
+ = chab'ati ak'b'at t'ay schokin ix nene'.
+ %spa recibila ponla en los oidos de la nena.
++ ruido.
+J ix emanh k'ojan stz'ey ix konh tajnok xa chi t'a ix,
+ = b'at emanh k'ojan stz'ey ix konh tajnok xa chi t'ay ix.
+ %spa ve a sentar al lado de ella jugamos decile.
++ ruido.
+J kanta junxo chi´.
+ = kanta junxo chi´.
+ %spa no vayan a dejar el otro.
++ ruido.
+M ne nena.
+ = ni nene'.
+ %spa nena tené.
++ ruido.
+M i'.
+ = ( ).
+ %spa ( ).
++ ruido.
+M ni nena.
+ = ni nene'.
+ %spa nena tené.
++ ruido.
+M ni nena.
+ = ni nene'.
+ %spa nena tené.
++ ruido.
+M chumix ne.
+ = schum ix nene'.
+ %spa dejemoslo a ella
++ ruido.
+M ne nena.
+ = ni nene'.
+ %spa nena tené.
++ ruido.
++ ( ).
++ ruido.
+M ne nena.
+ = ni nene'.
+ %spa nena tené.
++ ruido.
+M mm.
+ = ( ).
+ %spa ( ).
++ ruido.
++ ruido.
+M m.
+ = ( ).
+ %spa ( ).
++ ruido.
+M we nena'.
+ = ni nene'.
+ %spa nena tené.
++ ruido.
+M ixtahaaaaaa.
+ = ixta'.
+ %spa ya está.
++ ruido.
+A agkaro yed'ixa an.
+ = ak' karro yet' ix an.
+ %spa juegue carro con ella.
++ ruido.
+M beno.
+ = weno.
+ %spa bueno.
++ ruido.
++ se oye una música.
++ se oye una música.
++ ( ).
++ música.
+M m a'.
+ = nunin.
+ %spa mam´.
++ ruido.
+J tas ha kere?
+ = ¿tas tza nib'ej?
+ %spa ¿qué quieres?
++ ( ).
++ ( ).
+J ol baga pero lolonanh an.
+ = ol wak'a palta lolonanh an.
+ %spa te voy a dar pero hablá.
++ ruido.
+M ne.
+ = ni'i.
+ %spa tené.
++ ruido.
+M ni tzi.
+ = ni chi'.
+ %spa allí está.
++ ruido.
+J ni tik ni nitik ni ni lolonanh an.
+ = ni tik ni'i lolonanh an.
+ %spa hay que hablar a quí está.
++ ruido.
+J lolonanh.
+ = lolonanh.
+ %spa habla.
++ ruido.
+J tas ha b'i ke xa chi? k'anb'ej sb'i heb' binh.
+ = tas he b'i ke xa chi? k'anb'ej sb'i heb' winh.
+ %spa pregunta los nombres de ellos ¿ cómo se llaman mucha? decile.
++ ruido.
++ música.
+J ix nena.
+ = il ix nene'.
+ %spa cuida a la nena.
++ música.
+A ak' baila cumia ab'i.
+ = ak' chanhal ab'i.
+ %spa oye, baila cumbia.
++ música.
+A ni.
+ = ni'i.
+ %spa tené.
++ música.
+X nha.
+ = ( ).
+ %spa ( ).
+A chiya'.
+ = tzila'.
+ %spa ves.
++ música.
++ música.
++ música.
++ música.
++ música.
++ música.
++ ruido.
+A hab'i.
+ = ab'i
+ %spa oye.
++ ruido.
+A nene.
+ = nene'.
+ %spa nene.
++ ruido.
+M nh.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+A tajnanh yed'ix lena.
+ = tajnanh yet' ix nene'.
+ %spa juega con la nena.
++ ruido.
++ música.
++ música.
++ ruido.
+M ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
++ ruido.
++ ruido.
++ ruido.
++ ruido.
+U kalxi, kal an.
+ = kalxi. kal an.
+ %spa adios. bueno.
++ ruido.
++ ruido.
++ ruido.
+A tas lan huk'an nene?
+ = tas wan huk'an nene'?
+ %spa qué estas tomando nene?
+M einh.
+ = hoy.
+ %spa qué?
++ ruido.
+A tas ban huk'ani?
+ = ¿tas wan huk'ani?
+ %spa ¿qué estás tomando?
++ ruido.
+A taxi.
+ = ( ).
+ %spa taxi.
++ ruido.
++ ruido.
++ ruido.
++ ruido.
+M nin.
+ = ( ).
+ %spa ( ).
++ ruido.
+M och.
+ = ¿ho'och?
+ %spa ¿tortilla?
++ ruido.
+M ab'i.
+ = ab'i.
+ %spa oye.
++ ruido.
+A nene'.
+ = nene'.
+ %spa nene.
++ ruido.
++ ruido.
++ ( ).
++ ruido.
+A inajnel ix.
+ = ak' tajnel yet' ix.
+ %spa juega con ella.
++ ruido.
+J a k'ayo yet' ix.
+ = ak' karro yet' ix.
+ %spa juega carro con ella.
++ ruido.
++ ruido.
++ ruido.
++ ruido. ( ).
+A tas ban hilani.
+ = ¿tas wan hilani?
+ %spa ¿qué estas viendo?
++ ruido.
+A ki'an.
+ = k'ik'an.
+ %spa mañana.
+J mm
+ = ¿hoy?
+ %spa ¿qué?
+A tas ma junok tzo ati.
+ = tas manh junok tzonh b'ati.
++ ruido.
++ ruido.
+A wal yok' ix t'a winh ni.
+ = wal yok' ix t'ay winh.
+ %spa está llorando ella con él.
++ ruido.
++ ruido.
++ ruido.
++ ruido.
++ ruido.
+V ochanhkoti.
+ = ochanhkoti.
+ %spa pase adelante.
+V ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
++ ( ).
+A mm.
+ = ( ).
+ %spa ( ).
++ ruido del juguete.
++ ruido.
+V ma'ay.
+ = ma'ay.
+ %spa no.
++ ruido.
++ ruido.
+J a tajnel yed'ix nene' chi an ag' tajnel ix nene' xlajwg'i.
+ = ak' tajnel yet' ix nene' chi an ak' tajnel yet' ix tato ix 
+                lajwi.
+ %spa si ya terminaste hay que jugar con la nena.
+J ba ch'ujb'ati.
+ = wach' uk'ej b'ati.
+ %spa acabolo.
++ ruido.
+J nhrkut jak ix nher ix.
+ = nherkot jab'ok ix nher ix.
+ %spa arrastrá un poco a ella.
+J nher ix yed' ch'enh cartonh chi lem.
+ = nher ix yet' ch'anh karton chi' pilip.
+ %spa arrastrá ella con cartón apurate.
++ ruido.
+J nherkut ix.
+ = nherkut ix.
+ %spa arrastra a ella.
++ ruido.
++ ruido.
+J t'a spatik ix tza nhera, t'a spatik ix tza nhera.
+ = t'ay spatik ix tza nhera, t'ay spatik ix tza nhera'
+ %spa a tras de ella hay que arrastrarla.
+M mm.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+J hin yam kan chi.
+ = hin yam kan chi'.
+ %spa lo agarro eso.
++ rudo.
+J n yamkani.
+ = hin yamkani
+ %spa lo sostengo.
++ ruido.
+J wen tisin yama b'at yak'xi.
+ = weno tik tzin yamkani b'at ak'xi.
+ %spa esta bien voy a sostener anda a jugar.
++ ruido.
+J yamix titihiiiiit xa chi.
+ = yam ix titit xa chi.
+ %spa agarrala ella titit decile.
++ hay ruido por el cartón
++ ruidi.
+M yuchen.
+ = luchen.
+ %spa saltar.
++ ruido.
+J ag'a seb'al nena xa ch.
+ = ak' ha seb'al nene' xa chi.
+ %spa nana dale menos peso decile.
++ ruido.
+M hanan ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+J ¿al ix?
+ = al ix?
+ %spa ¿pesa ella?
++ ruido
+M hi.
+ = hi'.
+ %spa sí.
++ ruido.
+M alix.
+ = al ix.
+ %spa pesa ella.
++ ruido.
+J ¿al ix?
+ = ¿al ix?
+ %spa ¿pesa ella?
++ ruido.
+M chel
+ = chela'
+ %spa tener un niño en los brazos.
++ ( ).
+J beno nher jakxo ixin.
+ = weno nher jab'okxo ix an.
+ %spa bueno arrastrala otro poco a ella.
++ ruido.
++ ( ).
+J kotnh nene' xa chi.
+ = kotanh nene' xa chi.
+ %spa nena vaní decile.
++ ruido.
+M tak' t'a ni.
+ = kak' kani.
+ %spa dejamoslo.
++ ruido.
++ ( ).
++ ruido.
++ ( ).
++ ruido.
++ ( ).
++ ruido.
++ ( ).
++ ruido.
++ ( ).
++ ( ).
+M hinina.
+ = ( ).
+ %spa ( ).
++ ruido.
+M ina.
+ = haan.
+ %spa ( ).
++ ruido.
+V ko jachix.
+ = ko jach ix.
+ %spa arrastramosle a ella.
++ ruido.
+J ekat ye hinh.
+ = ekb'at yet' winh.
+ %spa empuja con él.
++ ruido.
+J meltzajanh xa chi d'a i.
+ = meltzajanh xa chi t'ay ix.
+ %spa date vuelta decile a ella..
++ ruido.
+M meltzahanh.
+ = meltzajanh.
+ %spa date vuelta.
++ ( ).
++ ruido.
+J kotanh t'a tik xachit' i.
+ = kotanh t'ay tik xa chi t'ay winh.
+ %spa vení aquí decile a él.
+M tocho chi.
+ = to t'ay chi'.
+ %spa esque aya.
+V hat'ay.
+ = hat'ay tik.
+ %spa por aquí.
++ ruido.
+V meltza'anhe.
+ = meltzajanh.
+ %spa date vuelta.
++ ruido.
+J t'a chi tzach b'at M .
+ = t'ay chi' tzach b'at matin.
+ %spa es por acá vas M .
++ ruido.
+M beno.
+ = hiye.( weno).
+ %spa esta bien.
+J t'a chi tzach b'ati.
+ = t'ay chi' tzach b'ati.
+ %spa es por allá.
++ ( ).
+M uuhum pumpumpum.
+ = ( ).
+ %spa ( ).
+V iy.
+ = hay.
+ %spa ( ).
+M pume ix.
+ = ol el punh naj ix.
+ %spa se va caer ella.
+J ilbi ta sk'e pum ix.
+ = ilb'il k'eta punh naj ix.
+ %spa con cuidado no se va caer ella.
++ ruido.
+M hihi.
+ = ( ).
+ %spa ( ).
++ ruido.
+J mok chi b'ihan.
+ = mok chi' b'i'an.
+ %spa pero si es así.
+M puhunh.
+ = punh.
+ %spa ( ).
++ ruido.
+M annnnn  nanana.
+ = ( ).
+ %spa ( ).
+J hukub'ix.
+ = hukub'ix.
+ %spa entre otra semana.
+M anan anana.
+ = ( ).
+ %spa ( ).
++ ruido.
+M ix.
+ = ix.
+ %spa ella.
+V annnnnnnnnnnn nanana'.
+ = ( ).
+ %spa ( ).
++ ruido.
+J mun tzach aji.
+ = minil tzach aji.
+ %spa hay que estar quieto.
++ ruido.
+M ¿tax junchi'?
+ = ¿tas junchi'?
+ %spa ¿qué es ese?
++ ruido.
+J tasumlaj.
+ = tas sum laj.
+ %spa saber que es.
++ ruido.
+J ak te'eli.
+ = aktej eli.
+ %spa sueltalo.
++ ruido.
+M he'.
+ = hi'.
+ %spa si.
++ ruido.
+M ix topat kin.
+ = ix tob'at k'e'en.
+ %spa se regó.
++ ruido.
+J nhju.
+ = ¿tasyuj?
+ %spa ¿por qué?
++ ruido.
+V ak'an.
+ = ak'an.
+ %spa esta bien dale
++ ruido.
+V aaaaaaheeeeeeen.
+ = ( ).
+ %spa ( ).
++ ruido.
+V kag'an.
+ = kak' an.
+ %spa jugamos pues.
++ ruido.
+V haaaaaaaaaaan.
+ = ( ).
+ %spa ( ).
++ ruido.
+J ben ix b'atanh k'enan.
+ = weno ix b'atanh t'ay k'en an.
+ %spa bueno anda con ello entonces.
++ ruido.
+J x b'at b'ay turonh.
+ = ( ).
+ %spa ( ).
+U xuba antil.
+ = X antil.
+ %spa J.
+J huu.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+J bahuch yol k'a' ni.
+ = wak'uch yol k'ak' ni'i.
+ %spa lo voy a quemar ve.
+U xuban antil.
+ = X antil.
+ %spa J.
++ ruido.
+J huhu.
+ = hoy.
+ %spa ¿qué?
++ ruido.
+V i'.
+ = ( ).
+ %spa ( ).
++ ruido.
+M tox biga to.
+ = toxo ix wik'a yo.
+ %spa ya lo tengo.
++ ruido.
+M ixin kacha'
+ = ixin jacha'.
+ %spa lo arrastré.
++ ruido.
+U chab'ok ketzal in kantela nu.
+ = ( ).
+ %spa dame dos quetzales de candelas.
++ ruido.
+J chab' ketzal.
+ = ( ).
+ %spa dos qutzal.
+M ux.
+ = junxo.
+ %spa otro.
++ ( ).
+V aaan nananan.
+ = ( ).
+ %spa ( ).
+M uxo.
+ = junxo.
+ %spa otro.
+U hi' totoni.
+ = hi' totoni.
+ %spa si asi es.
+V mahay malaj.
+ = ma'ay malaj
+ %spa no, no hay.
++ ruido.
++ ( ).
+M o.
+ = ¿hoy?
+ %spa ¿qué?
+V unxo tat...
+ = junxo t'ay...
+ %spa otro a...
++ ruido.
+M ho.
+ = ¿hoy?
+ %spa ¿qué?
+V tig.
+ = t'ay tik.
+ %spa aquí.
++ ruido.
+M hin mukemi.
+ = hin mukimi.
+ %spa lo voy a esconder.
+V haaaaaaaaaaaaaaaa.
+ = haaaaaaaan
+ %spa ( ).
+M ubab xa e'
+ = wak' jakxo et'ok.
+ %spa voy a jugar otro poco contigo.
+U hin hulik' k'i yalanh k'i aya.
+ = ¿may winh hin nul'ej hulik' t'ayac?.
+ %spa ¿ mi heermano no pasó mi hermano contigo?
+M ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+J malaj binh hulik'i.
+ = malaj winh hulik'i.
+ %spa no vino él.
+M ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+M ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+M ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+J malaj binh tzulik'i.
+ = malaj winh tzulik'i.
+ %spa no, él no ha pasado
+V hanan an an   haan.
+ = ( ).
+ %spa ( ).
++ ruido.
+J hik' chim tik hach.
+ = ( ).
+ %spa ( ).
++ ruido.
+V annnnnnnnnnnnnnn.
+ = ( ).
+ %spa ( ).
++ ruido.
++ ( ).
+U ma jun slolo' ix
+ = man junok slolo' ix.
+ %spa compra un dulce a ella.
++ ruido.
+M ( ).
+ = ( ).
+ %spa ( ).
+V hannnnnnnnn.
+ = ( ).
+ %spa ( ).
+M keta ix.
+ = wan sk'eta ix.
+ %spa ella está subiendo.
++ ruido.
+V ha kinxooooo
+ = hokinxo.
+ %spa mintras que yo.
++ ruido.
+M han.
+ = ( ).
+ %spa ( ).
++ ruido.
+M hahan.
+ = ( ).
+ %spa ( ).
++ ruido.
+V ay haxo ta chi'.
+ = haxo t'ay chi'.
+ %spa ahora es por allá
++ ruido.
+V axo ch.
+ = haxo hikchi'.
+ %spa ese es el tuyo ahora.
++ ruido.
+U okinxum.
+ = okxom tato ha'in.
+ %spa peor si yo fuera.
++ ruido.
+M ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+U chab'il.
+ = schab'il.
+ %spa los dos.
++ ruido.
+U he tob' yuj nhej xi.
+ = he tob' yojnhej heb' xi.
+ %spa dicen que solo por ellos.
++ ruido.
+V eyi'.
+ = b'eyi.
+ %spa camina.
++ ruido.
+J ha'in jak hanheja in b'on.
+ = ha'in laj jab'o hanheja' hin b'o'ani.
+ %spa yo en cambio aun sigo haciendo.
++ ruido.
+U tza jak b'ay tu'.
+ = tza jak t'ay chi'.
+ %spa hay que abrir aya.
++ ruido del cartón.
+M cihpo'
+ = tzin b'o'o.
+ %spa lo hago.
++ ruido.
+V ni.
+ = ni'i.
+ %spa tené.
++ ruido.
+M an.
+ = ( ).
+ %spa ( ).
++ ruido.
+U ¿malaj?
+ = ¿malaj?
+ %spa ¿no hay?
+V ko b'a k'i ix ta chi ta chi.
+ = ko b'ach k'i ix t'ay chi.
+ %spa subimosla a ella allá.
+U ( ).
++ ruido.
+V annanan
+ = ( ).
+ %spa ( ).
++ ruido.
+U ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+U yol ha nhi' tzak' ( ).
+ = yol ha nhi'. ( )
+ %spa dentro de tu naris. ( ).
++ ruido.
++ ( ).
+U ija sk'anb'e ix J tas yuj.
+ = ijan sk'anb'ej ix X tasyu'uj.
+ %spa iva a preguntar J el por qué
+V ochae.
+ = ochanhek.
+ %spa pasen adelante.
++ ruido.
++ ( ).
+V um max k'ela ix.
+ = max k'elaj ix.
+ %spa no sebe ella.
+J elta punh naj yet' ix.
+ = elta punhnaj ix.
+ %spa cuidado no se va caer ella.
+V ixta'.
+ = ixta'.
+ %spa dejamoslo.
+U aha.
+ = ah.
+ %spa bueno.
++ ruido.
+J hi.
+ = hi'.
+ %spa sí.
+J tzin aba o chi.
+ = tzin awaj ochi.
+ %spa te llamo.
++ ruido.
+U tz'elk'uchi.
+ = tzach elk'uchi.
+ %spa hay llegas.
++ ruido.
+V mahay.
+ = ma'ay.
+ %spa no
+U hi'an.
+ = hi'an.
+ %spa si entonces.
++ ruido.
+J hi' tzina nakuti.
+ = hi' tzina nakuti.
+ %spa si hay te acuerdass de mi.
++ ruido.
+M ( ).
+ = ( ).
+ %spa ( ).
+U hanhej balaheb' chi.
+ = hanhejwala heb' chi'.
+ %spa simpre son ellos.
++ ruido.
+M nh.
+ = ( ).
+ %spa ( ).
++ ruido.
+M tonh.
+ = ponh.
+ %spa ( ).
++ ruido.
+M k'unh.
+ = ( ).
+ %spa ( ).
++ ruido.
+M teta ix mam.
+ = kik'ita ix nunin.
+ %spa sabimosla a ella mamá.
++ ruido.
+J hoy.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+V tek'e ix.
+ = kik'i ix.
+ %spa subamos a ella.
++ ruido.
+J ¿hoy?
+ = ¿hoy?
+ %spa ¿qué?
+X ae.
+ = ( ).
+ %spa ( ).
+J ke ix.
+ = sk'eta ix.
+ %spa subir a ella.
+M ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+V keta ix tay tik.
+ = sk'eta ix t'ay tik.
+ %spa sibir a ella aquí.
+M ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+J may hat'a chi tzex el yet' ix.
+ = ma'ay hat'ay chi tzex el yet' ix.
+ %spa no, salen con ella allá.
++ ruido.
+V nh.
+ = weno.
+ %spa bueno.
++ ruido.
+J morf ol elta ix t'a k'elan tzila' eltix.
+ = moj ol elta ixtik k'elan tzila' ma'ay.
+ %spa ¿es mejor que en este lado se va voltearr no?
+A ix.
+ = elta ix.
+ %spa no se va caer ella.
++ ruido.
+A elta punhnaj ix he yuj moktato sk'e punh ix ol yak' syaya' ix.
+ = k'eta ponhnaj ix he yu'uj moktatoto sk'e punhnaj ix ol yab' 
+                sya'il ix.
+ %spa no se va caer ella por ustedes si se cae ella se va golpear.
++ ruido.
+M may.
+ = ma'ay.
+ %spa no.
+A elta punhna ix.
+ = elta punhnaj ix.
+ %spa cuidado no se va caer ella.
++ ruido.
+M ma'ay ma'ay.
+ = ma'ay, ma'ay.
+ %spa no, no.
++ ruido.
+M hahan
+ = ( ).
+ %spa ( ).
++ ruido.
+M hanananan.
+ = ( ).
+ %spa ( ).
+A ixtunta xam heknak ix.
+ = ixtunta cham hekan ix.
+ %spa eso es hay que arrastrala bien a ella.
+M hanananananananananana.
+ = ( ).
+ %spa ( ).
++ ruido.
+M hananananane.
+ = ( ).
+ %spa ( ).
++ ruido.
+M haaaaaaaaaaaaaaaa
+ = ( ).
+ %spa ( ).
++ ruido.
+M aaaaaaaa nana.
+ = ( ).
+ %spa ( ).
++ ruido.
+J kotanh t'a ch'ahati.
+ = kotanh t'ay ch'ayantik.
+ %spa venite aquí donde esta mojado.
++ ruido.
+V he.
+ = ay.
+ %spa ( ).
++ ruido.
+A al ix.
+ = al ix.
+ %spa ella pesa.
++ ruido.
+M oye.
+ = ¿hoy?
+ %spa ¿qué?
+V aktehel ix.
+ = aktej el ix.
+ %spa sueltala ella.
++ ruido.
+V ba yayiy ix.
+ = wal yalil ix.
+ %spa como pesa ella.
+M uk xoha chi.
+ = ek xuch ix.
+ %spa llevala  ella adentro..
++ ruido.
+V aaaaaaaanananan.
+ = ( ).
+ %spa ( ).
++ ruido.
+V aaaaaanananan.
+ = ( ).
+ %spa ( ).
++ ruido.
+V aaaaaaaaanananana.
+ = ( ).
+ %spa ( ).
++ ruido.
+A tiha'.
+ = t'inhan.
+ %spa recto.
+V nan.
+ = hann.
+ %spa ( ):
++ ruido.
+V ho.
+ = ¿hoy?
+ %spa ¿qué?
+A a chi.
+ = t'ay chi'
+ %spa allí.
++ ruido.
+A chi tzekn chi tzex ek' yet' ix.
+ = t'ay chi' tze yek ix ni'i t'ay chi' tzex ek' yet' ix.
+ %spa allí arrastran a ella ve allá.
++ ruido.
++ una persona está toseando.
+J ik' xuta ix t'a chik.
+ = ik' xuchta ix t'ay tik.
+ %spa traela ella aquí.
++ ruido por M .
+J nherxuch ta ix tik.
+ = nherxuch ta ix t'ay tik.
+ %spa arrastrala a ella aquí.
++ ( ).
+V nh
+ = ¿hoy?
+ %spa ¿qué?
+J i'uta ix kut ix ta ti.
+ = ik'uchta ix ikut ix t'ay tik.
+ %spa pasala ella traela ella aquí.
++ ruido.
+J hat'a sat ix tzach koti.
+ = ha t'ay sat ix tzach koti.
+ %spa pasate en frente de ella.
++ ( ).
++ ruido del cartón.
+J ixtunta' eso nherxuta inh an.
+ = ichaton chi', nherxuchta winh an.
+ %spa asi es,arrastrala a ella pues ahora.
+V haahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+ = ( ).
+ %spa ( ).
+M ¿ta tik?
+ = ¿t'ay tik?
+ %spa ¿aquí?
++ ruido.
+V haaaanana.
+ = ( ).
+ %spa ( ).
++ ruido.
+V haaaaaaaaaaaaan.
+ = ( ).
+ %spa ( ).
+M ( ).
+ = ( ).
+ %spa ( ).
+J mahach em betz' betz' an ma.
+ = manhach em wetz' wetz' an ma.
+ %spa no hay que sobar en sima de ella.
++ ruido.
+V heeeheeeeeeeeeeeeeeeeeeenanana'.
+ = ( ).
+ %spa ( ).
++ ruido.
+V uhuhuuun.
+ = ( ).
+ %spa ( ).
++ ruido.
+V xte.
+ = xit.
+ %spa hola.
++ ruido.
+V xta.
+ = xit.
+ %spa hola.
++ ruido.
+M ( ).
+ = ( ).
+ %spa ( ).
+V toxi xa ch'ak' pum.
+ = ¿tas yuj ix y'ak' a punh?
+ %spa ¿por qué caiste?
++ ruido.
+V heb'i.
+ = ab'i.
+ %spa oye.
++ ruido.
+V pum hebi pume.
+ = ¿emach punhnaj ewi?
+ %spa ¿caiste ayer?
++ ruido.
+V haaaaaaaaaaaaaaaanana.
+ = ( ).
+ %spa ( ).
++ ruido.
+M hannnn.
+ = ( ).
+ %spa ( ).
+V pek' bexo.
+ = pek' tz'ob'.
+ %spa tú solo quieres beso.
++ ruido.
+M hey.
+ = ( ).
+ %spa ( ).
++ ruido.
+V pek bexo.
+ = pek' tz'ob.
+ %spa tú solo quieres beso.
++ ruido.
+M han.
+ = ( ).
+ %spa ( ).
++ ( ).
++ ruido.
+M titi.
+ = ( ).
+ %spa ( ).
+V ahan.
+ = ( ).
+ %spa ( ).
+V m m mach pat...
+ = manhach b'at...
+ %spa no te vas.
++ ruido.
+V ...k'elan, mahach pzt kila'.
+ = ...k'elan manhach b'at k'elan.
+ %spa ...voltear no voeteas.
++ ruido.
+M ax ba.
+ = hach weka'.
+ %spa te empujo.
+J kotokab' k'elan ix to ban yelta spoto ix.
+ = kotokab' k'elan ix to wan yelta yechel ix.
+ %spa que se voltea ella es que están tomando la foto de ella.
++ ruido.
+J hiii tz'elta he poto.
+ = hi tz'elta he yechel.
+ %spa están sacando sus fotos.
++ ( ).
+J hiii benasbal eso ixtik ni.
+ = hi te wach' ichatontik ni'i.
+ %spa ho calidad eso asi es.
++ ruido.
+X inye.
+ = ( ).
+ %spa ( ).
++ ruido.
+X iye.
+ = ( ).
+ %spa ( ).
++ ruido.
+J ixtik ( ) ahim ab' t'a ta b'olxax.
+ = ixtik tzach aji ak'im ha k'ab' t'aya b'olxax.
+ %spa mete tus manos en tu bolsa y debes de estar así.
+X ane.
+ = ( ).
+ %spa ( ).
+X nne.
+ = ( ).
+ %spa ( ).
++ ruido.
+J t'a ha b'olxax.
+ = ta' ha b'olxax.
+ %spa en tu bolsa.
++ ruido.
+M nh.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+M makxala.
+ = manhxalaj.
+ %spa ya no hay.
+J ¿hoy?
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+J munhxalaj.
+ = manhxalaj.
+ %spa ya no hay.
+M ach.
+ = ha'ach.
+ %spa tú
++ ruido.
+M ¿yo tom malaj sb'olxaxil kak'?
+ = ¿yo tom malaj sb'olxaxil k'apak?
+ %spa ¿a poco  no tiene bolsa?
++ ruido.
+M o.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
++ J está riendo y hablando.
+J tom ma sb'olxaxil k'aaa.
+ = ¿tom may sb'olxaxil k'apak?
+ %spa ¿así no tiene bolsa?
++ ruido.
++ ruido.
++ se escuca niñas hablando.
++ ( ).
++ ruido.
+M jachix han.
+ = jach ix an.
+ %spa arrastrala a ella entonces.
++ ruido.
+V ig'b'ati.
+ = ik'b'ati.
+ %spa llevalo.
+J akek xi an ak'exi an ak'ekx.
+ = ak'ek' xi an ak'ek xi.
+ %spa hagan de nuevo hagan.
++ ruido.
+V haaaaaaaaan han han han han.
+ = ( ).
+ %spa ( ).
+J t'a tik tza jachik ihan has nan ix to b'ach' ilani'.
+ = t'a tik tze jachik' ix yik wach' tz'aj kilani.
+ %spa aqui arrastran a ella para que se ve mejor
+V haaaaaaaaan.
+ = ( ).
+ %spa ( ).
++ ruido.
+M annn.
+ = ( ).
+ %spa ( ).
+J2 manh ik'b'at ixitik tamanh ma  ol k'etalaj ix, t'a chi tza 
+                jachik' ix.
+ = manh hik'italaj ix t'a tik ta ma'ay manh ol k'etalaj ix, t'a 
+                chi tza jachb'at ix.
+ %spa no hay que subira ella aquí porque no van a poder subir ella, 
+                arrastren ella allá.
++ ruido.
+M ach el ix.
+ = jachil ix.
+ %spa arrastala a ella.
+V ol k'eta ix ta tik.
+ = ol k'eta ix t'a tik.
+ %spa va poder subir ella aquí.
+J mahay.
+ = ma'ay.
+ %spa no.
++ ruido.
+J hat'a chi tze jach b'eyek' ix.
+ = ha t'ay chi' tze jach b'eyek' ix.
+ %spa allí arrastren a ella.
++ ruido.
+V amme.
+ = hannnnnn.
+ %spa ( ).
+J ( ) tzuyan ix.
+ = k'eta tzuynaj ix.
+ %spa no se vaya a caer ella.
++ ruido.
+J keta tzuyna ix.
+ = k'eta tzuynaj ix.
+ %spa no se vaya a caer ella.
++ ruido.
+M ha ixin k'unb'i.
+ = ay ixin k'unb'i.
+ %spa hay me cansé.
++ ruido.
+M ainti at'.
+ = a'intik, tik tzin b'ati.
+ %spa yo ya me voy.
++ ruido.
+M ati.
+ = hin b'atok.
+ %spa me voy.
++ ruido.
+V i.
+ = ay.
+ %spa ( ).
++ ruido.
++ ruido.
+V lematz.
+ = lemach.
+ %spa vení.
++ ruido.
+V ko jachxi ix.
+ = ko jach xi ix.
+ %spa arrastremosla a ella de nuevo.
++ ruido
+M ayyyyyynhnhe.
+ = ma'ay.
+ %spa no.
+U ¿tom ix yak'xi ix?
+ = ¿tom ix yak' xi ix?
+ %spa ¿ella le dovolvió?
+V kach'an
+ = kak' xi an.
+ %spa ¡hagamos de nuevo!
++ ruido.
+V ¿batzin nena?
+ = ¿watzin nene´?
+ %spa ¿nena es bonito?
++ ruido.
+J jchixi ix an t'a ti sk'eta ix.
+ = jach xi ix an t'ay tik sk'eta ix.
+ %spa arrastren y aquí lo suben a ella.
++ ( ).
+M mam.
+ = nunin.
+ %spa mamá
+J noho.
+ = ma'ay.
+ %spa no.
+V ayyyyyyyyyyyyynhnh nh nh.
+ = ( ).
+ %spa ( ).
+M mam.
+ = nunin.
+ %spa mamá.
++ ( ).
+J ¿tas?
+ = ¿tas?
+ %spa ¿qué?
++ ruido.
+U ayach.
+ = b'ajach.
+ %spa ¿dónde estás?
+M ma.
+ = nunin.
+ %spa mamá.
++ ruido.
+J jun kuchara yo'o.
+ = jun cuchara yo'ol.
+ %spa una cuchara cabe adentro.
+U ha yumal baj sal trope.
+ = ha yumal winh manh wal kuywum unin hoklaj.
+ %spa es el papel del quien nos muy profesor.
+V annnnnnnnnnnnnnnnnnn.
+ = ( ).
+ %spa ( ).
+U anhax.
+ = anhach.
+ %spa eres planta.
++ ruido.
+M ha.
+ = ak'.
+ %spa dame.
++ ruido.
+V nhi.
+ = nhich.
+ %spa rie.
++ ( ).
++ ruido.
+J ¿tas ha kiere?
+ = ¿tas tza nib'ej?
+ %spa ¿qué quieres?
++ hay muchos niños hablando.
+J ¿tas ha kere?
+ = ¿tas tza nib'ej?
+ %spa ¿qué quieres?
+J M .
+ = matin.
+ %spa M .
+M keta ix.
+ = sk'eta ix.
+ %spa subir a ella.
+J ¿tas kiere?
+ = ¿tas tza nib'ej?
+ %spa ¿qué quieres?
++ hay niños hablando.
+J ¿tas ha kiere?
+ = ¿tas tza nib'ej?
+ %spa ¿qué quieres?
++ ruido.
+M hin 'a
+ = tz'in an.
+ %spa entonces callate.
++ ruido.
+J ho.
+ = ¿hoy?
+ %spa ¿qué?
+M ba'i.
+ = hin wa'ok.
+ %spa quiero comer.
+V nun.
+ = nunin.
+ %spa mamá
+V wa.
+M ni.
+ = ni'i.
+ %spa tené
++ ruido.
+M hin ba.
+ = hin wa'ok.
+ %spa quiero comer.
+J ay jani.
+ = ix kani'.
+ %spa se quedo.
++ hay muchos niños hablando.
+J ni an slopil binh chi.
+ = ni yajuch slopil winhchi'.
+ %spa ves, tiene puesto su capixay.
+M ho.
+ = ¿hoy?
+ %spa ¿qué?
+J ahux lopil bi.
+ = ayuch slopil winh.
+ %spa tiene puesto su capixay.
+J aja no hiko'.
+ = ¿b'ajay nok' hiko'?
+ %spa ¿dónde está el tuyo?
+J ay pax nog' hin lopil xa chi.
+ = ay pax nok' hin lopil xa  chi.
+ %spa yo tambié tengo capixay decile.
++ ruido.
++ hay muchos niños hablando.
+J nen.
+ = nene´.
+ %spa nene.
+J in nok' hin lopiltik xa chi in kena tumin b'olxaxti.
+ = in nok' hin lopil tik xa chi, hini k'ena tumin yola b'olxaxtik.
+ %spa aquí esta mi capixay decile. aquí tienes tu dinero adentro de 
+                tu bolsa.
+U to ut'an binh.
+ = to b'ut'an winh.
+ %spa él ya está lleno.
+M m.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+M ni.
+ = ni'i.
+ %spa mira.
++ hay niños hablando.
+M nhi'.
+ = ni'i.
+ %spa mirá.
+J ¿ajayach?
+ = ¿b'ajayach?
+ %spa ¿dónde estás?
++ hay niños hablando.
+J ¿tas ha kiere ju?
+ = ¿tas tza nib'ej jun?
+ %spa ¿qué es lo que re gusta entonces?
+J ¿tas ha kere?
+ = ¿tas tza nib'ej?
+ %spa ¿qué quieres?
++ hay niños hablando.
+M uchi'.
+ = ha junchi'.
+ %spa eso es.
+J alt'a heb' binh ol yak' junok ha lolo´heb' binh.
+ = al t'ay heb' winh ol yak' junik ha lolo heb' winh.
+ %spa dele a ellos que te den dulce.
+J pero tzach loloni.
+ = palta tzach loloni.
+ %spa pero hay que hablar.
+V hahintik a chun chun.
+ = ha'inti ha tzunok, tzuno...
+ %spa yo quiero un, un...
++ hay niños hablando.
+V juntik.
+ = juntik.
+ %spa este.
+J ¿tas?
+ = ¿tas?
+ %spa ¿qué?
+V chi' ayim yo o yoy kabchochi'.
+ = ha' ayim t'ay yol kaucho chi´.
+ %spa lo que está en el plástico.
++ hay niños hablando.
+J pero aja k'en tumin chi.
+ = palta b'aja k'en tumin chi jun.
+ %spa pero dónde está el dinero.
+V ni kentij.
+ = ni k'entik.
+ %spa aquí está.
+J junrat.
+ = yik junxo b'ekanh.
+ %spa más tarde.
++ hay niños hablando.
+J junrato.
+ = yik junxo b'ekanh.
+ %spa más tarde.
+J chito tzin lolon yet' binhaj nene' tik b'ela.
+ = tikto tzin lolon yet' winhaj nene' tik b'ela.
+ %spa por el momento voy a hablr con el bebe.
+V ( ).
+ = ( ).
+ %spa ( ).
+J lonanh, ni ix kan ix nena t'a chi he yuj ni.
+ = lolonanh, ni'i ix kan ix nene' t'ay chi' he yu'uj ni.
+ %spa habla, se quedo la nena alli por ustedes miren.
++ hay niños hablando.
+J ix ajkan ix nena he yuj ni.
+ = in ix ajkan ix nene' he yu'uj ni'i.
+ %spa meren cómo se quedó la nena por ustedes .
++ hay niños hablando.
+M ho.
+ = ¿hoy?
+ %spa ¿qué?
+J nix ajkan ix nena.
+ = ni ix ajkan ix nena.
+ %spa miren se quedó la nena.
+V ni ixchi niiiiiiiiiiiiiiiiiiiiiiii i.
+ = ni ixchi ni'i.
+ %spa alli está ella mira.
++ hay niños hablando.
+J ikut ix yet ix an.
+ = ikut ix yet' ix an.
+ %spa traela ella con ella.
+J ik'i banh ix yet' ix.
+ = ik'i wanh ix yet' ix.
+ %spa lavanta ella con ella.
+V a nahan.
+ = ( ).
+ %spa ( ).
+M anan nan nan.
+ = ( ).
+ %spa ( ).
+J b'ach k'i ix yet' ix, b'ach ki ix yet' ix.
+ = b'ach k'i ix yet' ix.
+ %spa subila ella con ella.
+M hananan hananane.
+ = ( ).
+ %spa ( ).
+J agip xa chi t'a ix.
+ = ak' hip xa chi t'ay ix.
+ %spa dale fuerza deci a ella.
++ ruido.
+M apich.
+ = ak' hip xi.
+ %spa dale fuerza dice.
++ ruido.
+M api.
+ = ab'i.
+ %spa escucha.
++ ruido.
+V ayyyyyyyyyyyyyy.
+ = ( ).
+ %spa ( ).
++ niños hablando.
++ ( ).
++ ruido.
++ ( ).
++ ruido.
++ ( ).
+J a'ek he yip an ta kure tze yaga'.
+ = ak'ek he yip an ta tze nib'ej tze yak'a.
+ %spa dalen fuerza pues si quieren hacerlo.
+J pero ixte a.
+ = palta ixtej an.
+ %spa pero juega con ello.. .
++ ruido.
+U chabal yaluch heb' binh.
+ = chab' wal yajuch heb' winh.
+ %spa son dos ellos integrados.
+J e.
+ = ni'i.
+ %spa tené.
++ ( ).
+J ik'ilta ix an.
+ = ik'ilta ix an.
+ %spa sacala ell pues.
+U makte' t'a istalach.
+ = makte' mato kistalach.
+ %spa cierra o eres tonto.
++ ruido.
+U hahach yonh.
+ = ha'ach yonh.
+ %spa si eres tú.
+M hannnnnnnnnnnnnn.
+ = ( ).
+ %spa ( ).
++ ruido del cartón.
+V b'achuch yet' inh ma.
+ = b'achuch yet' winh ma.
+ %spa hay que acarrear con el.
+V ha'itik pelo olak'in...
+ = ha'intik palta ol hak' hin...
+ %spa yo, pero me vas a dar mi...
+M hahi.
+ = ha'intik.
+ %spa yo.
+M a ha'intik.
+ = ha'intik.
+ %spa yo.
++ ruido.
+M a ti.
+ = ha'intik.
+ %spa yo.
+V ko lolo'.
+ = ko lolo'.
+ %spa nuestro dulce.
+J ol bak' ha lolo' pero tato tzach loloni.
+ = ol wak' ha lolo' palta lolonanh an.
+ %spa te voy a dar dulce pero hay que hablar.
+U hay.
+ = ma'ay.
+ %spa no.
+U anhe ba juntza anh anhtik.
+ = hanhelawal juntzanh anh anhtik.
+ %spa solo estas plantas.
+M e.
+ = inye.
+ %spa bueno.
+J lolonanhek.
+ = lolonanhek.
+ %spa hable.
+M ixs.
+ = ix.
+ %spa ella.
+U ( ).
+ = ( ).
+ %spa ( ).
+J sakana chi'.
+ = sak'ena chi'.
+ %spa que usa tu...
+U yohobal.
+ = yowal.
+ %spa está enojado.
++ ruido.
+M hi'.
+ = hi'.
+ %spa sí.
+U hi' anhjbal ha chi tato max kikil t'a in.
+ = hi' anhj wal ha chi' tato max k'ik'illaj ix t'ay winh.
+ %spa sí, siempre es asi si no la quitamos ella a él.
+V ax kena kalo.
+ = haxo k'ena karro.
+ %spa ahora tu carro.
++ ( ).
+U ma'ay t'ayin.
+ = ma'ay ha t'ayin.
+ %spa nó, es conmigo.
+U b'otz k'ak' binh.
+ = b'o'och sk'ak' winh.
+ %spa hechale el fuego de él.
+U beno ach nhejbal ach ek'i.
+ = inye palta ha'ach nhej ayach ek'i.
+ %spa está bien pero solo tienes que estar tú.
++ muchas personas hablando.
+J ¿b'a ix k'och yanta k'en?
+ = ¿b'aj ix k'och sayanta k'e'en?
+ %spa ¿dónde quedó su llanta?
+M hio.
+ = ¿hoy?
+ %spa ¿qué?
+J b'a ix k'o syanta k'e'e.
+ = ¿b'aj ix k'och syanta k'e'en?
+ %spa ¿dónde qudó la llanta?
+M ¿ho?
+ = ¿hoy?
+ %spa ¿qué?
+M pum.
+ = ( ).
+ %spa ( ).
++ ( ).
+M ni.
+ = ni'i.
+ %spa mira.
++ ( ).
+M ni chuni.
+ = ni tzunin...
+ %spa un mi...
+V ahintik ixin loloni.
+ = ha'intik ixin loloni.
+ %spa yo estuve hablando.
+U ( ).
+ = ( ).
+ %spa ( ).
+J ¿tza loloni? lolonanh yo hi ol bak' ha lolo'.
+ = ¿tzach loloni? lolonanh yujchi' ol wak' ha lolo'.
+ %spa ¿hablas? habla para eso te daré dulce.
+U tzu bik ix k'ekuchi.
+ = wal tzun wik ix k'ekuchi.
+ %spa solo um mio subió.
++ ruido.
+U ( ).
+ = ( ).
+ %spa ( ).
+U chi ban ba'an yi.
+ = chi wan wak'an yim.
+ %spa sí estoy dando de mamar.
+U ( ).
+ = ( ).
+ %spa ( ).
+M mam, mam, mam.
+ = nun, nun nun.
+ %spa mamá, mamá, mamá.
+U ¿hoy?
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+M mama i mame i.
+ = nunin, nunin...
+ %spa mamá, mamá...
++ ruido.
+J ¿que paso? ( ).
+ = ¿tas tzach ik'ani?
+ %spa ¿que te pasa?
++ ruido.
+J ¿b'ajay binh?
+ = ¿b'ajay winh?
+ %spa ¿dónde está él?
++ ruido.
+M mama.
+ = nunin.
+ %spa mamá.
++ ruido.
+J antok yik nok' tzugu'.
+ = ¿mantok ha yik no' tzuk'u'?
+ %spa ¿a poco de ello tomas?
++ ruido.
+J no.
+ = ma'ay.
+ %spa no.
+M xiya.
+ = ix hila'.
+ %spa miraste.
+J corre, corre.
+ = jechechi, jechechi.
+ %spa corre, corre.
+U ini sk'ekan heb' binh chine'ik.
+ = ini sk'ekan heb' winh chine'ik.
+ %spa allí van subiendo ellos ahora.
+J ixik t'a chin.
+ = ixik t'ay chi ni'i.
+ %spa ve allá mire.
++ ruido.
+M ha'
+ = ha junchi'.
+ %spa eso es.
++ ruido.
+V cheltato nekin.
+ = xal tato ha'in ne'ik.
+ %spa ahora si yo fuese.
+J ixi o ix flore an.
+ = ik'ixkot k'ena karro an.
+ %spa de nuevo trae tu carro pues.
++ ruido.
+J nh ti tzin b'at yol.
+ = tik tzin b'at yol...
+ %spa me voy adentro...
++ ruido.
+M ti tzin ochxi.
+ = tik tzin ochxi.
+ %spa ya me voy acentro.
++ ( ).
+J konh ix a chi.
+ = konh xi t'ay chi'.
+ %spa vamos allá.
++ ( ).
+J baja heb' binak xa chi.
+ = b'ajay heb' winh winak xa chi.
+ %spa donde estan los hombres decile.
+M konhach.
+ = konhach.
+ %spa vamos.
++ ( ).
+M ( ).
+ = ( ).
+ %spa ( ).
+U ho an.
+ = hoye anh.
+ %spa cinco plantas.
+J be'e'i.
+ = we'e'i.
+ %spa brillante.
++ ruido.
+J benonh b'at k'en t'a yol ha' modem.
+ = weno sb'at k'en t'ay yol ha' ( ).
+ %spa bueno ahora se va ir en el agua ( ).
++ ruido.
+J ixik yib'anh moto a.
+ = ixik yib'anh k'en chej.
+ %spa ve en sima de lamoto.
++ ( ).
+J k'ehanh yib'anh moto.
+ = k'e'anh yib'an k'en ( ).
+ %spa montá la moto.
++ ruido.
+J ixik a nhik naj t'a chi'.
+ = ixik nhiknaj t'ay chi'.
+ %spa ve aceleradamente allá.
++ ruido.
+J elanh iba xa chi t'a ix.
+ = elanh ewin xa chi t'ay ix.
+ %spa quitate eva decile.
+M elanh eba.
+ = elanh ewin.
+ %spa eva quitate.
++ ruido.
+J elanh xa chi.
+ = elanh xa chi.
+ %spa quitate decile.
+M huhun.
+ = han.
+ %spa ( ).
++ ruido.
+V tohol.
+ = to ol.
+ %spa es que.
++ ruido.
+V ma hol kikela ix nene.
+ = manh ol kik'illaj ix nene'.
+ %spa no vamos a quitar a la nena.
++ ruido.
+V ala.
+ = elanh.
+ %spa quitate.
+J ihil ix yolb'e xa chi.
+ = ik'il ix yolb'e xa chi.
+ %spa quitala ella en el camino decile.
++ ruido.
+V han
+ = ma'ay.
+ %spa no.
++ ruido.
+V bu.
+ = nu.
+ %spa nena.
+M ikil ixolb'e.
+ = ik'il ix yolb'e.
+ %spa quitala ella en el camino.
++ ruido.
+M b'e.
+ = elanhek yolb'e.
+ %spa quitense en el camino.
+J ehanh kik.
+ = elanh t'ay tik.
+ %spa quitate au
++ ruido.
+V ( ).
+ = ( ).
+ %spa ( ).
+J i'il ix yolb'e xa chi t'a ix.
+ = ik'il ix yolb'e xa chi t'ay ix.
+ %spa quitala ella en el camino decile.
++ ruido.
+M elaj ix.
+ = max ellaj ix.
+ %spa no sale ella.
+J kik' ixil a chi.
+ = kik'il ix t'ay chi'
+ %spa pasamos  a ella allá.
++ ruido.
+J ixtik wen elanh an to sab'at binh.
+ = ixtik wach' elanh an to sb'at winh.
+ %spa así es bueno quitate entonces es que se va ir él.
++ ruido.
+J elanh to sb'at binh.
+ = elanh to sb'at winh.
+ %spa es que se va ir él quitate.
++ ruido.
+J elanh a.
+ = elanh an.
+ %spa quitate entonces.
++ ruido.
+M annn.
+ = ( ).
+ %spa ( ).
++ ruido.
+J ochanh t'a chi.
+ = ochanh t'ay chi´.
+ %spa entra alla.
++ ruido de la moto (juguete).
+J oho.
+ = ( ).
+ %spa ( ).
++ ruido.
+J nix mukil binh.
+ = ni k'en smoto winh.
+ %spa mire la moto de él.
++ ruido.
+J oho.
+ = ( )
+ %spa ( ).
++ ruido.
+J chen.
+ = t'ay chi' ni'i.
+ %spa allá mire.
++ ruido.
+J ocha t'a chi'.
+ = ochanh t'ay chi'.
+ %spa entre allá.
++ ruido.
+M annn.
+ = ( ).
+ %spa ( ).
++ ruido del la moto (juguete)
+M anan.
+ = ( ).
+ %spa ( ).
++ ruido de la moto (juguete).
+V toman hik'in pat taye.
+ = ¿tom wan hik'anb'at t'ay heb'?
+ %spa ¿estás llevando para ellos?
++ ruido.
+J ix may sajina ix.
+ = ( ).
+ %spa ( ).
++ ruido de la moto(juguete).
+M ¿hoy?
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+J mahay manha na.
+ = ma'ay manha nalaj.
+ %spa no, no lo piensas.
++ ruido.
+M titit.
+ = ( ).
+ %spa ( ).
++ ruido.
+J titiiiiiiit xe chi.
+ = titit xa chi.
+ %spa titit decile.
++ ruido de la moto (juguete)
+M max keta ta ti.
+ = max k'elaj t'ay tik.
+ %spa no sube aquí.
++ ruido.
+V aaaaaa akut den
+ = akut k'e'en.
+ %spa dame la moto.
++ ruido.
++ J está chillando.
+M ik to b'elll.
+ = manto b'ela.
+ %spa espera por favor.
++ ( ).
+M anan.
+ = ( ).
+ %spa ( .)
+V ( ).
+ = ( ).
+ %spa ( ).
+J ak' junok hin jalón xa chi t'a binh.
+ = ik'in kan b'at t'ay chi' xa chi t'ay winh.
+ %spa dame un jalón decile a él.
++ ruido.
+U b'at konh ma'laj.
+ = b'at ko mak'laj...
+ %spa vamos golpear...
++ ruido.
+U ko b'a.
+ = ko b'a.
+ %spa nos.
+M hannn.
+ = ( ).
+ %spa ( ).
++ ruido.
+M ela.
+ = elanh.
+ %spa quitate.
++ ruido.
+M elanh nhe.
+ = elanh hek.
+ %spa quitense.
++ ruido.
+U hata'
+ = hata'.
+ %spa allí es.
+M tity.
+ = titit.
+ %spa ( ).
+J elanh xa chi t'ay.
+ = elanh xa t'ay.
+ %spa quitate decile.
++ ruido.
+M eyanh.
+ = elanh.
+ %spa quitate.
++ ruido.
+M eha.
+ = elanh.
+ %spa quitate.
+V aah.aa
+ = ma'ay.
+ %spa no.
++ ( ).
+M eyanh x.
+ = elanh xi.
+ %spa quitate dice.
++ ruido.
+V kiki no hin nay chunintik.
+ = kik'i nok'... in tzunin tik.
+ %spa bamos a subirlo...  mirame esto.
++ ruido.
++ M  está chillando.
+V ni kena tumin tumin.
+ = ni k'ena tumin.
+ %spa a quí esta tu dinero.
++ ruido.
+M hahan.
++ ruido.
+M aaaaan.
+ = ( ).
+ %spa ( ).
++ ruido de la moto (juguete).
+J kotanh t'a chi'.
+ = kotanh t'ay tik.
+ %spa pasate por aquí.
++ ruido de la moto (juguete).
+J julil t'a chi'.
+ = julil t'ay chi.
+ %spa tiralo allá.
+J mulil.
+ = munil.
+ %spa quieto.
++ ruido de la moto (juguete).
+J t'a chi tzach ochi'.
+ = t'ay chi' tzach ochi.
+ %spa allí hay que entrar.
+M ¿ajti?
+ = ¿b'ajti'il?
+ %spa ¿dónde?
+J t'a chi tzach ochini.
+ = t'ay chi tzach ochi ni'i.
+ %spa allí hay que entrar mira.
+M annnnnnnnnn.
+ = ( ).
+ %spa ( ).
+J mateyo.
+ = matin.
+ %spa M .
++ ruido.
+M annnn.
+ = ( ).
+ %spa ( ).
++ ruido.
+M annnn.
+ = ( ).
+ %spa ( ).
+V ni ken embax.
+ = ni k'en ( ).
+ %spa aquí está un embase.
+M emmi
+ = tzin emi.
+ %spa me bajo.
++ ruido.
++ ruido de la moto (juguete).
++ ruido.
+M ann.
+ = ( ).
+ %spa ( ).
++ ruido.
+M ann.
+ = ( ).
+ %spa ( ).
++ ruido.
+M hannn.
+ = ( ).
+ %spa ( ).
+J hi' abix jabin.
+ = hi' ab'i ix jawi winh.
+ %spa sí, dice que vino él.
+J hab toni.
+ = ¿ab'i toni?
+ %spa ¿ya escuchaste?
++ ruido.
+J abi toni.
+ = ab'i toni.
+ %spa ya escuchaste.
++ ruido.
+V ha'ay.
+ = ma'ay.
+ %spa no.
++ ruido.
+M te k'alonh.
+ = pek' karro.
+ %spa ( ) de carro
++ ruido.
+J k'e'okin het'ok xa chi.
+ = ke'okin het'ok xa chi.
+ %spa subo contigo decile.
++ ruido.
+V nh.
+ = ( ).
+ %spa ( ).
+M ho.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+V kehokin het' ok.
+ = k'e'okin het'ok.
+ %spa subo contigo.
++ ruido.
+M hannnnnn.
+ = ( ).
+ %spa ( ).
+J tob sk'e ix het'ok.
+ = tob' sk'e ix het'ok.
+ %spa dice que sube ella contigo.
++ ruido.
+M ho.
+ = ¿hoy?
+ %spa ¿qué?
+J tob' sk'e ix het'o.
+ = tob' sk'e ix hetok'.
+ %spa dice que sube ella contigo.
++ ruido.
+M ho.
+ = ¿hoy?
+ %spa ¿qué?
+J tib' sk'e ix et'.
+ = tob' sk'e ix hetok'.
+ %spa dice que sube ella contigo.
++ ruido.
+M mahay.
+ = ma'ay.
+ %spa no.
++ ruido.
+J k'eho kab' ix edo.
+ = k'ehokab' ix et'ok.
++ ruido.
+M a.
+ = i'.
+ %spa si.
++ ruido.
+M emach.
+ = lamach.
+ %spa vení.
+J pero t'a chi olach och yet' ix.
+ = palta t'ay chi olach och yet' ix.
+ %spa pero allí vas a entrar con ella.
++ ruido.
+J meltzajanh.
+ = meltzajanh.
+ %spa date vuelta.
++ ruido.
+J meltzajanh an yo ol k'e ix het'ok yol.
+ = meltzajanh an yo ol k'e ix het' t'ay yo'ol.
+ %spa date vuelta y va a subir ella contigo adentro.
++ ruido de la moto (juguete)
+J ela.
+ = elanh.
+ %spa quitate.
+J k'ehanh k'ojan yet' binha.
+ = k'e'anh k'ojan yet' winh an.
+ %spa sube sentado con él.
++ ruido.
++ ( ).
+J nitzuch ha b'a t'a chiha.
+ = nitzuch ha b'a t'ay chi an.
+ %spa arrimate allá pues.
++ ruido.
+M han.
+ = ( ).
+ %spa ( ).
+J nitzu ha pa pel manto hach b'ato ta ni ix.
+ = nitzuch ha b'a b'ela, manto hach b'atok sakan tanhnaj ix.
+ %spa arrimate todavia no te vas se quedó ella.
++ ruido.
+J ixta.
+ = ixta.
+ %spa ya está.
+M hehi.
+ = hinye.
+ %spa bueno.
+J nitzuch ha a.
+ = nitzuch ha b'a.
+ %spa arrimate.
++ ruido.
+M nen.
+ = nene'.
+ %spa nena.
+J ni sb'at no xaja.
+ = nitxb'at ha b'a.
+ %spa arrimate.
++ ruido.
+J nitzb'at ha b'a nitzat ha a.
+ = nitzb'at ha b'a.
+ %spa arrimate.
++ ruido.
+M han.
+ = ( ).
+ %spa ( ).
+J nitza ha a.
+ = nitzb'at ha b'a.
+ %spa arrimate.
++ ruido.
+M beno yam binh an.
+ = wach' yam winh an.
+ %spa bueno agarralo él.
+J beno yam ochi.
+ = wach' yamek ochi.
+ %spa bueno juegan pues.
+A yamin lira xa chi.
+ = yamin axul xa chi.
+ %spa agarrame angelina decile.
++ ruido.
+M yame.
+ = yamin.
+ %spa agarrame.
+J yamin xa chi t'ix.
+ = yamin xa chi t'ay ix.
+ %spa agarrame decile a ella.
+M m mehi.
+ = yamin.
+ %spa agarrame.
++ ruido.
+M yohonh.
+ = yonh.
+ %spa ho.
++ ruido.
+J ¿hay?
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+M tie.
+ = ¿b'aj ti'il?
+ %spa ¿dónde?
++ ruido.
+J ochanek t'a chi ochanh t'a chi'.
+ = ochanhek t'ay chi, ochanh t'ay chi'.
+ %spa pasen allá, enta allá.
+M ha i.
+ = al ix.
+ %spa pesa ella.
++ ( ).
+J a lli tzach b'ati ni t'a chi tza ch'umb'at k'en.
+ = t'ay chi tzach b'ati ni'i t'ay chi tza ch'umb'at k'e'en.
+ %spa hay que ir allá mire endezca allá.
+M ajtil.
+ = ¿b'ajti'il?
+ %spa ¿dónde?
+J ochanh t'a chi ochanh a ch.
+ = ochanh t'ay chi, ochanh t'ay chi.
+ %spa pase allá..
++ ruido.
+M elanh.
+ = elanh.
+ %spa salite.
++ ruido.
+J ach.
+ = ¿al?
+ %spa ¿pesa?
++ ruido.
+M ( ).
+ = hi'.
+ %spa sí.
++ ruido.
+J ¿mero al?
+ = ¿wal yalil?
+ %spa ¿pesa mucho?
++ ruido.
+M nhi'.
+ = i'.
+ %spa si.
++ ruido.
+J ch'umb'at yet' binh ixtik i tik tik iba.
+ = chumb'at yet' winh ichatik, tik tik ewinh.
+ %spa manejalo con él así este eva.
++ ruido ( ).
+J maj yala.
+ = maj yallaj.
+ %spa no se pudo.
++ ruido.
+J ¿mato ha binh ha binh sk'e t'a ha patik?
+ = ¿mato ha winh sk'e t'ay ha patik?
+ %spa ¿ho es él quién sube tras de tí?
++ ruido.
+V ma.
+ = ma'ay.
+ %spa no.
++ ruido.
+J ¿tzach k'e he' binh jun?
+ = ¿tzach k'e yet' winh jun?
+ %spa ¿subes con él entonces?
++ ruido.
+J mas  tzak tak'laj ix xchumam ix.
+ = mantzak stak'laj ix schumam ix.
+ %spa dejalo ella ya no quiere.
++ ruido.
+J ixig.
+ = ixik.
+ %spa hay que ir.
++ ruido.
+J ochanh t'a chi, ochanh ti' naj a chi.
+ = ochanh t'ay chi', ochanh ti'naj t'ay chi'.
+ %spa pase allá, pase aceleradamente.
++ ruido.
+J chumam ix malaj ak'an hiko'.
+ = schumam ix malaj hak'an hiko'.
+ %spa no te importa, dejala ella.
+V ka' tanel.
+ = kak' tajnel.
+ %spa jugamos.
++ ruido.
+M ba tane'.
+ = wak' tajnel.
+ %spa voy a jugar.
++ ruido.
+M ba tane'.
+ = wak' tajnel.
+ %spa voy a jugar.
++ ruido.
+J a tajlel.
+ = ak' tajnel.
+ %spa hay que jugar.
++ ruido.
+J ik' xil ix nena tik b'ela.
+ = ik'xil ix nene' tik b'ela.
+ %spa sacala a la nene primero.
++ ruido.
+M ik'ix.
+ = ikut ix.
+ %spa traela ella.
+V may to ho ba tanel ye i.
+ = ma'ay to ol wak' tajnel yet' ix.
+ %spa no porque voy a jugar con ella.
+V tanel yet i.
+ = wak' tajnel yet' ix.
+ %spa voy a jugar con ella.
+M kut i.
+ = ikut ix.
+ %spa traela ella.
+J ma'ay no xi ix.
+ = ma'ay xi ix.
+ %spa ella dice que no.
++ ruido.
+M uni.
+ = juntik.
+ %spa este.
+J no xi ix.
+ = ma'ay xi ix.
+ %spa ella dice que no.
+M unti.
+ = junchi'.
+ %spa quiero este.
++ ruido.
+J junchi ni.
+ = jinchi ni'i.
+ %spa esa mira.
+M unchi u.
+ = junchi'.
+ %spa este.
++ ruido.
+J ¿tas junchi?
+ = ¿tas junchi?
+ %spa ¿qué es eso?
++ ruido.
+M ix ni.
+ = jun ixitik ni'i.
+ %spa esa galleta mira.
++ ruido.
+J ¿tas b'i?
+ = ¿tas b'i?
+ %spa ¿cómo se llama?
++ ruido.
+M uti.
+ = junchi'.
+ %spa ese.
++ ruido.
+J ¿tas junchi?
+ = ¿tas junchi?
+ %spa qué es eso?
++ ruido.
+M uchi.
+ = ¿junchi'?
+ %spa eso.
++ ruido.
+J machekehe.l
+ = machekel.
+ %spa no se.
++ ruido.
+J malaj k'en tumin.
+ = malaj k'en tumin.
+ %spa no hay dinero.
++ ruido.
+M ¿hoy?
+ = ¿hoy?
+ %spa ¿qué?
+J mala en tumin.
+ = malaj k'en tumin.
+ %spa no hay dinero.
+V mi la mito.
+ = ilnab' nunin.
+ %spa mamita mira.
++ ruido.
+J malaj k'en tumin.
+ = malaj k'en tumin.
+ %spa no hay dinero.
++ ruido.
+M ni tin.
+ = ni tik.
+ %spa a quí esta.
++ ruido.
+J ma'a.
+ = ma'ay.
+ %spa no.
++ ruido.
+M ni.
+ = ni'i.
+ %spa mira.
++ ruido.
++ ( ).
+M mam.
++ ruido.
+M mam.
+ = nun.
+ %spa mami.
++ ruido.
+U may b'enh tzulik' ix anita t'ayach.
+ = may b'aj tzulik ix ana t'ayach.
+ %spa no te a visitado ana alguan ves.
+M ma.
+ = nun.
+ %spa mami.
++ ruido.
+J eee malaj b'ak bal tzuk'anh.
+ = malaj b'aj tzulik' ix b'i'an.
+ %spa no nunca me a visitado ella.
+J tob' ay salajbi naj tzun.
+ = tob' ha yik  saljwi nak tzun...
+ %spa dice que cuando se lastimó un...
++ ( ).
+EquiPedro       	lemach.
+tradPedro       	vení.
+perPedro        	ben.
+U ayi xi.
+ = ay ixim...
+ %spa sí hay...
++ ( ).
+J ayik salab.
+ = ayik salajwi...
+ %spa cuando se lastimó...
+U sjoy.
+ = ¿hoy?
+ %spa ¿qué?
+J ayik'i.
+ = ayik'i.
+ %spa está.
++ ruido.
+J n say bila'.
+ = hin say wila'.
+ %spa voy a busacar.
+U bikan b'at a.
+ = wik' kan b'at an.
+ %spa lo llevo entonces.
+M ( ).
+ = ( ).
+ %spa ( ).
++ ( ).
+J ochanh t'a chi ni.
+ = ochanh t'ay  chi ni'i.
+ %spa entre allá mire.
+U to sanal ( )   tza chek yak'uch ta ha tz'ey.
+ = ( ).
+ %spa ( ).
+J ka'u kuxin xa chi.
+ = kak' howal kuxin xa chi.
+ %spa marcos peleamos decile.
+U baja binh nene'.
+ = ¿b'ajay winh nene'?
+ %spa ¿dónde está él nene?
+U iiii.
+ = hi'.
+ %spa si.
++ ( ).
++ ( ).
++ ( ).
+U b'ajach.
+ = b'ajach.
+ %spa donde estas.
++ ( ).
+U tzaba yib'xi.
+ = tzab' wal yib'xi.
+ %spa sientes mucho cuando se muve.
++ ( ).
+U ye.
+ = ¿yel?
+ %spa ¿sierto?
++ ruido.
+U aaaaaaaaaaa.
+ = ( ).
+ %spa si.
+J ini ton tik ni.
+ = ini ton tik ni'i.
+ %spa a quí está mira.
++ ruido.
+U mas niban tum laj yichan tzu...
+J hi tekanto mas nibantyak.
+ = hi' tekanto te niwanto.
+ %spa sí creo que es más grande.
++ ruido.
+U he.
+ = ni'i.
+ %spa tené.
+J yiktax binhi roni.
+ = yiktax winh hin roni.
+ %spa era de mi roni.
+U nh.
+ = telan.
+ %spa ya veo.
++ ( ).
+Pervisitante    chi tzak'uch t'a skalnab' tay ( ) ix anita bak' nak kan b'at 
+                majanil.
+Equivisitante   ha chi tzak'nab' och t'ay skal yiknhej to ha t'ay ix ana wak' 
+                nak kan b'at majanil.
+ %spa hay que intercalar con eso, solo que a ana le dí prestado.
+J hiii'.
+ = hi'.
+ %spa si.
+J hi toton ayik'i.
+ = hi' toton ayik'i.
+ %spa si está.
+J b'at yak'im ix yemxi.
+ = b'at yak'im ix yemxi.
+ %spa va ir a deja r ella cuando va a bajar.
+U aaaaa.
+ = hiye.
+ %spa bueno.
+J ixik ochanh yolpat, ochanh yol.
+ = ixik ochanh yolpat.
+ %spa ve adentro de la casa.
+U he.
+ = ichokab' chi'.
+ %spa está bien.
+J hi'.
+ = hi'.
+ %spa sí.
+U tik sbik' b'at'a.
+ = tik swik' b'at an.
+ %spa lo llevo entonces.
+J a hera a.
+ = a ichokab' chi an. an
+ %spa a bueno pues.
++ ( ).
+M babi.
+ = nunin.
+ %spa mami.
+U b'ay.
+ = ¿b'ajay?
+ %spa ¿dónde está?
+U malaj tas.
+ = malaj tas.
+ %spa no hay nada.
++ ruido.
+U ban beno xi.
+ = wan wemxi.
+ %spa ya estoy bajando.
++ ( ).
+U ban bemxi.
+ = wan wemxi.
+ %spa etoy bajando.
++ ( ).
+J ¿tas?
++ ( ).
+U ¿tas ha quier?
+ = ¿tas tza nib'ej?
+ %spa ¿qué quiéres?
++ euido.
+M mam.
+ = nun.
+ %spa mamá.
+J may mala eni tomin.
+ = ma'ay malaj k'en hin tumin.
+ %spa no, no tengo dinero.
++ ( ).
+J malaj k'en.
+ = malaj k'e'en.
+ %spa no hay dinero.
+M ma maaa.
+ = ma'ay nun.
+ %spa no mamá.
++ ruido.
+M manha nhal.
+ = man an.
+ %spa compralo pues.
+U hu.
+ = ( ).
+ %spa ( ).
++ ( ).
+M mamai.
+ = nunin.
+ %spa mamá.
+V nitikx helul linhan chi chi xi.
+ = ni tik ix elul linhan xin chi.
+ %spa a quí está salió parado le dije.
+J uy.
+ = ¿hoy?
+ %spa ¿qué?
+M nh.
+ = lem.
+ %spa ven.
++ niños gritando.
+J ¿tas?
+ = ¿tas?
+ %spa ¿qué?
+M hin yolo.
+ = hin lolo'.
+ %spa mi dulce.
+V chin tenoch k'a k'ab' ta tik.
+ = tzin tenuch hi k'ab' t'ay tik.
+ %spa me machaqué la mano aquí.
+J ma'ay.
+ = ma'ay.
+ %spa no.
+M in chayeta'.
+ = hi gayeta.
+ %spa mi galleta.
+J ma'ay may ma'.
+ = ma'ay ma.
+ %spa ni hijo.
+M yayeta.
+ = gayeta.
+ %spa galleta.
+J ma'ay.
+ = ma'ay.
+ %spa no.
+M yayet a.
+ = gayeta.
+ %spa galleta.
++ ruido.
+J ma'a.
+ = ma'ay.
+ %spa no.
+M yayet a.
+ = gayeta.
+ %spa galleta.
++ ( ).
+J chklaj, chuklaj, chukla ixim.
+ = chuklaj ixim.
+ %spa está mal esa galleta.
++ niños hablando.
+M ( ).
+ = ( ).
+ %spa ( ).
+M axi ch'i.
+ = ha ixim chi'.
+ %spa es esa galleta.
++ ( ).
++ niños gritando.
+J pero malaj k'ena tumin.
+ = palta malaj k'ena tumin.
+ %spa pero no tienes dinero.
+M ai.
+ = ¿hoy?
+ %spa ¿qué?
+J alt'a binh alt'a baj kuxin ak' junin tumin xa chi t'a binh.
+ = al t'ay winhaj kuxin ak' junin tumun xa chi t'ay winh.
+ %spa dame un  dinero decile a marcos.
++ niños hablando.
+J toko manan ixi.
+ = yo olko manan ixim.
+ %spa y vamos a comprarlo.
+V konhach.
+ = konhach.
+ %spa vamos.
+J alt'a binh.
+ = al t'ay winh.
+ %spa decile a él.
+V ol pat kal ta binh.
+ = ol b'at kal t'ay winh.
+ %spa vamos ir a decir con él.
+J hi.
+ = hi'.
+ %spa sí.
+J alt'a binh an, at'a bi.
+ = al t'a winh an, al t'ay winh.
+ %spa decile a él pues decile a él.
++ nihablando.
+V alka winh hi.
+ = al t'ay winh ni.
+ %spa decile a él mire.
++ ruido.
+V ol bak'an ixim yo ol bak' im.
+ = ol wak'an ixim b'i'an ol wak' ixim.
+ %spa y voy a dar tu galleta te lo daré.
++ ruido.
+M ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+J hi' lolonanh an.
+ = hi' lolonanh an.
+ %spa sí hablá pues.
++ niños hablando.
+V a chunin tumin xa chi.
+ = ak' tzunok hin tumini xa chi.
+ %spa dame un dinero decile.
++ ( ).
++ ruido.
+M ma'aya.
+ = ma'ay.
+ %spa no.
++ ruido.
+J ma'aya.
+ = ma'ay.
+ %spa no.
++ ruido.
+J ¿tas yujun?
+ = ¿tas yuj jun?
+ %spa ¿y por qué?
++ ruido.
+M may.
+ = ma'ay.
+ %spa no.
++ ruido.
+J ¿tas yuj jun?
+ = ¿tas yuj jun?
+ %spa ¿ por qué?
++ niños hablando.
+J hiiiiiii.
+ = ¡hi'!
+ %spa ¡sí!
+M ha'ay.
+ = ma'ay.
+ %spa no.
+V iiiiiii.
+ = ¡hi'!
+ %spa ¡sí!
+J ¿tas yujun?
+ = ¿tas yuj jun?
+ %spa ¿y por qué?
++ ( ).
+V ixtato ol ko manhal ix.
+ = ixto ta' olko manan ixixm.
+ %spa y después vamos a comprarlo.
+J hi kere balan t'a ixim b'ian.
+ = hi' yo olko manan ixim b'i'an.
+ %spa sí y vamos a comprarlo tu galleta.
++ ( ).
+J nene.
+ = nene'.
+ %spa nene.
+V al ta binh.
+ = al t'ay winh.
+ %spa decile a él pues.
++ hay personas hablando.
+J abtej baj tono an.
+ = awtej winhaj antun an.
+ %spa llamá a antonio pues.
+M ( ).
+ = ¿hoy?
+ %spa ¿qué?
+J ol yak'en binh abte baj tono  ol yak' k'en bi.
+ = ol yak' k'en winh awtej winhaj tono ol yak' k'en winh.
+ %spa llamá a antonio te va a dar dinero.
++ ( ).
+J abtej binh.
+V hato t'a chi och.
+ = hato t'ay chi' ol...
+ %spa hasta allá vas...
++ ruido.
+V hat ta chi'.
+ = ha t'ay chi'.
+ %spa es allá.
+J2 t'a tik tzach abaji t'a tik t'a chi ayuch binh t'a yol cuarto 
+                awajanh.
+ = t'ay tik tzach awaji t'ay ayuch winh t'ay b'aj swayi.
+ %spa aquí hay que llamarle esta él en su cuarto.
++ ( ).
+J tonooooo xa chi.
+ = tono xa chi.
+ %spa antonio decile.
++ ruido.
+V t'a tik xam binh ni.
+ = t'ay tik ix em winh ni'i.
+ %spa aquí se bajó él mira.
++ ruido.
+J maaaa.
+ = ma'ay.
+ %spa no.
++ ruido ( ).
+V nihiiii.
+ = ni'i.
+ %spa mará.
++ ( ).
++ ( ).
+J malaj binh ta'.
+ = malaj winh ta'.
+ %spa allí no está él.
++ ruido.
+J abajanh an.
+ = abajanh an.
+ %spa gritá pues.
++ ruido.
+U yama.
+ = yama'.
+ %spa agarralo.
++ ( ).
+M tono.
+ = antun.
+ %spa antonio.
++ ( ).
++ ruido.
+J awajanh.
+ = awajanh.
+ %spa llamale.
++ ruido.
+M tolo.
+ = antun.( tono).
+ %spa antonio.
+J lem xa chi.
+ = lemach xa chi.
+ %spa vení decile.
++ ruido.
++ ruido.
+J ikut hi tumin xa ch.
+ = ikut hin tumin xa chi.
+ %spa traeme dinero decile.
++ ruido.
++ ( ).
++ ruido.
+J ikut hin tumin xa chi.
+ = ikut hin tumin xa chi.
+ %spa traeme dinero decile.
+U iiyay.
+ = ( ).
+ %spa ( ).
++ niños hablando.
+M ni.
+ = ilnab'i.
+ %spa mira.
++ J rie.
+J ¿tas junchi tas junchi?
+ = ¿tas junchi'?
+ %spa ¿qué es eso?
++ J rie.
++ ruido.
+M uchi'.
+ = junchi'.
+ %spa eso.
++ ruido.
+M hat hato ta chi olx kot juntik ta hin kamixtik.
+ = hato t'ay chi ol och juntik t'a hin kamix tik.
+ %spa hasta allí me van ha poner esto en mi camisa..
++ ruido.
+J atzu kach
+ = ( ).
+ %spa ( ).
++ ruido.
+J hiiiiii.
+ = hi.
+ %spa ya veo.
+U xak'ta emi ole te tok'i k'apak.
+ = xak'ta emi ol he tok'i k'apak.
+ %spa no vas soltar vas a jalar la ropa.
+M mm.
+ = ni'i.
+M hik bom ixchi'.
+ = hin stonh ix.
+ %spa aquí esta su medalla.
++ niños hablando.
+J kamix ix.
+ = skamix ix.
+ %spa la camisa de ella.
+M hihiy.
+ = hi'.
+ %spa si.
+J ni skamix ix ni.
+ = ni skamix iz ni'i.
+ %spa la camisa de ella ve.}
+M nh.
+ = ( ).
+ %spa ( ).
+M ba put.
+ = wak' put.
+ %spa voy a jugar fut.
++ ( ).
+M ab.
+ = haw. .
+ %spa mau.
++ ruido.
+J ho.
+ = ¿hoy?
+ %spa ¿qué?
+M hihi hihi.
+ = ( ).
+ %spa ( ).
+J ichatik paxi.
+M hix hana'.
+ = ix ana.
+ %spa ana.
++ ruido.
+J b'a ix ana.
+ = ¿b'ajay ix ana?
+ %spa ¿dónde está ana?
++ ruido.
+M ni'i.
+ = ni'i.
+ %spa mira.
++ ruido.
+M an ni yon x ne.
+ = ( )  yo ni'i.
+ %spa ( ) morá.
+J anle'.
+ = ( ).
+ %spa ( ).
++ J está riendo.
+M ix ana.
+ = yak'an ix ana.
+ %spa hacía ana.
+J ¿chajtil yan ix?
+ = ¿chajtil yak'an ix?
+ %spa ¿cómo hacía ella'
++ ruido.
+M yaya' ixchi ixo ix ana.
+ = ay ichachi yak'a n ix ana.
+ %spa hay hacía ana.
++ personas hablando.
+J ¿chajtil yak'an ix ana chi'?
+ = ¿chajtil yak'an ix ana chi?
+ %spa ¿cómo hacía ana?
+M oy hoy janchin chin.
++ J rie.
+J ( ).
+ = ( ).
+ %spa ( ).
++ niños hablando.
+J ayoyo ya'an ix.
+ = ¡ay yo! yak'an ix.
+ %spa ¡hay dios! decía ella.
+M hi'.
+ = hi'.
+ %spa si.
+J tajti.
+ = ¿chajti'il?
+ %spa ¿cómo es?
+M hoyo ya'ani.
+ = ( ). yak'ani.
+ %spa ( ) decía.
+J yan.
+ = yak'ani.
+ %spa hacía.
+J uno xa chi an.
+ = ju'un xa chi an.
+ %spa uno decile.
+M unyo.
+ = ju'un.
+ %spa uno.
++ ruido.
+J dos.
+ = chab'.
+ %spa dos.
++ ruido.
+M dohox nhe.
+ = chab'.
+ %spa dos.
+J tres.
+ = oxe'.
+ %spa tres.
++ niños hablando.
+M axtehok.
+ = ¿icha tik?
+ %spa ¿así?
++ ruido.
+J al an alan ixtikni.
+ = al an ichatik ni'i.
+ %spa decile pues así mira.
++ ruido.
+J b'is nab' ha gab'.
+ = b'isnab' ha k'ab'
+ %spa cuente tu mano.
++ ruido.
++ ( ).
++ ruido.
+J uno.
+ = ju'un.
+ %spa uno.
++ ruido.
+J chanh tzalan.
+ = canh tzal an.
+ %spa decile recio pues.
++ ruido.
+M une.
+ = ju'un.
+ %spa uno.
++ ruido.
+J uno xa chi.
+ = ju'un xa chi.
+ %spa uno decile.
++ ( ).
+M uno chi.
+ = jun chi'.
+ %spa allí está uno.
++ ( ).
+J dos.
+ = chab'.
+ %spa dos.
++ ruido.
++ ruido.
+M tit.
+ = jun tik.
+ %spa este.
++ ruido.
+J dos xa chi.
+ = chab' xa chi.
+ %spa dos decile.
++ ruido.
++ ( ).
+M yox chi ye'.
+ = sachb'il chi'.
+ %spa allí va dos.
++ ruido.
+J tres.
+ = oxe'.
+ %spa tres.
+U b'al.
+ = b'al.
+ %spa pañal.
+M oxe tzi.
+ = oxe chi'.
+ %spa allí va tres.
++ ruido.
+J beno uno.
+ = weno uno.
+ %spa bueno uno.
++ ( ).
+J uno xa chi.
+ = ju'un xa chi.
+ %spa diga uno.
+M ono ti.
+ = chab' tik.
+ %spa este es uno.
++ ruido.
+J dos.
+ = chab'.
+ %spa dos.
++ ( ).
+M doxi te te.
+ = chab' chi'.
+ %spa allí va dos.
++ ( ).
+J tres.
+ = oxe'.
+ %spa tres.
+U axonhej chab' chi'.
+ = haxonhej chab' chi'.
+ %spa ya solo eso.
+M tato'.
+ = chanhe'.
+ %spa cuatro.
+U telan.
+ = telan.
+ %spa si pues.
+J cuatro.
+ = chanhe'.
+ %spa cuatro.
+U tecahu.
+ = ( ).
+ %spa ( ).
+J sinko.
+ = hoye'.
+ %spa cinco.
+U kalifa.
+ = ( ).
+ %spa ( ).
+M kubo chi',
+ = kach'ich' chi'.
+ %spa ese cubo (chicle).
+V hahintik bahilta hin xink.
+ = ha'intik wak'ilta k'en woye'.
+ %spa yo voy a dar mi cinco.
+J bentsinhko ix.
+ = k'en hoye xchawinak ix.
+ %spa el veiticinco de ella.
+J ox a sat an ch'oxa sat.
+ = ch'oxa sat an, cho'ox ha sat.
+ %spa persigná pues hay que persignar.
+V nh.
+ = ni'i.
+ %spa mira.
++ ( ).
+J oxa sat.
+ = ch'ox hasat.
+ %spa peregriná.
++ ruido.
+J ch'o hasat nek.
+ = ch'ox hasat ne'ik.
+ %spa a ver peregriná.
++ ( ).
+M ndo.
+ = junxo.
+ %spa otro.
+J ch'oxa sat.
+ = ch'ox hasat.
+ %spa peregriná.
++ ruido.
+M mahay.
+ = ma'ay.
+ %spa no.
+J ch'ox hasat.
+ = ch'ox hasat.
+ %spa peregriná.
+M hiha ay.
+ = ma'ay.
+ %spa no.
+V hahintik hahix
+ = ha'intik ha ix.
+ %spa yo es ella.
+J chukach.
+ = chukach.
+ %spa esres malo.
++ ruido.
+M hin ch'ox hin xat.
+ = hin ch'ox hinsat
+ %spa voy a persignar.
++ ruido.
+M ho ooo.
+ = ( ).
+ %spa ( ).
+J hiiii'.
+ = ¡hi'!
+ %spa ¡sí!
+M tik hoyin pomin ch'oxin xat.
+ = tik ol hin ch'ox hin sat.
+ %spa voy a persignar.
+J tumin k'ana tumin t'a binh an yo oli.
+ = k'an ha tumin t'ay winh an yo ol...
+ %spa pedí tu dinero a él pues y...
++ ruido.
+J ahin tumin kuxin xa ch.
+ = ak'in tumin kuxin xa chi.
+ %spa marcos dame dinero diga..
++ ( ).
++ ruido.
+J chanh tzal.
+ = chanh tzala'.
+ %spa decile recio.
+J ni ( )  chukach.
+ = ni'i max ha ch'oxlaj han chukach.
+ %spa mira no persignas eres malo.
++ ( ).
+J ( ).
+ = ( ).
+ %spa ( ).
+J umok xa chi an.
+ = ju'un xa chi an.
+ %spa uno decile pues.
++ ruido.
+M huno.
+ = ju'un.
+ %spa uno.
++ ( ).
+J ab'i.
+ = ab'i.
+ %spa escucha.
++ ( ).
+J pro no xi ix.
+ = palta ma'ay xi ix.
+ %spa pero ella dice que no.
++ ruido.
+J ay bira xchumam binh.
+ = ak' ( ) schumam winh.
+ %spa decile J noquiere él.
++ ruido.
+U mama.
+ = nunin.
+ %spa mamá.
+J kotanh tik.
+ = kotanh t'ay tik.
+ %spa vení aquí.
+U huuu.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+J uno xa chi.
+ = ju'un xa chi.
+ %spa uno decile..
++ ruido.
+V uno.
+ = ju'un.
+ %spa uno.
++ ruido.
+J dos xa chi.
+ = chab' xa chi.
+ %spa dos decile.
++ ruido.
+V dox.
+ = chab'.
+ %spa dos.
++ ruido.
+J tres xa chi.
+ = oxe' xa chi.
+ %spa tres decile.
+V texs.
+ = oxe'.
+ %spa tres.
++ ruido.
+J cuatro.
+ = chanhe'.
+ %spa cuatro.
++ ruido.
+V a to.
+ = chanhe'.
+ %spa cuatro.
++ ruido.
+J sinco.
+ = hoye'.
+ %spa cinco.
++ ruido.
+V chinhko.
+ = hoye'.
+ %spa cinco.
++ ruido.
+J seyis.
+ = wake'.
+ %spa seis.
+V nix kot yalanh ixn.
+ = ni skot yalanh ix ni'i.
+ %spa hay biene el colchon de ella mira.
+J hi'.
+ = hi'.
+ %spa si.
+J en a stz'ey ix xach.
+ = lem t'ay stz'ey ix xa chi.
+ %spa vení al lado de ella decile.
++ ruido.
+J kotanh an.
+ = kotanh an.
+ %spa vení pues.
++ ruido.
+M iyach.
+ = ¿b'ajay hach?
+ %spa ¿dónde estás?
++ ruido.
+V ach axto.
+ = ¿mach?  ( ).
+ %spa ¿quén?  ( ).
+V t'e laaaaaaaaaaaaa.
+ = telan.
+ %spa ya veo.
++ ruido.
+V ¿mach?
+ = ¿mach?
+ %spa ¿quién?
++ ( ).
+V chach chunchanihihi.
+ = ¿mach tzach tzuntzani?
+ %spa ¿quién te está molestando?
++ ruido.
+V edanh ta chi' xa chi.
+ = elanh t'ay chi xa chi.
+ %spa salite allá decile.
++ ( ).
+V yam ta chi'.
+ = yam t'ay chi'.
+ %spa agarra allí.
++ ruido.
+V mano xa chi.
+ = k'ab' xa chi.
+ %spa mano decile.
+U sabes que ol hil ix.
+ = ay jun bojtak, ol hil ix.
+ %spa sabes que vas ha ver a ella.
+V ikot koch koch'.
+ = ikuti kak'uchi.
+ %spa vamos a poner traelo.
+U ( ).
+ = ( ).
+ %spa ( ).
+V itz.
+ = hiko'.
+ %spa tuyo.
++ ruido.
++ ( ).
++ ruido.
+V chibn lemach.
+ = tz'in lemach.
+ %spa callate vení.
++ ruido.
+V yem t'a chihi.
+ = lem t'ay chi'.
+ %spa vní allá.
++ ruido.
++ ( ).
+V ihi ix mama' ti.
+ = ini ix nunin tik.
+ %spa aquí está mamá.
+A kut is.
+ = ikut ix.
+ %spa traela ella.
++ ( ).
+V ta tik olach kotohok.
+ = t'ay tik olach kotok.
+ %spa aquí vas a venir.
++ ruido.
+V olam hihix kot ch'akan ket'ok.
+ = ¿ol ham ik'ix kot ch'anh ket'ok?
+ %spa ¿'vas ha traer el cartón con nosotros?
++ música.
+M hobal winh ketoho.
+ = yowal winh ket'ok.
+ %spa está enojado él con nosotros.
++ música.
+M hin hahan.
+ = ( ).
+ %spa ( ).
++ ruido.
+V ko nhichoch.
+ = ko nitz xuch...
+ %spa vamos moverlo...
++ ruido.
+V ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+V k'inhbalam ix k'ocha k'anh get'.
+ = k'inh wal ham ix k'och ha k'ab' wet'ok.
+ %spa juntos y a tiepo llegó tu mano conmigo.
++ ruido.
+V bet'ok.
+ = wet'ok.
+ %spa conmigo.
++ ruido.
+V nam t'a tihi.
+ = lemach t'ay tik.
+ %spa vení conmigo.
++ ( ).
+V b'o ch'akam winh ket' mama.
+ = sb'o ch'anh winh ket' nunin.
+ %spa mamá que lo haga él con nosotros.
++ ruido.
+J tzuntzej ta ix binh.
+ = stzuntzej ta ix winh.
+ %spa pero que él no molesta ella.
++ ruido.
+V beno.
+ = weno.
+ %spa bueno.
++ ruido.
+J xa tzuntzejta ix ko nena.
+ = xa tzuntzejta ix ko nene'.
+ %spa no vayas a molestar a nuestra nena.
++ ruido.
+M beno.
+ = weno.
+ %spa bueno.
++ ruido.
+V konh k'onh.
+ = konhach, kon.
+ %spa vamos, vamos.
+J k'eta pum ix.
+ = k'eta punhnaj ix.
+ %spa no se vaya a caer ella.
++ ruido.
+M ti ti hiiii.
+ = ( ).
+ %spa ( ).
+V konhach k'onh t'a ix mama yet' ix.
+ = konhach t'ay ix nunin yet' ix.
+ %spa vamos a mamá con ella.
++ ruido.
+M hi'.
+ = hi'.
+ %spa sí.
++ ruido.
+V hi'.
+ = hi'.
+ %spa sí.
++ ruido.
+V kax t'a yoktik an xka'ix t'ax.
+ = jach t'ay yok tik an jach t'ay.
+ %spa arrastrá ella en los pies, arrastrá.
++ ruido.
+V t'a yox ti.
+ = t'ay yok ix.
+ %spa en los pies de ella.
+M nhi'.
+ = ni'i.
+ %spa a quí está.
++ ruido.
+J nh.
+ = hi'.
+ %spa sí.
++ ruido.
+M ( ).
+ = ¿hoy?
+ %spa ¿qué?
+V han.
+ = ( ).
+ %spa ( ).
+M han nanan han.
+ = ( ).
+ %spa ( ).
+V ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
++ J está cansada.
+V ay.
+ = ay.
+ %spa ( ).
+J kot ix skot ix ipanach a lista ha b'a.
+ = skot ix ipan hach nhikan tzutej ha b'a.
+ %spa hay biene ella tú tambien preparate.
++ ruido.
+J tza tonhej nab' xi ix to tonhe.
+ = ak' tajnel chi yet' ix yo tonhej...
+ %spa juega con ella y solo...
++ ruido.
+J ikut ix yet'ix
+ = ikut ix yet' ix.
+ %spa traela ella con ella.
+U ( ).
+ = ( ).
+ %spa ( ).
+M tax kex jachkut ix t'a tinh t'a tinh ni.
+ = ta sk'e ix jachkut ix t'ay tik t'ay tik ni.
+ %spa si sube ella, arrastrala ella aquí aquí mira .
++ ruido.
+V a tik.
+ = t'ay tik.
+ %spa aquí
++ ruido.
+M ti.
+ = ¿t'ay tik?
+ %spa ¿aquí?
++ ruido.
+M nh.
+ = ¿hoy?
+ %spa ¿qué?
++ ruido.
+V konh t'a ix mama yet' ix.
+ = konh t'ay ix nunin yet' ix.
+ %spa vamos a mamá con ella.
++ ruido.
+V haha.
+ = han.
+ %spa ( ).
++ ruido.
+V haha.
+ = han.
+ %spa ( ).
++ ruido.
++ ( )
+V a.
+ = han
+ %spa ( ).
++ ruido.
+M an.
+ = hannn.
+ %spa ( ).
+V ha'intik t'a chi'.
+ = h'atik t'ay chi'.
+ %spa yo allá.
++ ( ).
+J m may.
+ = ma'ay.
+ %spa no.
++ ruido.
+V ji.
+ = hi'.
+ %spa sí.
++ ( ).
+J m ma.
+ = ma'ay.
+ %spa no.
++ ( ).
+J manh hik'ilaj ix ta.
+ = manh hik'illaj ix ta'.
+ %spa no sacas a ella allá.
+U manto he.
+ = manto b'ela .
+ %spa esperate.
++ ruido.
+J ay no nono t'a ix.
+ = ay nok' nok' t'ay ix.
+ %spa ella tiene animal.
++ ( ).
++ ruido.
+U tok'al ban hin jawi.
+ = tonhj wan hin jawi.
+ %spa solo estoy llegando.
++ ( ).
+J la.
+ = ila.
+ %spa tené.
+V kag nen.
+ = kak' nene'.
+ %spa jugamos nene.
++ ruido.
+V ka ne.
+ = kak' nene'.
+ %spa jugamos nene.
+J ik'bay junok xo winh.
+ = ik'b'at junokxo winh.
+ %spa llevalo a otro hombre.
+M ak'an
+ = kak' an.
+ %spa agamos pues.
++ ruido ( ).
+M ikuti bumin.
+ = ak' junok hin tumin.
+ %spa dame un dinero.
+U hi'.
+ = ni'.
+ %spa sí.
+U b'aja nok' ti.
+ = ¿b'ajay nok' tzi'?
+ %spa ¿dónde está el perro?
+J ma.
+U m.
+ = ( ).
+ %spa ( ).
+J k'ana tumin t'a binh chi'.
+ = k'an ha tumin t'ay winh chi'.
+ %spa pedí dinero a él.
++ ruido.
+V k'ana tumin t'a binh chihi.
+ = k'an ha tumin t'ay winh chi'.
+ %spa pedí dinero a él.
+M inh chi'.
+ = winh chi'.
+ %spa ha él.
++ ( ).
+J no.
+ = ma'ay.
+ %spa no.
++ ( ).
+M ay.
+ = ma'ay.
+ %spa no.
+U ( ).
+ = ni nu.
+ %spa tené hija.
++ ( ).
+M ( ).
+ = hi'.
+ %spa sí.
+J k'ana tumin t'a binh chi.
+ = k'an ha tumin t'ay winh chi'.
+ %spa pedí tu dinero ha él
++ ruido.
++ ( ).
++ ruido.
+V kana tumin ta binh ixtato ol ko man ha chi'.
+ = k'an ha tumin t'ay winh ixtota' ol ko maman ha chi'.
+ %spa pedí tu dinero a él y despué vamos ha comprar lo que quieres.
++ ruido.
+J hi' ahin tumin kuxin xa chi.
+ = hi' ak'in tumin kuxin xa chi.
+ %spa sí dame dinero marcos decile.
++ ruido.
+M ni.
+ = ni'i.
+ %spa tené.
+J lolonanh.
+ = lolonanh.
+ %spa hablá.
++ ruido.
+M ( ).
+ = ana.
+ %spa ana.
+J lolonanh.
+ = lolonanh.
+ %spa hablá.
+M bumin.
+ = tumin.
+ %spa dinero.
+U hahachto.
+ = ha'ach tu.
+ %spa segun usted.
+M wumin
+ = tumin.
+ %spa dinero.
++ ( ).
++ ruido.
+M wumin.
+ = tumin.
+ %spa dinero.
+U ( ).
+ = ( ).
+ %spa ( ).
++ ruido.
+A m.
+ = ¿hoy?
+ %spa ¿qué?
+M wumin.
+ = tumin.
+ %spa dinero.
++ ruido.
+M tukumin.
+ = ak' tzunok hin tumin.
+ %spa dame un dinero.
+V a k'ak yol a.
+ = ak'b'at yol ha'.
+ %spa hechalo  en el agua.
+M wunin.
+ = tumin.
+ %spa dinero.
+U ay hasa.
+ = ay asa'.
+ %spa hay no.
+V ta.
+ = ¿tas?
+ %spa ¿qué?
+M wumin.
+ = tumin.
+ %spa dinero.
++ ( ).
+A malaj.
+ = malaj.
+ %spa no hay.
++ ruido.
+V ene'.
+ = nene'.
+ %spa nena.
+M tumin.
+ = tumin.
+ %spa dinero.
++ ruido.
++ ( ).
+V eno.
+ = weno.
+ %spa bueno.
++ ( ).
+M malaj k'en hin tumin.
+ = malaj k'en hin tumin.
+ %spa no tengo dinero.
++ personas hablando.
+M em pum ij.
+ = ol em punhnaj ix.
+ %spa se va ha caer ella.
+A tas ab' lamos.
+ = ¿tas hab' lamux?
+ %spa ¿qué quieres ramos?
+U cuatro edo.
+ = chanhe ol elok.
+ %spa cuatro se va ha quitar.
+M wum in.
+ = tumin.
+ %spa dinero.
++ ruido.
+U hukub'ilis b'o tek.
+ = hukub'ix sb'o te'.
+ %spa entre otra semana se va hacer.
+M naya.
+ = ma'aya.
+ %spa dije que no.
+U kuchit'es.
+ = ( ).
+ %spa ( ).
+M aya.
+ = ( ).
+ %spa ( ).
++ ( ).
+U ja'al ix koti tom.
+ = ( ).
+ %spa ( ).
++ ana rie.
+M atun juchi'.
+ = atun junchi'.
+ %spa eso es.
+A ( ).
+ = ( ).
+ %spa ( ).s
+V ilnab' tzuhun.
+ = ilnab' tzuntik.
+ %spa mira este.
+A k'un nhej tzin hixtej.
+ = k'un nhej tzin hixtej.
+ %spa no me doy cuenta mientras me estas engañando.
+V tzun.
+ = tzun.
+ %spa uno.
+M hin jun anh.
+ = in jun anhtik.
+ %spa aquí está uno.
+U umiga.
+ = ol hik'a.
+ %spa vas ha llevar.
++ ( ).
++ ruido.
+V kak'an.
+ = kak' an.
+ %spa jugamos pues.
++ ruido.
+U in bal yajkankot ch'ehan
+ = in wal yajk'i lochan.
+ %spa ( ).
+V kak ma.
+ = kak' ma.
+ %spa hagamos pues.
++ ruido.
